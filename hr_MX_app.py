@@ -24,7 +24,7 @@ Once the league is configured, in the second tab, we can see the teams in that l
 Once we choose the team, we can see the members of that team in the last tab.
 """
 
-league_id_from_name = {"Primeira Liga": 94, "Serie A": 135}
+league_id_from_name = {"Primeira Liga": 94}
 league, team, player = st.tabs(["Liga", "Equipo", "Jugador"])
 
 with league:
@@ -57,13 +57,6 @@ with league:
     weight_plot = hrp.make_weighted(weighted)
     st.plotly_chart(weight_plot, use_container_width=True)
 
-    st.subheader("Repositories involved")
-    """
-        - The repo to download data about weighted G and xG is [football](https://gitlab.com/nepito/football) (Python)
-        - The repo to calculate the pressure indeces is [pressure_index](https://github.com/niesfutbol/pressure_index) (R y Python)
-        - The repo to calculate the weighted G and xG is [calculator-trs](https://github.com/nepito/calculator-trs) (R)
-    """
-
 with team:
     st.subheader("Consistency in lineups")
     """
@@ -87,11 +80,6 @@ with team:
     hm_consistent = hrp.make_heat_map_of_consistent(data, team, color)
     st.altair_chart(hm_consistent)
 
-    st.subheader("Repositories involved")
-    """
-        - The repo to download data about consistency in lineups is [football](https://gitlab.com/nepito/football) (Python)
-        - The repo to calculate consistency in lineups is [consistent_lineup_setup](https://github.com/niesfutbol/consistent_lineup_setup) (Python)
-    """
 with player:
     st.subheader("Player performance graph")
     """
@@ -119,11 +107,6 @@ with player:
         team_logo=ac_milan_logo,
     )
     st.plotly_chart(pizza_plot, use_container_width=True)
-    st.subheader("Repositories involved")
-    """
-        - The repo to calculate the player's cluster is [cluster_players](https://github.com/niesfutbol/cluster_players) (R)
-        - The API for the player's percentiles is [players_api](http://104.248.109.197:6969/docs#/) (python)
-    """
 
 
 st.markdown("Made with 💖 by [nies.futbol](https://nies.futbol)")
