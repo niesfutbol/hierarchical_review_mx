@@ -1,5 +1,6 @@
 altair
+hierarchical-review-plots
 pandas
+Pillow
 plotly
 streamlit
-vega-datasets

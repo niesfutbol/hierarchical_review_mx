@@ -13,7 +13,7 @@ all: check coverage mutants
 		setup \
 		tests
 
-module = streamlit_nies
+module = hierarchical_review_mx
 codecov_token = ba9f5840-913c-4257-a2e9-a2ab4eca1082
 
 

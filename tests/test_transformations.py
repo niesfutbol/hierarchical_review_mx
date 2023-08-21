@@ -1,4 +1,4 @@
-import streamlit_nies as dt
+import hierarchical_review_mx as dt
 
 
 def test_add_offset():

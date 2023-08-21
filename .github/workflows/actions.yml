@@ -10,27 +10,27 @@ jobs:
     - name: Copia repositorio
       uses: actions/checkout@main
     - name: Construye imagen
-      run: docker build --tag nepolin/streamlit_nies:latest --tag nepolin/streamlit_nies:${GITHUB_SHA:0:4} .
+      run: docker build --tag nepolin/hierarchical_review_mx:latest --tag nepolin/hierarchical_review_mx:${GITHUB_SHA:0:4} .
     - name: Verifica el formato
-      run: docker run nepolin/streamlit_nies:latest make check
+      run: docker run nepolin/hierarchical_review_mx:latest make check
     - name: Corre pruebas y evalúa cobertura
-      run: docker run --volume $PWD:/workdir nepolin/streamlit_nies:latest make coverage
+      run: docker run --volume $PWD:/workdir nepolin/hierarchical_review_mx:latest make coverage
     - name: Upload coverage reports to Codecov with GitHub Action
       uses: codecov/codecov-action@v3
       with:
         files: ./coverage.xml
         verbose: true
     - name: Evalúa resistencia a mutaciones
-      run: docker run nepolin/streamlit_nies:latest make mutants
+      run: docker run nepolin/hierarchical_review_mx:latest make mutants
     - name: Docker log-in
       env:
         DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
       run: echo "${DOCKER_PASSWORD}" | docker login -u "${DOCKER_USERNAME}" --password-stdin
     - name: Sube latest a Docker Hub
-      run: docker push nepolin/streamlit_nies:latest
+      run: docker push nepolin/hierarchical_review_mx:latest
     - name: Sube sha a Docker Hub
-      run: docker push nepolin/streamlit_nies:${GITHUB_SHA:0:4}
+      run: docker push nepolin/hierarchical_review_mx:${GITHUB_SHA:0:4}
   build-n-publish:
     name: Build and publish Python 🐍 distributions 📦 to PyPI
     runs-on: ubuntu-latest

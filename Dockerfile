@@ -11,4 +11,4 @@ RUN pip install --upgrade pip && pip install \
     pytest-cov
 RUN pip3 install -r requirements.txt
 RUN make install
-EXPOSE 8501
+EXPOSE 8502
