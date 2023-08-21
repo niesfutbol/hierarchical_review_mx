@@ -1,0 +1,14 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+author = "NIES"
+author-email = "nepo@nies.futbol"
+classifiers = [ "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",]
+description-file = "README.md"
+home-page = "https://github.com/niesfutbol/streamlit_nies"
+module = "streamlit_nies"
+requires = [
+]
+requires-python=">=3.9"
