@@ -109,4 +109,4 @@ with player:
     st.plotly_chart(pizza_plot, use_container_width=True)
 
 
-st.markdown("Made with 💖 by [nies.futbol](https://nies.futbol)")
+st.markdown("Hecho con 💖 por [nies.futbol](https://nies.futbol)")
