@@ -1,2550 +1,2182 @@
-Player,Team,Minutes played
-J. Gvardiol,RB Leipzig,2208
-M. de Ligt,Bayern München,2281
-D. Upamecano,Bayern München,2384
-N. Schlotterbeck,Borussia Dortmund,2408
-N. Süle,Borussia Dortmund,1986
-E. N'Dicka,Eintracht Frankfurt,2601
-E. Tapsoba,Bayer Leverkusen,2796
-P. Hincapié,Bayer Leverkusen,2405
-O. Kossounou,Bayer Leverkusen,1641
-J. Tah,Bayer Leverkusen,2394
-M. Lacroix,Wolfsburg,1757
-N. Elvedi,Borussia M'gladbach,2769
-M. Ginter,Freiburg,2974
-P. Lienhart,Freiburg,2484
-M. van de Ven,Wolfsburg,2902
-Tuta,Eintracht Frankfurt,2625
-K. Mavropanos,Stuttgart,2357
-Diogo Leite,Union Berlin,2172
-K. Itakura,Borussia M'gladbach,1902
-D. Doekhi,Union Berlin,2095
-W. Orban,RB Leipzig,2862
-O. Kabak,Hoffenheim,2314
-F. Uduokhai,Augsburg,1439
-K. Jakić,Eintracht Frankfurt,1586
-S. Nsoki,Hoffenheim,1334
-S. Bornauw,Wolfsburg,1784
-T. Hübers,Köln,2456
-H. Ito,Stuttgart,2485
-P. Jaeckel,Union Berlin,1199
-M. Friedl,Werder Bremen,2515
-M. Hummels,Borussia Dortmund,1922
-A. Pieper,Werder Bremen,2125
-M. Jenz,Schalke 04,929
-N. Stark,Werder Bremen,1946
-M. Veljković,Werder Bremen,2177
-M. Friedrich,Borussia M'gladbach,1173
-E. Mašović,Bochum,2070
-R. Knoche,Union Berlin,2881
-L. Kilian,Köln,1196
-M. Kempf,Hertha BSC,2725
-A. Rogel,Hertha BSC,1369
-W. Anton,Stuttgart,2879
-K. Akpoguma,Hoffenheim,1937
-K. Vogt,Hoffenheim,1908
-A. Hanche-Olsen,Mainz 05,1445
-I. Ordets,Bochum,2340
-D. Zagadou,Stuttgart,1206
-J. Gouweleeuw,Augsburg,2726
-M. Bauer,Augsburg,1825
-C. Gruezo,SJ Earthquakes,1038
-Edimilson Fernandes,Mainz 05,2325
-J. Brooks,Hoffenheim,1172
-J. Guilavogui,Wolfsburg,1009
-S. Bell,Mainz 05,2318
-A. Hack,Mainz 05,1223
-J. Chabot,Köln,1641
-F. Uremović,Hertha BSC,1833
-M. Yoshida,Schalke 04,2719
-H. Matriciani,Schalke 04,1853
-M. Hasebe,Eintracht Frankfurt,1312
-J. Timber,Ajax,2991
-E. Álvarez,Ajax,2520
-D. Hancko,Feyenoord,2655
-J. Branthwaite,PSV,1895
-G. Trauner,Feyenoord,1734
-A. Obispo,PSV,1852
-M. Hilgers,Twente,2111
-André Ramalho,PSV,1755
-P. Chatzidiakos,AZ,2798
-M. Sagnan,Utrecht,1937
-S. Beukema,AZ,2118
-P. Bochniewicz,Heerenveen,2946
-N. Kasanwirjo,Feyenoord,1368
-P. Sandler,NEC,1463
-R. Flamingo,Vitesse,2602
-Rodrigo Guth,Fortuna Sittard,2968
-R. Pröpper,Twente,2474
-M. Meulensteen,Vitesse,2630
-M. Dekker,AZ,913
-M. van der Hoorn,Utrecht,2034
-X. Mbuyamba,Volendam,2418
-R. Balker,Groningen,2639
-Julio Pleguezuelo,Twente,1061
-S. van Beek,Heerenveen,1446
-S. Adewoye,RKC Waalwijk,2944
-Iván Márquez,NEC,2866
-C. Verdonk,NEC,1041
-José Fontán,Go Ahead Eagles,1198
-N. Viergever,Utrecht,1510
-J. van Aken,Heerenveen,1078
-M. Araujo,Emmen,2663
-Ximo Navarro,Fortuna Sittard,1293
-R. El Yaakoubi,Excelsior,2844
-J. Kramer,NEC,1042
-B. Benamar,Volendam,2115
-E. Cornelisse,Vitesse,1441
-P. Koopmeiners,Excelsior,1370
-J. Idzes,Go Ahead Eagles,2833
-L. Bergsma,Cambuur,1890
-M. Tol,Cambuur,1785
-D. Mirani,Volendam,2528
-D. Van den Buijs,RKC Waalwijk,1917
-J. Amofa,Go Ahead Eagles,2309
-G. Nauber,Go Ahead Eagles,1250
-M. te Wierik,Emmen,2343
-D. Abels,Sparta Rotterdam,1307
-J. Gaari,RKC Waalwijk,2885
-D. Siovas,Fortuna Sittard,1856
-M. van der Maarel,Utrecht,2185
-M. Eerdhuijzen,Sparta Rotterdam,1157
-B. Vriends,Sparta Rotterdam,2407
-N. Isimat-Mirin,Vitesse,945
-J. Dirksen,Emmen,1354
-S. Nieuwpoort,Excelsior,1672
-S. van Ottele,Heerenveen,1112
-J. Veldmate,Emmen,1995
-D. Schmidt,Cambuur,1663
-S. Seymor,Excelsior,1167
-A. Auassar,Sparta Rotterdam,1973
-T. Blokzijl,Groningen,1189
-F. Smand,Cambuur,1786
-M. Brasil,Cerro Largo,1817
-D. Campillo,Tapatío,2651
-J. Sánchez,Pumas UNAM,1535
-R. Martínez,Tapatío,2912
-D. Zamora,Celaya,3826
-L. Hernández,Dorados,2476
-H. Marín,Cancún,2791
-J. Portales,Atlante,3936
-M. Trejo,Atlético Morelia,2942
-S. Román,Real Oviedo Vetusta,1453
-L. López,Correcaminos UAT,2973
-J. García Sancho,Cimarrones de Sonora,2117
-E. Monreal,Pachuca Premier,1234
-Elbis,Atlante,2055
-S. Valencia,Pumas Tabasco,908
-S. Ceballos,Pumas Tabasco,2374
-G. Martínez,Tapatío,1428
-Omar Mireles,Mineros de Zacatecas,1601
-H. Torres,Mineros de Zacatecas,2933
-R. Noya,Venados,2608
-B. Vázquez,Tepatitlán de Morelos,2634
-J. Aguayo,Tapatío,1621
-J. Saavedra,Cimarrones de Sonora,3673
-V. Milke,Atlético Morelia,3383
-B. Galindo,Cancún,2783
-J. De Alba,Universidad Guadalajara,3601
-P. Santos,Tlaxcala,1800
-H. Muñoz,Dorados,2323
-C. Villanueva,Tepatitlán de Morelos,3030
-A. Mota,Universidad Guadalajara,1460
-D. Guillén,Raya2,2301
-G. Sánchez,Monterrey,1093
-Oscar Mazatán,Mineros de Zacatecas,1605
-B. Salazar,Tlaxcala,2194
-J. Reyes,Cimarrones de Sonora,2134
-M. Hernández,NA,1666
-A. Justo,CA La Paz,2384
-E. García,Cancún,1543
-A. Mendoza,Durango,1675
-O. León,Venados,1678
-E. Reyes,Alebrijes de Oaxaca,3256
-V. Torres,Correcaminos UAT,1817
-N. Topete,Celaya,1081
-A. Grijalva,Raya2,1043
-A. Ledesma,Atlético Morelia,3739
-F. Rabago,Universidad Guadalajara,1111
-R. Melgarejo,Celaya,1318
-K. Álvarez,CA La Paz,1146
-H. Aguayo,Cancún,1535
-L. Robles,Tepatitlán de Morelos,1733
-F. Santillán,Tlaxcala,2413
-J. Rodríguez,Cimarrones de Sonora,1610
-J. Ocon,Tepatitlán de Morelos,1137
-D. Escalante,Universidad Guadalajara,3207
-J. Barragán,Venados,1281
-A. Gutiérrez,Raya2,1340
-L. López,Celaya,3514
-A. Andrade,Necaxa,1617
-P. Ruiz,CA La Paz,2276
-A. Freyfeld,Pumas Tabasco,2237
-J. Esqueda,Alebrijes de Oaxaca,1724
-F. Agüero,CA La Paz,986
-A. Mendoza,Mineros de Zacatecas,1690
-O. Tirado,Dorados,2210
-J. Múñoz,Durango,2619
-E. Olaguez,Alebrijes de Oaxaca,2908
-J. Moreno,Raya2,1188
-U. Rivera,Tlaxcala,2109
-R. Araújo,Barcelona,1882
-Éder Militão,Real Madrid,2537
-Pau Torres,Villarreal,2948
-A. Rüdiger,Real Madrid,2354
-J. Giménez,Atlético Madrid,2246
-R. Le Normand,Real Sociedad,2659
-A. Christensen,Barcelona,1481
-David García,Osasuna,2509
-Íñigo Martínez,Athletic Bilbao,1447
-Mario Hermoso,Atlético Madrid,1818
-Luiz Felipe,Real Betis,1630
-Igor Zubeldía,Real Sociedad,2419
-Yeray Álvarez,Athletic Bilbao,2401
-Dani Vivian,Athletic Bilbao,2200
-Eric García,Barcelona,1353
-Édgar González,Real Betis,1673
-L. Badé,Sevilla,1275
-Marcos Alonso,Barcelona,1024
-T. Nianzou,Sevilla,1435
-Domingos Duarte,Getafe,2883
-C. Montes,Espanyol,1326
-S. Bueno,Girona,3053
-Alejandro Catena,Rayo Vallecano,2921
-M. Diakhaby,Valencia,2308
-J. Aidoo,Celta de Vigo,3098
-S. Savić,Atlético Madrid,2006
-Jon Pacheco,Real Sociedad,1075
-Djené,Getafe,2699
-Unai Núñez,Celta de Vigo,2948
-A. Witsel,Atlético Madrid,2020
-G. Álvarez,Getafe,1196
-G. Pezzella,Real Betis,2359
-M. Valjent,Mallorca,2412
-O. Alderete,Getafe,1757
-F. Lejeune,Rayo Vallecano,2621
-N. Gudelj,Sevilla,2744
-A. Mandi,Villarreal,1126
-E. Cömert,Valencia,1755
-S. Babić,Almería,2799
-M. Hongla,Real Valladolid,1142
-L. Cabrera,Espanyol,2534
-Antonio Raíllo,Mallorca,2929
-Víctor Chust,Cádiz,1066
-Rodrigo Ely,Almería,2962
-Joaquín Fernández,Real Valladolid,2239
-Javi Sánchez,Real Valladolid,2196
-José Copete,Mallorca,1939
-Raúl Albiol,Villarreal,2317
-Gabriel Paulista,Valencia,1285
-Fali,Cádiz,1740
-Unai García,Osasuna,1848
-E. Roco,Elche,1664
-Chumi,Almería,1634
-J. El Yamiq,Real Valladolid,1584
-S. Mitrović,Getafe,1370
-Sergi Gómez,Espanyol,2329
-Fernando Calero,Espanyol,1530
-David López,Girona,1464
-C. Özkacar,Valencia,1416
-M. Nastasić,Mallorca,988
-Diego González,Elche,1053
-Bernardo Espinosa,Girona,1161
-Juanpe,Girona,1459
-César de la Hoz,Almería,1614
-Pedro Bigas,Elche,1883
-Aridane Hernández,Osasuna,1461
-Luis Hernández,Cádiz,2992
-C. Montes,Espanyol,1077
-Samir,Tigres UANL,2126
-F. Torres,Santos Laguna,2701
-V. Guzmán,Monterrey,2934
-J. Escobar,Cruz Azul,2994
-S. Vegas,Monterrey,2053
-I. Reyes,América,3330
-A. Frías,León,1168
-Dória,Santos Laguna,1556
-L. Abram,Atlanta United,1277
-J. Orozco,Guadalajara,3031
-C. Salcedo,Juárez,3098
-S. Cáceres,América,2727
-I. Lichnovsky,Tigres UANL,2727
-L. Olivas,Guadalajara,1494
-N. Díaz,Club Tijuana,2956
-E. Gularte,Puebla,1765
-N. Araújo,América,2384
-G. Sepúlveda,Guadalajara,3312
-J. Barreiro,León,2867
-V. Huerta,Toluca,4136
-Unai Bilbao,Atlético de San Luis,1459
-N. Freire,Pumas UNAM,3180
-A. Peña,Necaxa,3473
-D. Reyes,Tigres UANL,2172
-G. Pizarro,Tigres UANL,3374
-M. Tapias,Minnesota United,1121
-F. Ambríz,León,2474
-H. Nervo,Atlas,3157
-A. Santamaría,Atlas,2067
-L. López,Club Tijuana,2488
-A. Mosquera,Toluca,3828
-H. Ortega,Toluca,1043
-L. León,Emelec,1357
-G. Silva,Puebla,3351
-A. Ortíz,Pumas UNAM,2138
-F. Formiliano,Necaxa,1295
-R. Funes Mori,Cruz Azul,2337
-E. Aguilera,Tigre,1140
-Lucas Maia,Puebla,1827
-D. De Buen,Puebla,3641
-H. Moreno,Monterrey,2369
-O. Murillo,Pachuca,1966
-M. Barbieri,Querétaro,1240
-K. Balanta,Querétaro,2237
-F. Almada,Mazatlán,1243
-J. Silva,Cruz Azul,1397
-J. Domínguez,Cruz Azul,3113
-G. Cabral,Pachuca,3674
-H. Rodríguez,Santos Laguna,2996
-R. Godínez,Club Tijuana,1282
-R. González,Atlético de San Luis,1191
-J. García,Atlético de San Luis,1120
-J. Segovia,Necaxa,2455
-N. Vidrio,Mazatlán,2533
-O. Alanís,Mazatlán,1913
-E. Martínez,Pachuca,1191
-J. Molina,Pumas UNAM,992
-J. Caicedo,Pumas UNAM U20,1119
-G. Aguirre,Atlas,1687
-J. Galindo,Pumas UNAM,1073
-R. Fernández,Querétaro,1546
-Alejandro Arribas,Juárez,2405
-J. Castillo,Pachuca,1486
-E. Orona,Mazatlán,1250
-P. Bellón,León,2046
-R. Guerrero,Cruz Azul,959
-Marquinhos,PSG,2593
-B. Badiashile,Chelsea,907
-J. Todibo,Nice,2764
-A. Disasi,Monaco,3189
-A. Theate,Rennes,3134
-C. Mbemba,Olympique Marseille,2732
-C. Lukeba,Olympique Lyonnais,2812
-Tiago Djaló,Lille,2145
-K. Danso,Lens,3287
-F. Medina,Lens,2688
-G. Maripán,Monaco,2126
-Danilo Pereira,PSG,2125
-L. Balerdi,Olympique Marseille,2474
-S. Gigot,Olympique Marseille,1975
-W. Omari,Rennes,1062
-J. Rodon,Rennes,1310
-A. Djiku,Strasbourg,2812
-A. Rouault,Toulouse,3274
-S. Diomandé,Olympique Lyonnais,1900
-G. Nyamsi,Strasbourg,1510
-C. Wooh,Rennes,1079
-Sergio Ramos,PSG,2403
-E. Agbadou,Reims,2317
-I. Touré,Auxerre,1390
-B. Chardonnet,Brest,2286
-M. Talbi,Lorient,3257
-M. Estève,Montpellier,1493
-R. Nicolaisen,Toulouse,2939
-J. Gradit,Lens,2627
-Andrei Girotto,Nantes,2954
-J. Castelletto,Nantes,2361
-L. Brassier,Brest,2930
-B. Kouyaté,Montpellier,1063
-J. Porozo,Troyes,1639
-L. Perrin,Strasbourg,1649
-C. Jullien,Montpellier,2702
-J. Laporte,Lorient,1639
-E. Palmer-Brown,Troyes,2920
-M. Wieteska,Clermont,3045
-I. Doukouré,Strasbourg,2088
-D. Lovren,Olympique Lyonnais,1510
-C. Hountondji,Angers SCO,3121
-Alexsandro,Lille,1441
-C. Hérelle,Brest,1147
-A. Dari,Brest,1420
-O. Gonzalez,Ajaccio,2483
-Y. Salmier,Troyes,2637
-Jubal,Auxerre,3039
-C. Vidal,Ajaccio,1658
-M. Blažič,Angers SCO,1886
-M. Caufriez,Clermont,2003
-B. Meïté,Lorient,1325
-M. Le Marchand,Strasbourg,1976
-N. Pallois,Nantes,2181
-Y. Abdelhamid,Reims,3289
-J. Jeanvier,Auxerre,1786
-Dante,Nice,3119
-José Fonte,Lille,2498
-F. Ogier,Clermont,1725
-A. Rami,Troyes,1400
-C. Avinel,Ajaccio,1756
-Rúben Dias,Manchester City,2073
-W. Fofana,Chelsea,1239
-C. Romero,Tottenham Hotspur,2494
-W. Saliba,Arsenal,2647
-L. Martínez,Manchester United,2276
-Gabriel Magalhaes,Arsenal,3450
-V. van Dijk,Liverpool,2894
-S. Botman,Newcastle United,3036
-R. Varane,Manchester United,1772
-B. Badiashile,Chelsea,910
-I. Konaté,Liverpool,1492
-N. Aké,Manchester City,1961
-M. Guéhi,Crystal Palace,3341
-T. Souček,West Ham United,2802
-N. Aguerd,West Ham United,1438
-J. Andersen,Crystal Palace,2739
-J. Gomez,Liverpool,1526
-M. Akanji,Manchester City,2333
-K. Zouma,West Ham United,2104
-K. Koulibaly,Chelsea,1976
-E. Dier,Tottenham Hotspur,3102
-T. Mings,Aston Villa,3194
-M. Kilman,Wolverhampton Wanderers,3457
-T. Chalobah,Chelsea,1450
-J. Tarkowski,Everton,3361
-E. Konsa,Aston Villa,3375
-N. Collins,Wolverhampton Wanderers,1808
-A. Webster,Brighton,2058
-W. Faes,Leicester City,2642
-A. Bella-Kotchap,Southampton,2027
-M. Salisu,Southampton,2156
-C. Coady,Everton,2140
-R. Koch,Leeds United,3190
-I. Diop,Fulham,1840
-L. Dunk,Brighton,3163
-M. Senesi,Bournemouth,2515
-J. Matip,Liverpool,1093
-L. Colwill,Brighton,918
-L. Kelly,Bournemouth,1932
-D. Amartey,Leicester City,1761
-H. Souttar,Leicester City,987
-T. Adarabioyo,Fulham,1904
-V. Lindelöf,Manchester United,1012
-D. Ćaleta-Car,Southampton,1052
-J. Bednarek,Southampton,1543
-E. Pinnock,Brentford,2692
-M. Wöber,Leeds United,1130
-C. Lenglet,Tottenham Hotspur,1905
-S. McKenna,Nottingham Forest,1707
-M. Keane,Everton,1022
-F. Schär,Newcastle United,3128
-J. Worrall,Nottingham Forest,2133
-C. Mepham,Bournemouth,2316
-L. Cooper,Leeds United,1479
-J. Stephens,Bournemouth,1349
-Lyanco,Southampton,974
-S. Cook,Nottingham Forest,1034
-Felipe,Nottingham Forest,1280
-Thiago Silva,Chelsea,2286
-C. Dawson,Wolverhampton Wanderers,2136
-B. Mee,Brentford,3313
-M. Zanka Jørgensen,Brentford,1121
-T. Ream,Fulham,3177
-A. Ogbonna,West Ham United,1060
-Gonçalo Inácio,Sporting CP,2613
-J. St. Juste,Sporting CP,1030
-S. Coates,Sporting CP,2799
-I. Bamba,Vitória Guimarães,2573
-André Amaro,Vitória Guimarães,2590
-Vitor Tormena,Sporting Braga,2594
-Fábio Cardoso,Porto,1363
-Paulo Oliveira,Sporting Braga,1636
-Tomás Araújo,Gil Vicente,2074
-S. Niakaté,Sporting Braga,2336
-N. Otamendi,Benfica,3026
-Lucas Cunha,Red Bull Bragantino,1495
-Filipe Relvas,Portimonense,3157
-Riccieli,Famalicão,2860
-E. Mihaj,Famalicão,2453
-Mikel Villanueva,Vitória Guimarães,2815
-Pedrão,Portimonense,2840
-Pepe,Porto,2208
-Bruno Wilson,Vizela,2264
-Ygor Nogueira,Santa Clara,1108
-Pedro Álvaro,Estoril,2837
-M. Ndiaye,Estoril,1568
-K. Boateng,Santa Clara,2548
-Bernardo Vital,Estoril,2506
-Anderson,Vizela,2970
-Ivanildo Fernandes,Vizela,1652
-J. Park,Portimonense,1314
-João Basso,Arouca,3106
-Nélson Monte,Chaves,2869
-R. Abascal,Boavista,2518
-E. Ferigra,Paços de Ferreira,1292
-Josué Sá,Rio Ave,1449
-João Nunes,Casa Pia AC,1816
-N. Galović,Arouca,1459
-J. Opoku,Arouca,2107
-Maracás,Paços de Ferreira,1566
-Patrick William,Rio Ave,2102
-Léo Andrade,Khimki,1276
-Adriano,Santa Clara,2376
-C. Tassano,Khimki,1162
-Matheus Costa,Marítimo,1242
-Iván Marcano,Porto,2400
-V. Sasso,Boavista,2153
-N. Zolotić,Casa Pia AC,2411
-Nuno Lima,Paços de Ferreira,2692
-R. Pantalon,Rio Ave,1979
-Carlos Ponck,Chaves,1973
-M. Tounkara,Vitória Guimarães,1172
-Ítalo,Santa Clara,1165
-Mexer,Estoril,1072
-Fernando Varela,Casa Pia AC,2213
-M. Mosquera,Marítimo,1772
-Renê,Marítimo,1175
-Aderllan Santos,Rio Ave,3104
-Zainadine Júnior,Marítimo,2328
-Rúben Fernandes,Gil Vicente,2420
-Steven Vitória,Chaves,2919
-Vasco Fernandes,Casa Pia AC,2718
-O. Diomandé,Sporting CP,952
-António Silva,Benfica,2931
-M. Škriniar,Internazionale,1900
-A. Bastoni,Internazionale,2074
-Min-Jae Kim,Napoli,3115
-F. Tomori,Milan,2646
-Bremer,Juventus,2564
-P. Kalulu,Milan,2712
-Ibañez,Roma,2915
-G. Scalvini,Atalanta,2130
-M. Demiral,Atalanta,1652
-A. Rrahmani,Napoli,2247
-J. Kiwior,Arsenal,1561
-P. Schuurs,Torino,2193
-N. Milenković,Fiorentina,2175
-G. Mancini,Roma,2937
-A. Romagnoli,Lazio,2790
-N. Casale,Lazio,2319
-M. Thiaw,Milan,1201
-B. Djimsiti,Atalanta,1573
-Danilo,Juventus,3162
-Igor,Fiorentina,1933
-Rodrigo Becão,Udinese,2515
-J. Bijol,Udinese,2563
-S. de Vrij,Internazionale,1832
-L. Martínez Quarta,Fiorentina,2123
-S. Posch,Bologna,2409
-C. Okoli,Atalanta,920
-E. Ampadu,Spezia,2467
-J. Lucumí,Bologna,2764
-F. Daniliuc,Salernitana,2041
-C. Smalling,Roma,2838
-N. Pérez,Udinese,2627
-F. Baschirotto,Lecce,3146
-Rafael Tolói,Atalanta,2596
-A. Buongiorno,Torino,2512
-Patric,Lazio,1438
-I. Hien,Hellas Verona,2364
-M. Erlić,Sassuolo,2135
-F. Gatti,Juventus,1200
-G. Ferrari,Sassuolo,2216
-S. Kjær,Milan,974
-Pablo Marí,Monza,2401
-E. Ebosse,Udinese,1031
-K. Günter,Sampdoria,1617
-Alex Sandro,Juventus,1864
-K. De Winter,Empoli,1120
-F. Acerbi,Internazionale,2376
-S. Umtiti,Lecce,1803
-D. Nikolaou,Spezia,2804
-Ruan,Sassuolo,1543
-J. Vásquez,Cremonese,1668
-A. Ismajli,Empoli,2024
-P. Dawidowicz,Hellas Verona,1628
-A. Soumaoro,Bologna,2022
-E. Aiwu,Cremonese,1698
-R. Rodríguez,Torino,2519
-O. Colley,Beşiktaş,1517
-L. Pirola,Salernitana,1663
-D. Bronn,Salernitana,1645
-S. Luperto,Empoli,2916
-D. Coppola,Hellas Verona,1181
-G. Magnani,Hellas Verona,1339
-K. Djidji,Torino,2409
-A. Izzo,Monza,2301
-B. Amione,Sampdoria,2043
-M. Caldara,Spezia,1373
-B. Nuytinck,Sampdoria,1735
-J. Murillo,Sampdoria,1151
-A. Ferrari,Cremonese,1866
-L. Lochoshvili,Cremonese,1775
-N. Gyömbér,Salernitana,1707
-L. Caldirola,Monza,2275
-M. Bianchetti,Cremonese,2120
-F. Fazio,Salernitana,1180
-J. Bellingham,Borussia Dortmund,2787
-J. Kimmich,Bayern München,2720
-B. Pavard,Bayern München,2301
-M. Koné,Borussia M'gladbach,2613
-D. Kamada,Eintracht Frankfurt,2136
-K. Laimer,RB Leipzig,1309
-M. Simakan,RB Leipzig,1317
-X. Schlager,RB Leipzig,1573
-D. Sow,Eintracht Frankfurt,2555
-R. Bensebaini,Borussia M'gladbach,2465
-A. Haidara,RB Leipzig,1342
-M. Arnold,Wolfsburg,2675
-S. Özcan,Borussia Dortmund,1638
-E. Palacios,Bayer Leverkusen,1483
-A. Stach,Mainz 05,1962
-J. Weigl,Borussia M'gladbach,1756
-B. Henrichs,RB Leipzig,2215
-E. Can,Borussia Dortmund,1766
-E. Skhiri,Köln,2772
-J. Scally,Borussia M'gladbach,2355
-K. Sildillia,Freiburg,2053
-R. Andrich,Bayer Leverkusen,2573
-L. Tousart,Hertha BSC,2877
-L. Barreiro,Mainz 05,2121
-K. Demirbay,Bayer Leverkusen,1450
-D. Geiger,Hoffenheim,2003
-M. Eggestein,Freiburg,2398
-R. Khedira,Union Berlin,2795
-G. Prömel,Hoffenheim,1271
-S. Serdar,Hertha BSC,1979
-W. Endo,Stuttgart,2870
-E. Martel,Köln,1908
-T. Krauß,Schalke 04,2554
-A. Král,Schalke 04,2270
-K. Kampl,RB Leipzig,1373
-A. Karazor,Stuttgart,1844
-I. Šunjić,Hertha BSC,1075
-D. Kohr,Mainz 05,2282
-M. Halstenberg,RB Leipzig,1497
-J. Kenny,Hertha BSC,2130
-J. Stage,Werder Bremen,1799
-A. Engels,Augsburg,1358
-E. Rexhbecaj,Augsburg,2515
-R. Gumny,Augsburg,2123
-I. Gruev,Werder Bremen,1504
-L. Kübler,Freiburg,1662
-F. Jensen,Augsburg,1015
-S. Rode,Eintracht Frankfurt,1343
-K. Stöger,Bochum,2520
-N. Schmidt,Werder Bremen,1096
-C. Brunner,Schalke 04,2229
-C. Kramer,Borussia M'gladbach,2287
-P. Förster,Bochum,1174
-N. Höfler,Freiburg,2807
-M. Pedersen,Augsburg,1741
-Danilo Soares,Bochum,1875
-P. Osterhage,Bochum,1077
-M. Plattenhardt,Hertha BSC,2448
-J. Boëtius,Hertha BSC,1021
-G. Haraguchi,Stuttgart,1327
-K. Stafylidis,Bochum,1089
-A. Jung,Werder Bremen,2566
-S. Janko,Bochum,943
-C. Gamboa,Bochum,1553
-C. Groß,Werder Bremen,1932
-A. Losilla,Bochum,2611
-I. Sangaré,PSV,2222
-O. Kökçü,Feyenoord,2608
-C. Bassey,Ajax,1981
-L. Geertruida,Feyenoord,2488
-J. Veerman,PSV,2391
-K. Taylor,Ajax,2425
-Q. Timber,Feyenoord,1572
-É. Gutiérrez,PSV,1603
-M. Wieffer,Feyenoord,1624
-R. Zerrouki,Twente,2737
-D. Blind,Ajax,1034
-D. de Wit,AZ,1194
-C. Bozdogan,Utrecht,1407
-J. Kitolano,Sparta Rotterdam,2724
-J. Clasie,AZ,2841
-K. Bistrović,Fortuna Sittard,1230
-C. Eiting,Volendam,2999
-J. Hove,Groningen,1325
-D. Proper,NEC,2760
-T. Haye,Heerenveen,2622
-A. Verschueren,Sparta Rotterdam,2424
-S. Tronstad,Vitesse,1983
-L. Brouwers,Utrecht,1813
-L. Duarte,Groningen,1693
-S. Olsson,Heerenveen,2150
-M. Kjølø,Twente,1078
-D. Erdoğan,Fortuna Sittard,1547
-J. Toornstra,Utrecht,2376
-A. Tahiri,Heerenveen,2494
-M. Hoedemakers,Cambuur,2100
-G. Cox,Fortuna Sittard,2150
-P. Rommens,Go Ahead Eagles,2391
-D. Duarte,Fortuna Sittard,1401
-L. Bernadou,Emmen,1913
-S. Sambo,Sparta Rotterdam,2260
-D. van Kaam,Cambuur,2277
-J. Lelieveld,RKC Waalwijk,2649
-A. Ferati,Fortuna Sittard,1491
-L. van Gelderen,Groningen,1145
-E. Linthorst,Go Ahead Eagles,1571
-J. Jacobs,Cambuur,1497
-J. Baas,Excelsior,2405
-S. van Wermeskerken,Cambuur,1647
-T. Lutonda,RKC Waalwijk,2408
-R. Oratmangoen,Groningen,1182
-E. Llansana,Go Ahead Eagles,1186
-M. Paulissen,Cambuur,1992
-N. Tjoe-A-On,Excelsior,2235
-S. Horemans,Excelsior,2892
-J. Vlak,Emmen,1663
-C. Twigt,Volendam,1133
-K. Veendorp,Emmen,2913
-J. Pelupessy,Groningen,1432
-B. Plat,Volendam,2377
-V. Anita,RKC Waalwijk,2731
-L. Schöne,NEC,2827
-J. de Guzmán,Sparta Rotterdam,1295
-L. Burnet,Emmen,1311
-J. van Mullem,Sparta Rotterdam,1069
-J. Plascencia,Mineros de Zacatecas,2669
-J. Venegas,Toluca,1913
-H. Meza,Mineros de Zacatecas,2221
-J. Cortés,Alebrijes de Oaxaca,3041
-J. Hernández,Universidad Guadalajara,3422
-I. Tona,Raya2,1532
-E. Martínez,Pumas Tabasco,2475
-B. Figueroa,Pumas Tabasco,2589
-A. Hernández,Dorados,1666
-A. Nava,Dorados,2360
-M. Pérez,Cancún,2103
-G. Moreno,Correcaminos UAT,3221
-J. González,Universidad Guadalajara,3275
-A. Domínguez,Celaya,3645
-J. Angulo,Atlante,1695
-A. Arellano,Cimarrones de Sonora,3106
-M. Reyna,Venados,1026
-U. Zurita,CA La Paz,1597
-D. Gallegos,Pumas Tabasco,1140
-J. Vega,Venados,2907
-I. Acero,Tepatitlán de Morelos,2272
-R. Peña,Celaya,3372
-D. Guajardo,Tapatío,1820
-Ó. Macías,Tapatío,2872
-K. Lara,Pumas Tabasco,2022
-J. Sánchez,Correcaminos UAT,2392
-S. Villarreal,Raya2,2979
-R. Mendoza,CA La Paz,1011
-L. Oropeza,Pumas Tabasco,1137
-J. Lugo,Dorados,1707
-G. Eguade,Cancún,1824
-A. Luna,Venados,3108
-M. Rodríguez,Correcaminos UAT,1355
-Á. Zapata,Monterrey,2869
-Gilberto García,Tapatío,1441
-A. Organista,Tapatío,1210
-R. Torres,Atlético Morelia,1369
-L. Gamíz,Dorados,1742
-D. García,Universidad Guadalajara,1016
-E. Del Ángel,Celaya,1555
-J. Hernández,Tlaxcala,2215
-L. Márquez,Tepatitlán de Morelos,1062
-A. Mejía,Dorados,3322
-E. Cerna,Durango,3211
-J. Hernández,Durango,2820
-J. Cobián,Durango,1143
-K. Amador,Venados,2400
-A. Catalán,Venados,1156
-A. Zamora,Tepatitlán de Morelos,1767
-E. Santos,Alebrijes de Oaxaca,1742
-A. Escobar,Atlante,1742
-A. Soto,Tlaxcala,1721
-E. Mendoza,Tlaxcala,1432
-E. Fernández,Venados,1080
-C. Guerrero,Alebrijes de Oaxaca,1320
-F. Tede Pérez,Correcaminos UAT,1562
-F. Reyes,Atlante,3244
-E. Martínez,Raya2,1522
-J. Rangel,Tlaxcala,1722
-A. Martín,CA La Paz,1772
-N. Cardozo,Venados,1454
-A. López,Durango,1024
-M. Lozano,Tlaxcala,1411
-J. Casillas,Raya2,1139
-E. Franco,NA,1230
-M. Reyes,Cancún,1019
-M. Arreola,Alebrijes de Oaxaca,2883
-L. Gutiérrez,CA La Paz,1388
-C. Castillo,Dorados,2021
-Junior Moreira,Cancún,2091
-Jonathan Tovar,Durango,1622
-M. García,Venados,2244
-A. Bravo,Tepatitlán de Morelos,1126
-F. Morales,Alebrijes de Oaxaca II,1855
-A. Carreón,Universidad Guadalajara,2358
-E. Carballo,Raya2,1425
-O. Soto,Atlante,1314
-S. Rodríguez,Raya2,2779
-M. Chávez,Tapatío,1625
-D. Zago,Tlaxcala,1793
-J. Zamudio,Tlaxcala,1880
-J. Ruiz,Atlético Morelia,1599
-B. Navarro,Cimarrones de Sonora,1641
-A. Tchouaméni,Real Madrid,1939
-F. de Jong,Barcelona,2237
-J. Koundé,Barcelona,2277
-E. Camavinga,Real Madrid,1869
-D. Alaba,Real Madrid,1804
-Mikel Merino,Real Sociedad,2320
-R. de Paul,Atlético Madrid,1742
-Martín Zubimendi,Real Sociedad,2936
-F. Mendy,Real Madrid,1228
-Brais Méndez,Real Sociedad,2375
-G. Rodríguez,Real Betis,2632
-Reinildo Mandava,Atlético Madrid,2019
-J. Foyth,Villarreal,1859
-Hugo Guillamón,Valencia,1799
-G. Kondogbia,Atlético Madrid,1103
-T. Kroos,Real Madrid,1931
-Koke,Atlético Madrid,2245
-William Carvalho,Real Betis,2347
-Fran Beltrán,Celta de Vigo,2851
-Aritz Elustondo,Real Sociedad,1398
-M. Arambarri,Getafe,966
-Joan Jordán,Sevilla,1684
-Jon Moncayola,Osasuna,2291
-Dani Ceballos,Real Madrid,1372
-Aleix García,Girona,2478
-L. Modrić,Real Madrid,1634
-Carles Aleñà,Getafe,2005
-E. Lamela,Sevilla,1611
-P. Gueye,Sevilla,961
-Nico González,Valencia,1146
-Óscar Rodríguez,Celta de Vigo,1565
-Moi Gómez,Osasuna,2598
-N. Maksimović,Getafe,1732
-R. Tapia,Celta de Vigo,1288
-L. Robertone,Almería,2625
-Vinicius Souza,Espanyol,2521
-Dani Parejo,Villarreal,3185
-Lucas Torró,Osasuna,2190
-Nacho Fernández,Real Madrid,1485
-Ilaix Moriba,Valencia,1099
-Luis Milla,Getafe,1866
-Nacho Vidal,Osasuna,1368
-Samú Costa,Almería,1874
-Monchu,Real Valladolid,1967
-Mikel Vesga,Athletic Bilbao,2459
-Oriol Romeu,Girona,2880
-Santi Comesaña,Rayo Vallecano,2192
-Álex Fernández,Cádiz,1745
-Sergio Busquets,Barcelona,2240
-José Ángel Carmona,Elche,1193
-Gonzalo Melero,Almería,1669
-I. Rakitić,Sevilla,1719
-K. Rekik,Sevilla,911
-Unai López,Rayo Vallecano,1290
-Óscar Valentín,Rayo Vallecano,2398
-P. Ciss,Rayo Vallecano,1368
-Omar Mascarell,Elche,2679
-Gerard Gumbau,Elche,2468
-Raúl Guti,Elche,1167
-Álvaro Aguado,Real Valladolid,1763
-Óscar Gil,Espanyol,2370
-I. Baba,Mallorca,1498
-Fernando,Sevilla,1623
-Ó. Trejo,Rayo Vallecano,2101
-E. Capoue,Villarreal,1844
-Roque Mesa,Real Valladolid,1491
-Javi Hernández,Girona,1131
-Juan Cruz,Osasuna,2119
-G. González,Mallorca,961
-Iñigo Ruiz de Galarreta,Mallorca,2476
-Asier Illarramendi,Real Sociedad,990
-Dani García,Athletic Bilbao,1428
-Rubén Alcaraz,Cádiz,2009
-Fede San Emeterio,Cádiz,1731
-Sergio Escudero,Real Valladolid,1362
-Aleix Vidal,Espanyol,1086
-Ángel Algobia,Getafe,1214
-A. Guardado,Real Betis,1346
-Iza Carcelén,Cádiz,1955
-H. Palacios,Elche,1999
-Iñigo Eguaras,Almería,1028
-Pablo Ibáñez,Osasuna,1007
-Gavi,Barcelona,2393
-L. Chávez,Pachuca,3793
-E. Sánchez,Pachuca,3861
-L. Romo,Monterrey,3286
-Álvaro Fidalgo,América,3285
-R. Sánchez,América,2576
-C. Baeza,Toluca,3110
-A. Cervantes,Santos Laguna,2677
-M. Ruiz,Toluca,3233
-E. Lira,Cruz Azul,3174
-Á. Márquez,Atlas,1876
-P. Aquino,América,1188
-A. Rocha,Atlas,2074
-S. Medina,Monterrey,3150
-L. Romero,León,1214
-O. Rodríguez,León,2816
-M. Kranevitter,River Plate,1016
-Rodrigo Dourado,Atlético de San Luis,2414
-J. Sanabria,Atlético de San Luis,2554
-A. Oliveros,Necaxa,3350
-J. Rodríguez,León,2182
-J. Intriago,Mazatlán,2550
-J. Salas,Juárez,2343
-J. Esquivel,Necaxa,2972
-Rafael Carioca,Tigres UANL,2386
-S. Flores,Guadalajara,1229
-J. Sierra,Juárez,2359
-L. Reyes,Atlas,2778
-E. Zaldívar,Atlas,1896
-L. López,Club Tijuana,1512
-R. Chávez,Atlético de San Luis,3119
-Higor Meritão,Pumas UNAM,1843
-R. González,Guadalajara,1809
-F. Lértora,Club Tijuana,2963
-A. Araos,Necaxa,1097
-C. Vargas,Cruz Azul,1032
-I. Govea,Club Tijuana,2552
-J. Güemez,Atlético de San Luis,2714
-B. Angulo,Toluca,2770
-C. Ortiz,Monterrey,2760
-C. Rivera,Querétaro,2115
-R. Meráz,Mazatlán,2510
-A. Mayorga,Guadalajara,902
-J. Van Rankin,Necaxa,1596
-A. López,Santos Laguna,1533
-B. Colula,Mazatlán,2137
-A. Cruz,Atlético de San Luis,1419
-M. García,Belgrano,955
-F. Mancuello,Puebla,3461
-U. García,Atlético de San Luis,1222
-P. Bennevendo,Pumas UNAM,2280
-V. Poggi,Necaxa,922
-F. Madrigal,Necaxa,2438
-I. Luna,Pachuca,1159
-J. Padilla,Mazatlán,1293
-A. Iniestra,Atlético de San Luis,952
-J. Vázquez,Club Tijuana,1828
-J. Díaz,Club Tijuana,1572
-A. Aldrete,Pumas UNAM,1588
-C. Guzmán,Querétaro,1361
-K. Escamilla,Querétaro,2279
-R. Baca,Cruz Azul,1156
-Dani Alves,NA,1215
-O. Mendoza,Querétaro,2232
-J. Perlaza,Querétaro,1005
-R. Monreal,Necaxa,992
-J. Hernández,Querétaro,1389
-L. Montes,Everton,956
-F. Venegas,Mazatlán,1168
-A. Acosta,Juárez,1025
-E. Martínez,Puebla,1400
-P. Monroy,Pumas UNAM U20,966
-A. Montaño,Mazatlán,1289
-D. García,Juárez,1064
-M. Verratti,PSG,1902
-Vitinha,PSG,2268
-Fabián Ruiz,PSG,1767
-M. Camara,Monaco,2147
-M. Caqueret,Olympique Lyonnais,2555
-Y. Fofana,Monaco,2921
-N. Mukiele,PSG,1218
-V. Rongier,Olympique Marseille,2950
-B. Santamaria,Rennes,1560
-E. Le Fée,Lorient,2814
-André Gomes,Lille,1776
-J. Veretout,Olympique Marseille,2672
-C. Tolisso,Olympique Lyonnais,1803
-S. Abdul Samed,Lens,2716
-Angel Gomes,Lille,2664
-T. Savanier,Montpellier,2463
-B. André,Lille,2721
-J. Makengo,Lorient,920
-J. Lepenant,Olympique Lyonnais,2007
-J. Chotard,Montpellier,2251
-B. van den Boomen,Toulouse,2954
-I. Sissoko,Strasbourg,1117
-L. Ugochukwu,Rennes,1399
-B. Diakité,Lille,2436
-H. Boudaoui,Nice,1655
-F. Tait,Rennes,1753
-P. Rosario,Nice,1611
-L. Agoumé,Troyes,1093
-E. Matazo,Monaco,1070
-Pedro Chirivella,Nantes,1997
-A. Matusiwa,Reims,2377
-Thiago Mendes,Olympique Lyonnais,2085
-N. Cozza,Wolfsburg,1389
-A. Gravillon,Torino,1119
-R. Kouamé,Troyes,2438
-M. Munetsi,Reims,2507
-S. Kolašinac,Olympique Marseille,2064
-A. Seidu,Clermont,2246
-G. Kalulu,Lorient,2295
-J. Ferri,Montpellier,2626
-N. Bentaleb,Angers SCO,2447
-J. Cajuste,Reims,1349
-S. Moutoussamy,Nantes,2164
-P. Lees-Melou,Brest,2570
-F. Sacko,Montpellier,2452
-S. Spierings,Toulouse,3078
-M. Sissoko,Nantes,1945
-S. Prcić,Strasbourg,1706
-D. Lopy,Reims,1411
-M. Haïdara,Lens,1663
-J. Aholou,Strasbourg,1394
-B. Locko,Brest,1424
-L. Abergel,Lorient,2100
-H. Belkebla,Brest,2493
-M. Camara,Brest,1815
-V. Marchetti,Ajaccio,2372
-B. Mendy,Angers SCO,2670
-F. Tardieu,Troyes,1079
-H. Sakhi,Auxerre,1719
-Y. Magnin,Clermont,2405
-B. Innocent,Lorient,1151
-G. Suazo,Toulouse,1078
-X. Chavalerin,Troyes,2123
-H. Magnetti,Brest,1674
-B. Dejaegere,Toulouse,1778
-I. Diallo,Ajaccio,2187
-B. Touré,Auxerre,3224
-R. Raveloson,Auxerre,2217
-K. Lala,Brest,1119
-V. Le Goff,Lorient,3160
-L. Leroy,Montpellier,1192
-N. Fadiga,Brest,1401
-M. Gonalons,Clermont,1338
-Y. M'Changama,Auxerre,1072
-J. Gastien,Clermont,2396
-M. Diarra,Toulouse,1243
-T. Mangani,Ajaccio,1351
-M. Barreto,Ajaccio,1079
-A. Bamba,Angers SCO,1091
-P. Capelle,Angers SCO,1380
-M. Alphonse,Ajaccio,1410
-M. Coutadeur,Ajaccio,1825
-E. Fernández,Chelsea,1303
-Rodri,Manchester City,2947
-D. Rice,West Ham United,3233
-Bruno Guimarães,Newcastle United,2581
-M. Caicedo,Brighton,2889
-Casemiro,Manchester United,1830
-Fabinho,Liverpool,2649
-P. Højbjerg,Tottenham Hotspur,3338
-A. Onana,Everton,2466
-R. Bentancur,Tottenham Hotspur,1617
-Marc Cucurella,Chelsea,1812
-M. Kovačić,Chelsea,1807
-Rúben Neves,Wolverhampton Wanderers,3061
-O. Zinchenko,Arsenal,2284
-J. Ward-Prowse,Southampton,3317
-T. Partey,Arsenal,2500
-Douglas Luiz,Aston Villa,2932
-João Palhinha,Fulham,3012
-L. Shaw,Manchester United,2412
-Jorginho,Arsenal,2101
-C. Gallagher,Chelsea,1486
-W. Ndidi,Leicester City,1631
-Y. Tielemans,Leicester City,2173
-J. Stones,Manchester City,1882
-C. Doucouré,Crystal Palace,2704
-T. Castagne,Leicester City,3159
-T. Mitchell,Crystal Palace,2850
-J.  McGinn,Aston Villa,2656
-J. Justin,Leicester City,1349
-S. McTominay,Manchester United,1226
-R. Lavia,Southampton,2076
-K. Dewsbury-Hall,Leicester City,2407
-Y. Bissouma,Tottenham Hotspur,920
-B. Kamara,Aston Villa,1723
-C. Eriksen,Manchester United,1806
-S. Longstaff,Newcastle United,2684
-V. Mykolenko,Everton,2819
-T. Malacia,Manchester United,1278
-A. Wan-Bissaka,Manchester United,1174
-W. McKennie,Leeds United,1307
-T. Adams,Leeds United,2365
-Renan Lodi,Nottingham Forest,2073
-B. Soumaré,Leicester City,1399
-P. Struijk,Leeds United,2271
-B. Davies,Tottenham Hotspur,2231
-Fred,Manchester United,1293
-A. Hickey,Brentford,1813
-Thiago Alcântara,Liverpool,1371
-T. Kehrer,West Ham United,2179
-Jonny Otto,Wolverhampton Wanderers,1376
-L. Dendoncker,Aston Villa,1029
-V. Janelt,Brentford,2130
-J. Lerma,Bournemouth,3255
-M. Damsgaard,Brentford,914
-K. Walker,Manchester City,1737
-Marc Roca,Leeds United,2498
-R. Kristensen,Leeds United,1861
-O. Skipp,Tottenham Hotspur,1376
-H. Reed,Fulham,2786
-C. Nørgaard,Brentford,1919
-J. Lingard,Nottingham Forest,1005
-O. Mangala,Nottingham Forest,1310
-J. Firpo,Leeds United,1358
-D. Burn,Newcastle United,3094
-L. Cook,Bournemouth,1803
-J. Henderson,Liverpool,2069
-R. Freuler,Nottingham Forest,2328
-L. Thomas,Leicester City,932
-J. Veltman,Brighton,2226
-M. Lemina,Wolverhampton Wanderers,1218
-I. Diallo,Southampton,920
-A. Maitland-Niles,Southampton,1358
-César Azpilicueta,Chelsea,1397
-R. Yates,Nottingham Forest,1642
-I. Gueye,Everton,2436
-J. Schlupp,Crystal Palace,2701
-S. Aurier,Nottingham Forest,1763
-J. Rothwell,Bournemouth,1018
-H. Toffolo,Nottingham Forest,984
-C. Kouyaté,Nottingham Forest,904
-N. Clyne,Crystal Palace,1781
-M. Roerslev,Brentford,1234
-J. Ward,Crystal Palace,2177
-João Moutinho,Wolverhampton Wanderers,1944
-A. Smith,Bournemouth,3020
-S. Coleman,Everton,1794
-A. Young,Aston Villa,2125
-E. Fernández,Chelsea,1482
-Otávio,Porto,2469
-M. Ugarte,Sporting CP,2540
-Florentino Luís,Benfica,2298
-F. Aursnes,Benfica,2354
-Ali Al Musrati,Sporting Braga,2510
-H. Morita,Sporting CP,2132
-M. Uribe,Porto,2697
-Stephen Eustáquio,Porto,1836
-M. Grujić,Porto,1252
-Matheus Reis,Sporting CP,2492
-U. Račić,Sporting Braga,1249
-Chiquinho,Benfica,1515
-André Horta,Sporting Braga,2200
-R. Cannon,Boavista,2551
-Gustavo Assunção,Famalicão,1095
-Alexandre Penetra,Famalicão,2760
-S. Colombatto,Famalicão,2838
-Z. Youssouf,Famalicão,2305
-João Carvalho,Estoril,2477
-G. Makouta,Boavista,3008
-Guga,Rio Ave,3163
-K. Misao,Santa Clara,1172
-Vitor Carvalho,Gil Vicente,2950
-Tiago Silva,Vitória Guimarães,2254
-S. Pérez,Boavista,2630
-L. Rosier,Estoril,1231
-Samu,Vizela,2922
-Victor Bobsin,Santa Clara,1788
-T. Kunimoto,Casa Pia AC,1363
-Zé Carlos,Vitória Guimarães,957
-Dani Silva,Vitória Guimarães,1826
-Afonso Freitas,Vitória Guimarães,2101
-Miguel Baeza,Rio Ave,1188
-André André,Vitória Guimarães,1482
-G. Aburjania,Gil Vicente,1797
-A. Méndez,Vizela,1604
-Raphael Guzzo,Vizela,2576
-Francisco Geraldes,Estoril,1996
-A. Ruiz,Arouca,2685
-Tiago Esgaio,Arouca,2511
-M. Sylla,Arouca,2510
-Rui Pires,Paços de Ferreira,2611
-Kiki,Vizela,2442
-Afonso Taira,Casa Pia AC,2232
-I. Camará,Boavista,1150
-Bruno Lourenço,Boavista,2024
-B. Mukendi,Casa Pia AC,1005
-B. Milovanov,Arouca,1078
-João Gamboa,Estoril,1120
-Oriol Busquets,Arouca,1303
-Paulo Estrela,Portimonense,1648
-I. Soro,Arouca,1611
-S. Beltrame,Marítimo,1172
-Diogo Mendes,Marítimo,1369
-J. Holsgrove,Paços de Ferreira,1947
-MT,Santa Clara,1238
-Val,Marítimo,1327
-Paulo Henrique,Santa Clara,1563
-M. Diaby,Portimonense,1557
-Ricardo Guima,Chaves,2176
-A. Samaris,Rio Ave,1518
-João Afonso,Marítimo,1622
-Maurício,Portimonense,1078
-David Simão,Arouca,2765
-Ângelo Neto,Casa Pia AC,1659
-Claudemir,Vizela,1484
-Rúben Lima,Famalicão,1303
-Luiz Carlos,Paços de Ferreira,1223
-S. Milinković-Savić,Lazio,2864
-S. Tonali,Milan,2590
-I. Bennacer,Milan,2179
-S. Lobotka,Napoli,2930
-H. Çalhanoğlu,Internazionale,2371
-A. Rabiot,Juventus,2573
-M. Locatelli,Juventus,2357
-T. Koopmeiners,Atalanta,2682
-M. Brozović,Internazionale,1601
-S. Amrabat,Fiorentina,2040
-W. McKennie,Juventus,1120
-B. Cristante,Roma,2968
-Éderson,Atalanta,2104
-N. Fagioli,Juventus,1569
-N. Domínguez,Bologna,2131
-M. López,Sassuolo,2081
-S. Ricci,Torino,1847
-I. Ilić,Torino,1810
-M. Pessina,Monza,2759
-S. Lukić,Fulham,1297
-L. Paredes,Juventus,909
-M. Hjulmand,Lecce,2902
-H. Winks,Sampdoria,1467
-M. de Roon,Atalanta,2806
-N. Rovella,Monza,1641
-R. Krunić,Milan,1543
-R. Mandragora,Fiorentina,1893
-J. Schouten,Bologna,2360
-Matheus Henrique,Sassuolo,1725
-R. Marin,Empoli,2558
-Mário Rui,Napoli,1769
-A. Tamèze,Hellas Verona,2831
-S. Sensi,Monza,1594
-A. Marušić,Lazio,2952
-Marlon,Monza,1482
-D. Cataldi,Lazio,2009
-Walace,Udinese,2999
-N. Moro,Bologna,1147
-H. Hateboer,Atalanta,1484
-A. Duncan,Fiorentina,920
-M. Vecino,Lazio,1580
-Y. Maleh,Lecce,1012
-J. Toljan,Sassuolo,2521
-L. Coulibaly,Salernitana,2676
-N. Matić,Roma,1972
-E. Hysaj,Lazio,1840
-M. Darmian,Internazionale,2051
-O. Duda,Hellas Verona,1062
-V. Gendrey,Lecce,2896
-S. Meïté,Cremonese,2155
-C. Pickel,Cremonese,2369
-K. Amian,Spezia,2288
-D. Faraoni,Hellas Verona,1280
-K. Linetty,Torino,1979
-T. Vilhena,Salernitana,2143
-L. Henderson,Empoli,901
-F. Ceccherini,Hellas Verona,1396
-A. Sabiri,Sampdoria,1176
-Ronaldo Vieira,Torino,924
-P. Stojanović,Empoli,1560
-N. Haas,Empoli,1154
-T. Ebuehi,Empoli,1712
-A. Blin,Lecce,2093
-M. Benassi,Cremonese,1111
-José Machin,Monza,1211
-J. Akpa Akpro,Empoli,1142
-G. Kastanos,Salernitana,1073
-M. Bourabia,Spezia,2671
-G. Medel,Bologna,1488
-A. Ekdal,Spezia,1628
-T. Rincón,Sampdoria,2333
-M. Castagnetti,Cremonese,1340
-Joan Gonzàlez,Lecce,2245
-C. Nkunku,RB Leipzig,1732
-R. Kolo Muani,Eintracht Frankfurt,2526
-S. Mané,Bayern München,1489
-M. Thuram,Borussia M'gladbach,2515
-P. Schick,Bayer Leverkusen,1019
-Y. Moukoko,Borussia Dortmund,1167
-S. Haller,Borussia Dortmund,1021
-André Silva,RB Leipzig,1766
-G. Rutter,Leeds United,1079
-C. Baumgartner,Hoffenheim,2519
-R. Borré,Eintracht Frankfurt,1160
-A. Adli,Bayer Leverkusen,1348
-A. Hložek,Bayer Leverkusen,1340
-L. Nmecha,Wolfsburg,972
-J. Wind,Wolfsburg,1152
-E. Demirović,Augsburg,2248
-M. Berisha,Augsburg,1696
-N. Füllkrug,Werder Bremen,2479
-Silas,Stuttgart,1895
-S. Guirassy,Stuttgart,1477
-J. Kamiński,Wolfsburg,1939
-L. Ajorque,Mainz 05,1189
-J. Siebatcheu,Union Berlin,1398
-M. Reus,Borussia Dortmund,1354
-M. Gregoritsch,Freiburg,2180
-Tiago Tomás,Stuttgart,1234
-I. Bebou,Hoffenheim,1224
-M. Ducksch,Werder Bremen,2775
-D. Beljo,Augsburg,990
-E. Choupo-Moting,Bayern München,1148
-Omar Marmoush,Wolfsburg,1519
-L. Höler,Freiburg,1306
-M. Ingvartsen,Mainz 05,1254
-T. Asano,Bochum,1564
-M. Dabbur,Hoffenheim,926
-S. Tigges,Köln,1560
-K. Onisiwo,Mainz 05,2427
-W. Kanga,Hertha BSC,1513
-P. Hofmann,Bochum,2520
-F. Niederlechner,Hertha BSC,1671
-D. Selke,Köln,1126
-K. Behrens,Union Berlin,1401
-S. Zoller,Bochum,1508
-S. Terodde,Schalke 04,1907
-M. Kudus,Ajax,1656
-B. Brobbey,Ajax,1583
-D. Klaassen,Ajax,2125
-V. Pavlidis,AZ,1743
-S. Giménez,Feyenoord,1809
-R. Pepi,Groningen,2423
-G. Til,PSV,1715
-A. Douvikas,Utrecht,2070
-J. Odgaard,AZ,2186
-Danilo,Feyenoord,1392
-L. de Jong,PSV,1610
-S. van Hooijdonk,Heerenveen,2489
-B. Białek,Vitesse,1402
-G. Vidović,Vitesse,1274
-L. Dimata,NEC,2215
-T. Lauritsen,Sparta Rotterdam,2875
-B. Dost,Utrecht,1504
-Julen Lobete,RKC Waalwijk,1255
-P. van Amersfoort,Heerenveen,1209
-S. van de Streek,Utrecht,2132
-B. Yılmaz,Fortuna Sittard,2434
-S. Steijn,Twente,1239
-R. van Wolfswinkel,Twente,2669
-O. Romeny,Emmen,2430
-I. Lidberg,Go Ahead Eagles,2699
-Rui Mendes,Emmen,1505
-G. Oristanio,Volendam,1808
-M. Mattsson,NEC,1666
-R. Uldriķis,Cambuur,1211
-R. Mühren,Volendam,1795
-B. Johnsen,Cambuur,911
-F. Jozefzoon,RKC Waalwijk,904
-H. Veerman,Volendam,1355
-F. Stokkers,Go Ahead Eagles,1305
-P. Gladon,Fortuna Sittard,1251
-R. Kharchouch,Excelsior,1244
-R. Živković,Emmen,2294
-M. Kramer,RKC Waalwijk,1892
-M. van Duinen,Excelsior,1011
-A. Sarr,Olympique Lyonnais,1755
-D. Lajud,Atlante,3293
-J. Zúñiga,Querétaro,1542
-R. Marín,Celaya,3813
-M. Pérez,Venados,1687
-J. Maleck,Tepatitlán de Morelos,1164
-A. González,Alebrijes de Oaxaca,2993
-J. González,Guadalajara,1413
-Á. Robles,Puebla,1362
-L. Razo,Mineros de Zacatecas,2524
-B. Mendoza,Atlético Morelia,2511
-O. Villa,Xelajú,1770
-S. Lora,Venados,2775
-A. Sayago,Raya2,2125
-A. Escoto,Celaya,1241
-D. Jiménez,Cimarrones de Sonora,2971
-E. Herrera,Universitario,1015
-J. Salas,CA La Paz,1052
-J. López,Durango,1692
-S. Martinez,Tepatitlán de Morelos,1706
-A. Ávila,Raya2,1765
-R. Durán,Pumas Tabasco,1374
-D. Delgadillo,Santa Lucía,988
-J. Machado,Pumas Tabasco,2086
-U. Jaimes,CA La Paz,1705
-W. Guzmán,Durango,3221
-É. Rivera,Tepatitlán de Morelos,2149
-M. Zúñiga,Correcaminos UAT,937
-D. López,Atlante,1002
-J. López,Cimarrones de Sonora,1366
-A. Sánchez,Cancún,1276
-D. Pineda,Correcaminos UAT,1432
-K. Chaurand,Mineros de Zacatecas,1421
-L. Loroña,Cancún,2343
-L. Pérez,Atlético Morelia,2455
-J. Cruz,Alebrijes de Oaxaca,982
-I. Márquez,Tepatitlán de Morelos,1586
-J. Hernández,Universidad Guadalajara,1195
-V. Moragrega,CA La Paz,976
-M. Caraglio,Venados,997
-Y. Espinosa,Tlaxcala,1149
-B. Rosas,NA,1352
-D. González,Lazio,1588
-J. González,Pumas Tabasco,1119
-K. Calderon,Dorados,1029
-B. Gambarte,Tepatitlán de Morelos,1206
-L. Martínez,Universidad Guadalajara,1313
-I. Hernández,Tlaxcala,1322
-J. Flores,Atlético Morelia,1030
-Ansu Fati,Barcelona,1331
-Mikel Oyarzabal,Real Sociedad,1087
-R. Lewandowski,Barcelona,2589
-Á. Correa,Atlético Madrid,1334
-Gerard Moreno,Villarreal,1185
-Álvaro Morata,Atlético Madrid,1885
-E. Ünal,Getafe,3100
-Borja Iglesias,Real Betis,2210
-V. Tsygankov,Girona,1111
-V. Muriqi,Mallorca,2709
-Luiz Henrique,Real Betis,1816
-Y. En-Nesyri,Sevilla,1722
-N. Jackson,Villarreal,1291
-A. Sørloth,Real Sociedad,2155
-L. Ocampos,Sevilla,1174
-J. Strand Larsen,Celta de Vigo,1593
-E. Touré,Almería,1245
-Rafa Mir,Sevilla,1053
-V. Castellanos,Girona,2523
-Sergio Camello,Rayo Vallecano,2386
-L. Suárez,Almería,1386
-L. Ramazani,Almería,1486
-Borja Mayoral,Getafe,2833
-C. Larin,Real Valladolid,1137
-Javi Puado,Espanyol,2093
-L. Boyé,Elche,2311
-Nico Melamed,Espanyol,997
-Joselu,Espanyol,2893
-Ayoze Pérez,Real Betis,1041
-A. Budimir,Osasuna,1638
-M. Braithwaite,Espanyol,2405
-Hugo Duro,Valencia,1436
-E. Cavani,Valencia,1472
-José Luis Morales,Villarreal,1381
-E. Ponce,Elche,1246
-Choco Lozano,Cádiz,1410
-Roger Martí,Cádiz,1330
-Raúl García,Athletic Bilbao,1050
-Sergi Guardiola,Cádiz,1443
-Sergio León,Real Valladolid,1339
-C. Stuani,Girona,1075
-A. Ndiaye,Mallorca,1140
-Gorka Guruzeta,Athletic Bilbao,1304
-Rubén Sobrino,Cádiz,2229
-Kike García,Osasuna,1112
-Valery Fernández,Girona,978
-N. Ibáñez,Tigres UANL,3033
-J. Rodríguez,América,2711
-H. Martín,América,3151
-J. Quiñones,Atlas,3281
-G. Berterame,Monterrey,2929
-H. Preciado,Santos Laguna,2986
-R. Aguirre,Monterrey,2441
-J. Dinenno,Pumas UNAM,3084
-R. Funes Mori,Monterrey,2136
-C. González,Toluca,2979
-M. Estrada,Cruz Azul,1083
-E. Aguirre,Santos Laguna,1408
-L. Di Yorio,León,2916
-J. Correa,Santos Laguna,2202
-F. Batista,Necaxa,2018
-M. Giménez,Banfield,1720
-J. Murillo,Atlético de San Luis,2489
-G. Fernández,Juárez,2809
-J. Herrera,Atlas,2403
-A. Canelo,Club Tijuana,3177
-A. Gignac,Tigres UANL,3169
-A. Hernández,Peñarol,1367
-M. Barragán,Puebla,2704
-J. Furch,Atlas,2025
-Á. Zaldívar,Atlético de San Luis,1638
-R. Cisneros,Guadalajara,946
-C. Tabó,Cruz Azul,925
-Diogo,Pumas UNAM,1915
-Camilo Sanvezzo,Toluca,1522
-L. Sequeira,Real Oviedo,1075
-Léo Bonatini,Atlético de San Luis,1003
-A. Sepúlveda,Querétaro,2206
-T. Molina,Juárez,927
-Edgar Méndez,Necaxa,1830
-E. López,Toluca,1648
-G. Carneiro,Cruz Azul,1291
-D. Álvarez,Puebla,919
-J. Zúñiga,Querétaro,1111
-M. Silvera,Necaxa,1109
-R. de La Rosa,Pachuca,1815
-B. Rubio,León,1240
-M. Sansores,Mazatlán,920
-A. Nahuelpán,Mazatlán,1505
-J. David,Lille,2984
-M. Terrier,Rennes,1387
-A. Gouiri,Rennes,2531
-A. Kalimuendo,Rennes,1899
-F. Balogun,Reims,2814
-H. Ekitike,PSG,952
-E. Wahi,Montpellier,2451
-B. Embolo,Monaco,1895
-W. Ben Yedder,Monaco,1986
-T. Moffi,Nice,2452
-L. Openda,Lens,2334
-M. Dembélé,Olympique Lyonnais,942
-G. Laborde,Nice,2536
-H. Diallo,Strasbourg,2738
-A. Delort,Nantes,1330
-A. Lacazette,Olympique Lyonnais,2735
-Mama Baldé,Troyes,2512
-B. Dieng,Lorient,1007
-S. Mavididi,Montpellier,1162
-T. Dallinga,Toulouse,2214
-A. Sima,Angers SCO,1587
-Mostafa Mohamed,Nantes,1937
-S. Mounié,Brest,1385
-M. Abline,Auxerre,952
-I. Ganago,Nantes,1537
-I. Koné,Lorient,1357
-I. Niane,Angers SCO,974
-R. Ripart,Troyes,1414
-W. Khazri,Montpellier,1636
-M. Niang,Auxerre,1511
-J. Le Douaron,Brest,1872
-A. Hunou,Angers SCO,2188
-K. Andrić,Clermont,1496
-G. Kyei,Clermont,2047
-M. El Idrissy,Ajaccio,2501
-I. Slimani,Brest,1046
-K. Gameiro,Strasbourg,2161
-A. Onaiwu,Toulouse,1087
-Nuno Da Costa,Auxerre,1808
-K. Spadanuda,Ajaccio,1016
-A. Salama,Angers SCO,1329
-E. Haaland,Manchester City,2798
-H. Kane,Tottenham Hotspur,3437
-M. Rashford,Manchester United,2840
-Gabriel Jesus,Arsenal,1938
-D. Núñez,Liverpool,1840
-K. Havertz,Chelsea,2555
-C. Gakpo,Liverpool,1322
-Heung-Min Son,Tottenham Hotspur,2844
-Diogo Jota,Liverpool,1088
-Richarlison,Tottenham Hotspur,1033
-I. Toney,Brentford,3246
-J. Álvarez,Manchester City,1283
-A. Isak,Newcastle United,1276
-A. Gordon,Newcastle United,1649
-J. Bowen,West Ham United,3270
-H. Barnes,Leicester City,2636
-O. Watkins,Aston Villa,3138
-B. Aaronson,Leeds United,2481
-Matheus Cunha,Wolverhampton Wanderers,964
-A. Mitrović,Fulham,1966
-G. Scamacca,West Ham United,1004
-D. Calvert-Lewin,Everton,1061
-E. Nketiah,Arsenal,1212
-C. Adams,Southampton,2107
-B. Johnson,Nottingham Forest,2956
-T. Awoniyi,Nottingham Forest,1170
-P. Daka,Leicester City,1231
-D. Solanke,Bournemouth,2795
-C. Wilson,Newcastle United,1761
-K. Iheanacho,Leicester City,1138
-O. Édouard,Crystal Palace,1768
-D. Ings,West Ham United,1545
-J. Aribo,Southampton,1245
-Y. Wissa,Brentford,1537
-N. Maupay,Everton,1170
-D. James,Fulham,917
-A. Armstrong,Southampton,1417
-C. Summerville,Leeds United,1570
-Hee-Chan Hwang,Wolverhampton Wanderers,1046
-C. Wood,Nottingham Forest,923
-P. Bamford,Leeds United,1517
-Rodrigo,Leeds United,1820
-M. Antonio,West Ham United,1811
-D. Welbeck,Brighton,1784
-J. Ayew,Crystal Palace,2641
-Carlos Vinícius,Fulham,1098
-K. Moore,Bournemouth,1323
-J. Vardy,Leicester City,1781
-Diego Costa,Wolverhampton Wanderers,1232
-T. Walcott,Southampton,935
-D. Ouattara,Bournemouth,1129
-Gonçalo Ramos,Benfica,2405
-Vitinha,Olympique Marseille,1209
-M. Taremi,Porto,2805
-Paulinho,Sporting CP,1491
-Fran Navarro,Gil Vicente,3324
-Abel Ruiz,Sporting Braga,2230
-S. Banza,Sporting Braga,1624
-Toni Martínez,Porto,1297
-A. Yakubu,Wuhan Three Towns,1370
-Gabriel Silva,Santa Clara,2408
-André Silva,Vitória Guimarães,1900
-Oday Dabbagh,Arouca,1028
-J. Cádiz,Famalicão,1475
-M. Osmajić,Vizela,2219
-Matheus Babi,Santa Clara,1492
-Anderson Silva,Vitória Guimarães,1521
-Y. Njie,Boavista,2305
-A. Dobre,Famalicão,1018
-Rildo,Santa Clara,949
-R. Boženík,Boavista,1064
-Pablo Moreno,Marítimo,984
-Nélson Luz,Vitória Guimarães,1340
-Welinton Júnior,Portimonense,2241
-J. Tagueu,Al Hazem,1161
-K. Zohi,Vizela,1039
-K. Tagawa,Santa Clara,1325
-Héctor Hernández,Chaves,1616
-Y. González,Portimonense,1060
-B. Riascos,Marítimo,974
-E. Boateng,Rio Ave,2035
-Clayton Silva,Casa Pia AC,1331
-Rafa Mújica,Arouca,1755
-A. Issah,Chaves,1513
-B. Róchez,Portimonense,1006
-Juninho,Chaves,1948
-Yago Cariello,Portimonense,1521
-Alisson Safira,Vitória Guimarães,943
-Antony,Arouca,2561
-Adrián Butzke,Paços de Ferreira,1483
-L. Ruiz,Rio Ave,1082
-André Pereira,Rio Ave,1093
-Rafael Martins,Casa Pia AC,1533
-Cassiano,Estoril,988
-Y. Chermiti,Sporting CP,946
-Evanilson,Porto,1458
-V. Osimhen,Napoli,2400
-L. Martínez,Internazionale,2575
-D. Vlahović,Juventus,1918
-T. Abraham,Roma,2297
-R. Lukaku,Internazionale,1421
-R. Højlund,Atalanta,1659
-N. González,Fiorentina,1397
-C. De Ketelaere,Milan,1184
-M. Pašalić,Atalanta,1622
-M. Kean,Juventus,948
-N. Vlašić,Torino,2574
-C. Immobile,Lazio,2001
-A. Pinamonti,Sassuolo,2025
-J. Ikoné,Fiorentina,1927
-B. Dia,Salernitana,2408
-J. Correa,Internazionale,926
-Arthur Cabral,Fiorentina,1477
-Beto,Udinese,2109
-C. Kouamé,Fiorentina,1749
-D. Zapata,Atalanta,1415
-A. Milik,Juventus,1455
-A. Petagna,Monza,1515
-L. Jović,Fiorentina,1543
-A. Belotti,Roma,994
-K. Piątek,Salernitana,1888
-M. Satriano,Empoli,1799
-D. Origi,Milan,1040
-M. Arnautović,Bologna,1335
-E. Shomurodov,Spezia,960
-A. Sanabria,Torino,2214
-M. Nzola,Spezia,2483
-C. Dessers,Cremonese,1713
-Dany Mota,Monza,1732
-F. Bonazzoli,Salernitana,1221
-L. Colombo,Lecce,1437
-D. Okereke,Cremonese,2165
-T. Henry,Hellas Verona,1098
-I. Success,Udinese,1944
-E. Džeko,Internazionale,1836
-O. Giroud,Milan,2000
-A. Ceesay,Lecce,1671
-M. Gabbiadini,Sampdoria,2105
-E. Gyasi,Spezia,2621
-S. Lammers,Sampdoria,2069
-K. Lasagna,Hellas Verona,1704
-G. Defrel,Sassuolo,1062
-F. Caputo,Empoli,2717
-F. Tsadjout,Cremonese,927
-M. Đurić,Hellas Verona,1094
-D. Ciofani,Cremonese,976
-J. Musiala,Bayern München,2126
-F. Wirtz,Bayer Leverkusen,960
-A. Davies,Bayern München,2164
-L. Sané,Bayern München,1928
-L. Goretzka,Bayern München,1704
-K. Coman,Bayern München,1257
-S. Gnabry,Bayern München,1827
-M. Diaby,Bayer Leverkusen,2582
-Dani Olmo,RB Leipzig,1185
-D. Szoboszlai,RB Leipzig,2375
-J. Brandt,Borussia Dortmund,2302
-J. Frimpong,Bayer Leverkusen,2572
-K. Adeyemi,Borussia Dortmund,1240
-J. Lindstrøm,Eintracht Frankfurt,1668
-T. Werner,RB Leipzig,1886
-D. Raum,RB Leipzig,1765
-Raphaël Guerreiro,Borussia Dortmund,2230
-T. Müller,Bayern München,1509
-D. Malen,Borussia Dortmund,1559
-F. Neuhaus,Borussia M'gladbach,1345
-B. Sosa,Stuttgart,1921
-S. Becker,Union Berlin,2380
-R. Doan,Freiburg,2264
-M. Svanberg,Wolfsburg,1847
-Angeliño,Hoffenheim,2557
-J. Hofmann,Borussia M'gladbach,2561
-M. Götze,Eintracht Frankfurt,2619
-R. Baku,Wolfsburg,2490
-V. Grifo,Freiburg,2230
-D. Lukébakio,Hertha BSC,2387
-P. Wimmer,Wolfsburg,1524
-N. Ahamada,Crystal Palace,1486
-D. Ljubičić,Köln,1593
-A. Pléa,Borussia M'gladbach,1866
-C. Günter,Freiburg,2827
-A. Knauff,Eintracht Frankfurt,1346
-J. Ryerson,Borussia Dortmund,2352
-M. Bakker,Bayer Leverkusen,1533
-E. Forsberg,RB Leipzig,1408
-A. Kramarić,Hoffenheim,2286
-R. Skov,Hoffenheim,1367
-J. Juranović,Union Berlin,975
-M. Wolf,Borussia Dortmund,1449
-A. Caci,Mainz 05,1992
-F. Nmecha,Wolfsburg,1735
-C. Ejuke,Hertha BSC,919
-J. Dina Ebimbe,Eintracht Frankfurt,1096
-Aarón Martín,Mainz 05,1822
-J. Haberer,Union Berlin,2062
-Y. Gerhardt,Wolfsburg,1782
-Paulo Otávio,Wolfsburg,2180
-N. Amiri,Bayer Leverkusen,951
-M. Richter,Hertha BSC,1719
-Aurélio Buta,Eintracht Frankfurt,1148
-R. Vargas,Augsburg,1159
-Iago,Augsburg,1734
-M. Weiser,Werder Bremen,2563
-A. Maier,Augsburg,1940
-S. Widmer,Mainz 05,1807
-J. Vagnoman,Stuttgart,1356
-C. Lenz,Eintracht Frankfurt,1200
-L. Maina,Köln,2108
-R. Schmid,Werder Bremen,1407
-P. Kadeřábek,Hoffenheim,1818
-F. Kainz,Köln,2237
-Jae-Sung Lee,Mainz 05,1857
-C. Führich,Stuttgart,1870
-G. Holtmann,Bochum,976
-J. Hector,Köln,2739
-L. Bittencourt,Werder Bremen,1487
-R. Zalazar,Schalke 04,1273
-B. Schmitz,Köln,2425
-M. Bülter,Schalke 04,2644
-T. Ouwejan,Schalke 04,944
-L. Stindl,Borussia M'gladbach,1690
-E. Millot,Stuttgart,940
-D. da Costa,Mainz 05,1146
-N. Gießelmann,Union Berlin,1400
-C. Antwi-Adjei,Bochum,1845
-K. Schindler,Köln,1088
-D. Drexler,Schalke 04,1325
-C. Trimmel,Union Berlin,1685
-C. Gakpo,Liverpool,1206
-Xavi Simons,PSV,2706
-S. Bergwijn,Ajax,2205
-J. Karlsson,AZ,1659
-S. Berghuis,Ajax,2239
-S. Szymański,Feyenoord,1882
-M. Kerkez,AZ,2554
-O.  Wijndal,Ajax,1199
-J. Bakayoko,PSV,1409
-A. El Ghazi,PSV,1084
-D. Rensch,Ajax,1869
-T. Reijnders,AZ,3014
-K. Kozłowski,Vitesse,1973
-D. Tadić,Ajax,2911
-M. Pedersen,Feyenoord,2202
-P. Max,Eintracht Frankfurt,1080
-T. Booth,Utrecht,1581
-J. Teze,PSV,2121
-J. Sánchez,Ajax,1208
-Y. Sugawara,AZ,2357
-Igor Paixão,Feyenoord,1179
-J. Dilrosun,Feyenoord,1938
-M. van Ewijk,Heerenveen,3015
-O. Idrissi,Feyenoord,1344
-V. Černý,Twente,2258
-G. Smal,Twente,2923
-O. Sahraoui,Heerenveen,905
-S. Mijnans,AZ,2634
-P. van Aanholt,PSV,1026
-P. Mwene,PSV,1602
-A. Jahanbakhsh,Feyenoord,1207
-J. Brenet,Twente,2432
-S. Klaiber,Utrecht,2176
-M. Bero,Vitesse,2810
-Iñigo Córdoba,Fortuna Sittard,2185
-T. Suslov,Groningen,2041
-M. van Brederode,AZ,1097
-M. Wittek,Vitesse,2631
-V. Misidjan,Twente,2078
-M. Vlap,Twente,2163
-M. Manhoef,Vitesse,2206
-C. Arcus,Vitesse,2545
-E. Tavsan,NEC,2536
-V. van Crooij,Sparta Rotterdam,2802
-Úmaro Embaló,Fortuna Sittard,1346
-M. Azarkan,Excelsior,1648
-M. Diemers,Emmen,2645
-O. Boussaid,Utrecht,1991
-K. Saito,Sparta Rotterdam,1488
-M. Köhlert,Heerenveen,2588
-Y. Namli,Sparta Rotterdam,1299
-M. Seuntjens,RKC Waalwijk,2591
-F. Krüger,Groningen,1148
-O. Özyakup,Fortuna Sittard,1666
-O. Tannane,NEC,2011
-S. El Karouani,NEC,2808
-B. van Rooij,NEC,2931
-A. Bangura,Cambuur,2451
-K. Goudmijn,Excelsior,2694
-W. Willumsson,Go Ahead Eagles,2070
-S. van der Water,Cambuur,1188
-Mica Pinto,Sparta Rotterdam,2865
-R. Vita,Fortuna Sittard,1166
-O. Edvardsen,Go Ahead Eagles,1927
-B. Adekanye,Go Ahead Eagles,1989
-M. Duelund,NEC,1010
-D. Murkin,Volendam,2813
-P. Clement,RKC Waalwijk,2309
-L. Lamprou,Excelsior,1423
-B. Kuipers,Go Ahead Eagles,1797
-A. El Messaoudi,Emmen,1419
-I. Määttä,Groningen,2644
-I. Bel Hassani,RKC Waalwijk,1395
-N. Foor,Cambuur,1050
-D. van Mieghem,Volendam,1822
-Ivo Pinto,Fortuna Sittard,2210
-M. Bouchouari,Emmen,1745
-M. Deijl,Go Ahead Eagles,2759
-M. Breij,Cambuur,1414
-Y. Oukili,RKC Waalwijk,1719
-T. Noslin,Fortuna Sittard,1486
-C. Driouech,Excelsior,2244
-R. Balk,Cambuur,1135
-B. Ould-Chikh,Volendam,1023
-I. Cissoko,NEC,925
-Q. Hartman,Feyenoord,1525
-L. Valente,Groningen,932
-S. Pérez Bouquet,Guadalajara,1412
-E. Partida,Necaxa,1924
-J. Domínguez,Necaxa,1866
-O. Islas,Atlético Morelia,2635
-S. Vergara,Curicó Unido,1602
-J. Peralta,Cimarrones de Sonora,3613
-C. Acosta,Celaya,3107
-H. Mascorro,Pumas Tabasco,1867
-E. Torres,Cimarrones de Sonora,3490
-M. Vallejo,Universidad Guadalajara,3533
-M. Rodríguez,Raya2,1656
-R. González,Atlético Morelia,1341
-E. Alaffita,Pumas UNAM,1504
-J. Clemente,Mineros de Zacatecas,2867
-D. Rosales,Pumas Tabasco,2736
-J. Rodríguez,Mineros de Zacatecas,1749
-A. Tamay,Cancún,2578
-J. Rodríguez,Durango,3130
-C. González,Tepatitlán de Morelos,3067
-A. Zamorano,Correcaminos UAT,2268
-G. Hernández,Correcaminos UAT,2871
-E. Jaramillo,Universidad Guadalajara,2411
-J. Henestrosa,Universidad Guadalajara,2692
-F. Ramírez,Atlante,2377
-R. González,Atlante,3019
-U. Torres,Cimarrones de Sonora,3120
-Á. López,Venados,2165
-C. Canozales,Alebrijes de Oaxaca,2697
-C. Bermúdez,Atlante,2991
-J. Celaya,Celaya,2013
-J. Alonzo,Cancún,2350
-A. Tecpanécatl,Tepatitlán de Morelos,2542
-J. Gómez,Alebrijes de Oaxaca,2850
-D. Amador,Correcaminos UAT,2125
-D. Magaña,Tapatío,1967
-J. Vega,Mineros de Zacatecas,1622
-J. Pineda,Correcaminos UAT,3217
-W. Rentería,Universidad Guadalajara,2767
-D. Aguilar,Celaya,3221
-J. Vega,Dorados,1948
-M. Pérez,Venados,917
-D. Parra,Atlético Morelia,1650
-J. Pérez,CA La Paz,1377
-K. Magaña,Mineros de Zacatecas,1220
-D. Hernández,Cancún,1840
-M. Galván,Universidad Guadalajara,1983
-M. Gómez,Tapatío,2447
-J. Ochoa,CA La Paz,1045
-A. Villalobos,Universidad Guadalajara,1519
-L. Morales,CA La Paz,1924
-O. Botello,Monterrey U20,1412
-H. Sandoval,CA La Paz,1950
-N. Gómez,CA La Paz,1883
-M. Benítez,CA La Paz,2494
-F. Escalante,Durango,1598
-C. Rosel,Venados,1425
-O. De La Cruz,Tepatitlán de Morelos,2209
-J. Brigido,Tapatío,2445
-D. Cruz,Tlaxcala,1692
-D. Cisneros,Cimarrones de Sonora,1360
-J. Gurrola,Cimarrones de Sonora,1089
-J. Ibarra,Atlético Morelia,1838
-M. Velázquez,Atlante,2962
-J. Reyes,Raya2,2166
-J. Uchuari,Atlético Morelia,1363
-G. Vázquez,Dorados,1076
-V. López,Raya2,2415
-J. Martínez,Atlante,3236
-C. Engelhart,Tapatío,1579
-F. Acuña,Cimarrones de Sonora,2388
-W. Ortega,Cancún,2294
-D. Navarro,Durango,2770
-K. Hernández,Atlético Morelia,971
-F. Monarrez,Chihuahua FC,1005
-E. Reyes,Chihuahua FC,929
-C. Sánchez,Mineros de Zacatecas,1456
-J. Jiménez,Mineros de Zacatecas,3008
-D. Osuna,Dorados,1482
-C. Traore,Cancún,1279
-Aldo Serna,Tlaxcala,1553
-H. Vázquez,Cimarrones de Sonora II,1618
-Vinícius Júnior,Real Madrid,2805
-Pedri,Barcelona,2033
-F. Valverde,Real Madrid,2481
-Rodrygo,Real Madrid,2253
-O. Dembélé,Barcelona,1255
-Raphinha,Barcelona,1927
-Yéremi Pino,Villarreal,2144
-Marcos Llorente,Atlético Madrid,1830
-José Gayá,Valencia,2484
-K. Benzema,Real Madrid,1922
-N. Fekir,Real Betis,1058
-Ferrán Torres,Barcelona,1379
-Oihan Sancet,Athletic Bilbao,2296
-Gabri Veiga,Celta de Vigo,1994
-F. Kessié,Barcelona,905
-A. Griezmann,Atlético Madrid,2610
-Y. Carrasco,Atlético Madrid,2093
-T. Lemar,Atlético Madrid,1275
-Marco Asensio,Real Madrid,1371
-Nico Williams,Athletic Bilbao,2539
-Iñaki Williams,Athletic Bilbao,2589
-N. Molina,Atlético Madrid,2611
-Y. Musah,Valencia,2248
-Á. Lopera,Aston Villa,1491
-Sergio Canales,Real Betis,2137
-S. Chukwueze,Villarreal,2246
-Álex Baena,Villarreal,1833
-G. Lo Celso,Villarreal,1032
-Sergi Darder,Espanyol,3168
-Samuel Lino,Valencia,2848
-Arnau Martínez,Girona,2502
-Kang-In Lee,Mallorca,2677
-Daniel Carvajal,Real Madrid,1722
-T. Kubo,Real Sociedad,2221
-Álex Berenguer,Athletic Bilbao,2093
-Alfonso Pedraza,Villarreal,1543
-André Almeida,Valencia,2278
-Iker Muniain,Athletic Bilbao,1542
-J. Kluivert,Valencia,1218
-Alex Telles,Sevilla,1277
-M. Acuña,Sevilla,1867
-G. Montiel,Sevilla,1370
-Thierry Correia,Valencia,1937
-Javi Galán,Celta de Vigo,3040
-Andoni Gorosabel,Real Sociedad,1501
-Rodrigo Riquelme,Girona,2135
-Isi Palazón,Rayo Vallecano,2723
-Fran García,Rayo Vallecano,3255
-Manu Sánchez,Osasuna,1831
-E. Ávila,Osasuna,1629
-Sergio Akieme,Almería,2393
-Lucas Vázquez,Real Madrid,978
-Óliver Torres,Sevilla,2043
-Miguel Gutiérrez,Girona,2212
-Ez Abde,Osasuna,1278
-Rodri Sánchez,Real Betis,1512
-Samu Castillejo,Valencia,1463
-Pablo Maffeo,Mallorca,2773
-Suso,Sevilla,1053
-Iago Aspas,Celta de Vigo,3003
-Sergi Roberto,Barcelona,1157
-Brian Oliván,Espanyol,2180
-Edu Expósito,Espanyol,1173
-Aihen Muñoz,Real Sociedad,1623
-Álvaro García,Rayo Vallecano,2624
-Aimar Oroz,Osasuna,1662
-Rubén García,Osasuna,1060
-G. Plata,Real Valladolid,2067
-Jordi Alba,Barcelona,1313
-Y. Sabaly,Real Betis,1501
-Aitor Ruibal,Real Betis,1469
-Juan Miranda,Real Betis,1294
-J. Mojica,Villarreal,1005
-Carles Pérez,Celta de Vigo,1822
-Portu,Getafe,1697
-Kike Pérez,Real Valladolid,2282
-Munir El Haddadi,Getafe,1177
-David Silva,Real Sociedad,1930
-Yan Couto,Girona,1071
-Iván Balliu,Rayo Vallecano,3075
-Alberto Moreno,Villarreal,1195
-T. Bongonda,Cádiz,1736
-A. Espino,Cádiz,2967
-Hugo Mallo,Celta de Vigo,2066
-Juan Iglesias,Getafe,2085
-Óscar Mingueza,Celta de Vigo,1248
-Pere Milla,Elche,1921
-Adri Embarba,Almería,1306
-Alejandro Pozo,Almería,1597
-Óscar Plano,Real Valladolid,1989
-Diego Rico,Real Sociedad,1595
-Íñigo Lekue,Athletic Bilbao,1356
-Jesús Navas,Sevilla,1992
-D. Foulquier,Valencia,1723
-F. Cervi,Celta de Vigo,1892
-L. de la Torre,Celta de Vigo,1330
-Kike Barja,Osasuna,1167
-Toni Villa,Girona,1114
-Kiko Femenía,Villarreal,1069
-Tete Morente,Elche,1788
-H. Mendes,Almería,953
-L. Olaza,Real Valladolid,1336
-Toni Lato,Valencia,928
-Rubén Peña,Osasuna,922
-B. Ocampo,Cádiz,1204
-D. Brašanac,Osasuna,1148
-Yuri Berchiche,Athletic Bilbao,2114
-Carlos Clerc,Elche,2463
-Léo Baptistão,Almería,1751
-Antonio Sánchez,Mallorca,1121
-Óscar de Marcos,Athletic Bilbao,2611
-Luis Pérez,Real Valladolid,1266
-D. Suárez,Getafe,1740
-Ramón Terrats,Villarreal B,920
-Jaume Costa,Mallorca,2501
-Dani Rodríguez,Mallorca,1894
-Iván Alejo,Cádiz,1267
-Fidel,Elche,1436
-Iván Martín,Girona,1416
-Iván Sánchez,Real Valladolid,1182
-Rubén Sánchez,Espanyol,984
-Alejandro Balde,Barcelona,2357
-Iván Fresneda,Real Valladolid,1770
-F. Gorriarán,Tigres UANL,2889
-A. Vega,Guadalajara,2338
-L. Fernández,Toluca,2561
-C. Rodríguez,Cruz Azul,3180
-J. Angulo,Tigres UANL,3070
-A. González,Monterrey,2725
-M. Araújo,Toluca,3296
-K. Álvarez,Pachuca,3731
-V. Guzmán,Guadalajara,2614
-M. Meza,Monterrey,2541
-D. Valdés,América,2931
-F. Beltrán,Guadalajara,2736
-J. Brunetta,Santos Laguna,2957
-R. Alvarado,Guadalajara,2701
-A. Zendejas,América,2248
-J. Meneses,Toluca,3523
-O. Campos,Santos Laguna,3542
-E. López,Pachuca,1430
-S. Córdova,Tigres UANL,2301
-E. Aguirre,Monterrey,1763
-Y. Moreno,León,1993
-V. Dávila,León,2367
-M. Isais,Pachuca,3517
-J. Gallardo,Monterrey,2898
-B. Rodríguez,América,1051
-B. Lozano,Atlas,1429
-U. Antuna,Cruz Azul,3185
-R. Pizarro,Inter Miami,1065
-N. Benedetti,Mazatlán,2304
-E. Lara,América,2466
-S. Reyes,América,1700
-I. Rivero,Cruz Azul,3339
-R. Rotondi,Cruz Azul,2451
-G. Del Prete,Pumas UNAM,2160
-A. Mozo,Guadalajara,2263
-L. Suárez,América,1776
-L. Rodríguez,Club Tijuana,2121
-B. Castillo,León,1665
-L. Quiñónes,Tigres UANL,2426
-F. Waller,Puebla,2355
-B. García,Toluca,3257
-E. Salvio,Pumas UNAM,2387
-J. Cortizo,Monterrey,1991
-R. Fulgencio,Tigres UANL,1546
-J. Aquino,Tigres UANL,2153
-O. Fernández,Puebla,1902
-Á. Romero,Corinthians,952
-Gustavo Ferrareis,Puebla,2583
-C. Calderón,Guadalajara,2172
-J. Campbell,León,1848
-R. López,Santos Laguna,1881
-I. Brizuela,Guadalajara,967
-É. Flores,Atlas,923
-D. Barbosa,Atlas,1382
-R. Ibarra,Pachuca,979
-J. Montecinos,Club Tijuana,1541
-M. Olivera,Juárez,3246
-J. Garza,Tigres UANL,1613
-J. Vigón,Tigres UANL,1241
-C. Orrantía,Toluca,1871
-J. Abella,Atlas,2136
-Paulino De la Fuente,Pachuca,964
-G. Rojas,Racing Club,1801
-C. Huerta,Pumas UNAM,1710
-C. Cisneros,Guadalajara,1928
-J. Dueñas,Juárez,2646
-M. Layún,América,1750
-Á. Mena,León,1867
-F. Navarro,Toluca,2521
-A. Chalá,Atlas,1151
-Vitinho,Atlético de San Luis,1724
-D. Villalpando,Atlético de San Luis,1864
-P. Pérez,Guadalajara,947
-Y. Bárcenas,Mazatlán,2053
-E. Bello,Mazatlán,1343
-J. Colmán,Mazatlán,1167
-L. Rodríguez,Juárez,1645
-A. Medina,Juárez,2116
-B. Garnica,Necaxa,2312
-A. Hurtado,Pachuca,2710
-L. García,Puebla,937
-P. Barrera,Querétaro,3175
-I. Moreno,León,2302
-R. Huescas,Cruz Azul,1920
-F. Nevarez,Juárez,1129
-L. Fuentes,América,2259
-D. Medina,Santos Laguna,1177
-F. Valenzuela,Club Tijuana,1083
-C. Trejo,Atlas,904
-R. Sandoval,Mazatlán,953
-J. Hernández,Pachuca,1223
-R. López,Querétaro,1541
-J. González,Santos Laguna,1591
-K. Mbappé,PSG,2533
-Neymar,PSG,1622
-A. Hakimi,PSG,2032
-Nuno Mendes,PSG,1647
-L. Messi,PSG,2628
-K. Thuram,Nice,2642
-S. Fofana,Lens,2999
-Carlos Soler,PSG,1212
-R. Cherki,Olympique Lyonnais,1659
-Tetê,Olympique Lyonnais,1155
-M. Guendouzi,Olympique Marseille,2025
-M. Gusto,Olympique Lyonnais,1622
-A. Golovin,Monaco,2370
-N. Pépé,Nice,1618
-L. Majer,Rennes,1398
-J. Bamba,Lille,2586
-Caio Henrique,Monaco,2790
-S. Diop,Nice,1125
-A. Truffert,Rennes,2061
-J. Doku,Rennes,1051
-B. Bourigeaud,Rennes,2853
-R. Malinovskyi,Olympique Marseille,994
-Nuno Tavares,Olympique Marseille,2411
-L. Blas,Nantes,2615
-Vanderson,Monaco,1996
-C. Ünder,Olympique Marseille,2270
-A. Ounahi,Olympique Marseille,1327
-J. Clauss,Olympique Marseille,2418
-K. Diatta,Monaco,2133
-T. Weah,Lille,1600
-Juan Bernat,PSG,1387
-K. Toko Ekambi,Rennes,2124
-H. Traoré,Rennes,2337
-J. Ito,Reims,2717
-David Costa,Lens,1474
-J. Bellegarde,Strasbourg,2217
-R. Aguilar,Monaco,1084
-M. Simon,Nantes,2255
-F. Honorat,Brest,2484
-N. Tagliafico,Olympique Lyonnais,2808
-A. Ounas,Lille,990
-M. Bard,Nice,2368
-R. Faivre,Lorient,1270
-E. Zhegrova,Lille,1101
-P. Frankowski,Lens,2737
-Q. Merlin,Nantes,1555
-B. Barcola,Olympique Lyonnais II,1265
-Z. Aboukhlal,Toulouse,2476
-I. Jakobs,Monaco,975
-J. Lotomba,Nice,2237
-B. Meling,Rennes,1285
-M. Sanson,Strasbourg,1123
-R. Cabella,Lille,2361
-A. Flips,Reims,1807
-I. Kaboré,Olympique Marseille,949
-M. Cham,Clermont,1914
-E. Guessand,Nantes,1343
-F. Guilbert,Strasbourg,1178
-F. Centonze,Nantes,1610
-F. Maouassa,Montpellier,1854
-A. Nordin,Montpellier,2155
-T. Foket,Reims,1734
-A. Sánchez,Olympique Marseille,2492
-A. Zeneli,Reims,1061
-A. Thomasson,Lens,2037
-F. Sotoca,Lens,2935
-T. Baldé,Troyes,2015
-Rony Lopes,Troyes,2089
-J. Duverne,Brest,2329
-Y. Larouci,Troyes,1585
-A. Ramsey,Nice,1674
-Ismaily,Lille,1761
-H. Diarra,Strasbourg,1385
-R. Del Castillo,Brest,1238
-S. Diarra,Lorient,1146
-E. Tchato,Montpellier,1101
-S. Doumbia,Angers SCO,1899
-Abdu Conté,Troyes,1241
-K. Doumbia,Reims,1227
-A. Zedadka,Auxerre,1843
-G. Hein,Auxerre,1668
-F. Mollet,Nantes,901
-Y. Cathline,Lorient,1150
-M. Pereira Lage,Brest,1252
-J. Ponceau,Lorient,1741
-M. Desler,Toulouse,2144
-Rafael Ratão,Toulouse,1669
-Y. Valery,Angers SCO,2257
-A. Bruus,Troyes,1554
-E. Rashani,Clermont,1976
-J. Allevinah,Clermont,2233
-G. Mensah,Auxerre,2009
-Neto Borges,Clermont,2647
-T. Le Bris,Lorient,1377
-I. Sylla,Montpellier,2664
-Y. Belaïli,Ajaccio,1588
-Y. Koné,Ajaccio,977
-P. Joly,Dijon,922
-T. Delaine,Strasbourg,1093
-M. van Bergen,Reims,1013
-S. Khaoui,Clermont,1938
-G. Perrin,Auxerre,1363
-L. Sinayoko,Auxerre,1477
-H. Abdelli,Angers SCO,1898
-M. Autret,Auxerre,1347
-C. Bayala,Ajaccio,1965
-D. Liénard,Strasbourg,1639
-R. Hamouma,Ajaccio,1155
-T. De Smet,Reims,1758
-R. Nouri,Ajaccio,1596
-M. Youssouf,Ajaccio,2254
-D. Ouattara,Bournemouth,1633
-D. Doué,Rennes,1166
-D. Machado,Lens,1990
-W. Odobert,Troyes,1703
-S. Kumbedi,Olympique Lyonnais,1113
-F. Chaibi,Toulouse,2248
-E. Ben Seghir,Monaco U21,921
-P. Foden,Manchester City,1681
-B. Saka,Arsenal,3199
-K. De Bruyne,Manchester City,2546
-Bernardo Silva,Manchester City,2296
-M. Ødegaard,Arsenal,3108
-Bruno Fernandes,Manchester United,3105
-R. James,Chelsea,1386
-Mohamed Salah,Liverpool,3268
-J. Grealish,Manchester City,2177
-Antony,Manchester United,1619
-M. Mount,Chelsea,1786
-T. Alexander-Arnold,Liverpool,2860
-João Cancelo,Bayern München,1375
-R. Sterling,Chelsea,1778
-Gabriel Martinelli,Arsenal,3003
-J. Maddison,Leicester City,2337
-D. Kulusevski,Tottenham Hotspur,2046
-J. Sancho,Manchester United,1416
-B. White,Arsenal,3016
-A. Robertson,Liverpool,2619
-Matheus Nunes,Wolverhampton Wanderers,2489
-Lucas Paquetà,West Ham United,2019
-A. Mac Allister,Brighton,2684
-Joelinton,Newcastle United,2735
-B. Chilwell,Chelsea,1565
-H. Elliott,Liverpool,1687
-Pedro Porro,Tottenham Hotspur,1034
-Diogo Dalot,Manchester United,2217
-M. Almirón,Newcastle United,2310
-A. Saint-Maximin,Newcastle United,1112
-J. Ramsey,Aston Villa,2585
-Pedro Neto,Wolverhampton Wanderers,999
-M. Gibbs-White,Nottingham Forest,3050
-R. Mahrez,Manchester City,1701
-E. Eze,Crystal Palace,2565
-L. Trossard,Arsenal,2199
-J. Willock,Newcastle United,2592
-B. Mbeumo,Brentford,2824
-E. Buendía,Aston Villa,2515
-G. Xhaka,Arsenal,3055
-M. Olise,Crystal Palace,2682
-W. Zaha,Crystal Palace,2426
-K. Walker-Peters,Southampton,2511
-R. Loftus-Cheek,Chelsea,1452
-A. Iwobi,Everton,3301
-İ. Gündoğan,Manchester City,2372
-Emerson Royal,Tottenham Hotspur,1634
-L. Bailey,Aston Villa,1974
-Pablo Fornals,West Ham United,1374
-M. Cash,Aston Villa,1793
-L. Sinisterra,Leeds United,938
-R. Henry,Brentford,3252
-J. Harrison,Leeds United,2687
-Roberto Firmino,Liverpool,1253
-R. Aït Nouri,Wolverhampton Wanderers,1142
-S. Benrahma,West Ham United,2062
-K. Mitoma,Brighton,2029
-D. Gray,Everton,2549
-Á. Lopera,Aston Villa,1352
-Daniel Podence,Wolverhampton Wanderers,1837
-P. Estupiñán,Brighton,2364
-N. Williams,Nottingham Forest,2083
-P. Billing,Bournemouth,2808
-D. McNeil,Everton,2344
-W. Gnonto,Leeds United,1393
-S. March,Brighton,2914
-C. Jones,Liverpool,904
-L. Digne,Aston Villa,1512
-Andreas Pereira,Fulham,2853
-M. Tavernier,Bournemouth,1894
-Nélson Semedo,Wolverhampton Wanderers,2593
-M. Jensen,Brentford,2845
-N. Patterson,Everton,1194
-H. Wilson,Fulham,913
-K. Trippier,Newcastle United,3279
-M. Elyounoussi,Southampton,2184
-R. Perraud,Southampton,2016
-K. Tete,Fulham,2413
-A. Doucouré,Everton,1320
-Adama Traoré,Wolverhampton Wanderers,1458
-Emerson Palmieri,West Ham United,1214
-A. Robinson,Fulham,2990
-I. Perišić,Tottenham Hotspur,2289
-J. Murphy,Newcastle United,1388
-R. Christie,Bournemouth,1801
-J. Dasilva,Brentford,1525
-V. Coufal,West Ham United,2128
-P. Groß,Brighton,2963
-B. De Cordova-Reid,Fulham,2615
-S. Armstrong,Southampton,1342
-J. Anthony,Bournemouth,1271
-J. Zemura,Bournemouth,1592
-Willian,Fulham,1887
-A. Cresswell,West Ham United,2258
-J. Milner,Liverpool,917
-L. Ayling,Leeds United,1983
-Hugo Bueno,Wolverhampton Wanderers U21,1345
-Pedro Porro,Tottenham Hotspur,1262
-Pedro Gonçalves,Sporting CP,3049
-M. Edwards,Sporting CP,2423
-Alejandro Grimaldo,Benfica,3183
-Rafa Silva,Benfica,2350
-David Neres,Benfica,2088
-Pepê,Porto,2881
-Galeno,Porto,2197
-Ricardo Horta,Sporting Braga,2857
-João Mário,Porto,1356
-Francisco Trincão,Sporting CP,2384
-João Mário,Benfica,2823
-Nuno Santos,Sporting CP,2452
-Z. Sanusi,Porto,1163
-A. Bah,Benfica,2027
-Iuri Medeiros,Sporting Braga,2176
-Wendell,Porto,2128
-Arthur Gomes,Sporting CP,1227
-Víctor Gómez,Sporting Braga,2268
-Bruma,Sporting Braga,1107
-Ricardo Esgaio,Sporting CP,1447
-Francisco Moura,Famalicão,2347
-Fabiano Silva,Kasımpaşa,1041
-Romário Baró,Casa Pia AC,1005
-Nuno Sequeira,Sporting Braga,2235
-Tiago Gouveia,Estoril,2533
-K. Fujimoto,Gil Vicente,2830
-Miguel Maga,Vitória Guimarães,2169
-Bruno Jordão,Santa Clara,906
-J. Léa Siliki,Estoril,932
-Matchoi Djaló,Paços de Ferreira,1416
-Ivo Rodrigues,Famalicão,2583
-Iván Jaime,Famalicão,2021
-Leonardo Lelo,Casa Pia AC,2529
-S. Godwin,Casa Pia AC,2608
-Adrián Marín,Gil Vicente,2851
-F. Moufi,Portimonense,2883
-Bruno Xadas,Marítimo,2564
-Costinha,Rio Ave,3053
-Y. Soma,Casa Pia AC,1312
-Rúben Lameiras,Vitória Guimarães,1273
-André Vidigal,Marítimo,2815
-Jota Silva,Vitória Guimarães,1730
-B. Onyemaechi,Boavista,2749
-Ricardo Mangas,Boavista,2018
-J. Delgado,Paços de Ferreira,2935
-Kiko Bondoso,Vizela,3080
-K. Gorré,Boavista,1624
-Ricardinho,Santa Clara,1954
-Murilo,Gil Vicente,2309
-Carraça,Gil Vicente,2059
-Mateus Quaresma,Arouca,2972
-M. Johnston,Vitória Guimarães,1547
-Fábio Ronaldo,Rio Ave,2142
-Pedro Amaral,Al Khaleej,1065
-João Teixeira,Chaves,2939
-João Correia,Chaves,1980
-Luquinha,Portimonense,1278
-A. Bukia,Al Batin,1087
-Nuno Moreira,Vizela,1979
-Rodrigo Martins,Estoril,1533
-Bruno Langa,Chaves,2721
-Cláudio Winck,Marítimo,2718
-N. Thomas,Paços de Ferreira,2196
-Lucas Soares,Casa Pia AC,2369
-Euller,Chaves,1158
-M. Seck,Portimonense,2420
-Vitor Costa,Marítimo,2666
-Zé Uilton,Paços de Ferreira,1524
-Rui Gomes,Portimonense,1252
-Igor Julião,Vizela,1766
-Tomás Silva,Vizela,1329
-J. Boselli,Gil Vicente,1374
-João Mendes,Chaves,2514
-Salvador Agra,Boavista,1785
-Bruno Almeida,Santa Clara,1364
-João Graça,Rio Ave,1257
-Matheus Pereira,Vizela,923
-Allano,Santa Clara,1219
-Tiago Araújo,Estoril,1031
-Z. Ouattara,Portimonense,1298
-Pedro Silva,Gil Vicente,1371
-N. Gaitán,Paços de Ferreira,1917
-Paulo Vitor,Rio Ave,1257
-P. Sagna,Santa Clara,1864
-Arsénio,Arouca,1150
-Joãozinho,Estoril,2825
-Derick Poloni,Casa Pia AC,1563
-Antunes,Paços de Ferreira,2917
-Tiago Santos,Estoril,2641
-Benny Sousa,Chaves,1369
-Pedro Malheiro,Boavista,3060
-Rafael Leão,Milan,2356
-K. Kvaratskhelia,Napoli,2354
-N. Barella,Internazionale,2620
-Theo Hernández,Milan,2680
-P. Zieliński,Napoli,2078
-A. Zambo Anguissa,Napoli,2907
-L. Pellegrini,Roma,2586
-G. Raspadori,Napoli,933
-A. Lookman,Atalanta,1740
-P. Dybala,Roma,1772
-N. Zaniolo,Galatasaray,955
-D. Dumfries,Internazionale,2166
-H. Lozano,Napoli,1706
-E. Elmas,Napoli,1580
-M. Zaccagni,Lazio,2639
-F. Dimarco,Internazionale,2031
-G. Di Lorenzo,Napoli,3278
-T. Ndombèlé,Napoli,913
-F. Kostić,Juventus,2521
-D. Udogie,Udinese,2685
-D. Frattesi,Sassuolo,2796
-D. Calabria,Milan,1543
-Brahim Diaz,Milan,1753
-M. Politano,Napoli,1215
-Luis Alberto,Lazio,2247
-R. Gosens,Internazionale,1103
-D. Berardi,Sassuolo,1552
-A. Laurienté,Sassuolo,2199
-M. Olivera,Napoli,1504
-Dodô,Fiorentina,2385
-N. Zalewski,Roma,2006
-L. Spinazzola,Roma,1819
-Felipe Anderson,Lazio,2930
-M. Lazzari,Lazio,1743
-F. Miretti,Juventus,1217
-A. Saelemaekers,Milan,1357
-W. Singo,Torino,1847
-J. Maehle,Atalanta,2087
-Gerard Deulofeu,Udinese,1286
-M. Barrow,Bologna,1700
-Al. Miranchuk,Torino,2005
-A. Barák,Fiorentina,1696
-Z. Çelik,Roma,1513
-F. Parisi,Empoli,2776
-J. Doig,Hellas Verona,1470
-Strefezza,Lecce,2138
-Á. Di María,Juventus,1317
-A. Rebić,Milan,1006
-G. Caprari,Monza,2301
-K. Thorstvedt,Sassuolo,1151
-L. Muriel,Atalanta,1057
-N. Bajrami,Sassuolo,1687
-L. Samardžić,Udinese,1602
-S. Bastoni,Spezia,1254
-R. Orsolini,Bologna,1997
-S. Lovrič,Udinese,2058
-D. Zappacosta,Atalanta,1225
-A. Cambiaso,Bologna,1881
-R. Pereyra,Udinese,2551
-V. Lazaro,Torino,1436
-C. Biraghi,Fiorentina,2652
-H. Mkhitaryan,Internazionale,2044
-Junior Messias,Milan,1391
-Rogério,Sassuolo,2768
-E. Holm,Spezia,1499
-P. Mazzocchi,Salernitana,1713
-D. Bradarić,Salernitana,2226
-S. El Shaarawy,Roma,1454
-A. Zanoli,Sampdoria,1217
-G. Kyriakopoulos,Bologna,1595
-J. Cuadrado,Juventus,1951
-M. Vojvoda,Torino,1606
-S. Verdi,Hellas Verona,1027
-M. De Sciglio,Juventus,1124
-Carlos Augusto,Monza,2920
-D. Verde,Spezia,1077
-R. Oudin,Lecce,1038
-L. Ferguson,Bologna,2137
-N. Radonjić,Torino,1555
-R. Soriano,Bologna,1443
-F. Bandinelli,Empoli,2222
-K. Agudelo,Spezia,2197
-M. Aebischer,Bologna,1406
-E. Valeri,Cremonese,2685
-P. Ciurria,Monza,2573
-T. Baldanzi,Empoli,1736
-N. Cambiaghi,Empoli,999
-A. Reca,Spezia,1966
-F. Depaoli,Hellas Verona,2194
-G. Pezzella,Lecce,975
-L. Banda,Lecce,1560
-Pedro,Lazio,1834
-D. Lazović,Hellas Verona,2117
-F. Đuričić,Sampdoria,2045
-A. Colpani,Monza,962
-T. Augello,Sampdoria,2846
-G. Bonaventura,Fiorentina,2018
-K. Ehizibue,Udinese,1669
-S. Birindelli,Monza,1391
-M. Léris,Sampdoria,2375
-M. Ruggeri,Atalanta,912
-T. Arslan,Udinese,1146
-A. Gallo,Lecce,2239
-B. Bereszyński,Napoli,1303
-R. Saponara,Fiorentina,1160
-L. Sernicola,Cremonese,2289
-A. Candreva,Salernitana,2618
-Y. Kallon,Hellas Verona,963
-F. Di Francesco,Lecce,1967
-C. Lykogiannis,Bologna,1177
-C. Buonaiuto,Cremonese,964
-Miguel Veloso,Hellas Verona,1134
+Player,Team,Minutes played,league_id
+E. N'Dicka,Eintracht Frankfurt,2601,78
+J. Tah,Bayer Leverkusen,2394,78
+D. Doekhi,Union Berlin,2095,78
+O. Kabak,Hoffenheim,2314,78
+F. Uduokhai,Augsburg,1439,78
+S. Bornauw,Wolfsburg,1784,78
+T. Hübers,Köln,2456,78
+P. Jaeckel,Union Berlin,1199,78
+M. Jenz,Schalke 04,929,78
+E. Mašović,Bochum,2070,78
+M. Kempf,Hertha BSC,2725,78
+A. Rogel,Hertha BSC,1369,78
+K. Akpoguma,Hoffenheim,1937,78
+I. Ordets,Bochum,2340,78
+M. Bauer,Augsburg,1825,78
+C. Gruezo,SJ Earthquakes,1038,78
+J. Brooks,Hoffenheim,1172,78
+J. Guilavogui,Wolfsburg,1009,78
+S. Bell,Mainz 05,2318,78
+A. Hack,Mainz 05,1223,78
+J. Chabot,Köln,1641,78
+F. Uremović,Hertha BSC,1833,78
+H. Matriciani,Schalke 04,1853,78
+J. Branthwaite,PSV,1895,88
+M. Sagnan,Utrecht,1937,88
+P. Bochniewicz,Heerenveen,2946,88
+Rodrigo Guth,Fortuna Sittard,2968,88
+X. Mbuyamba,Volendam,2418,88
+Julio Pleguezuelo,Twente,1061,88
+S. Adewoye,RKC Waalwijk,2944,88
+Iván Márquez,NEC,2866,88
+N. Viergever,Utrecht,1510,88
+Ximo Navarro,Fortuna Sittard,1293,88
+J. Kramer,NEC,1042,88
+B. Benamar,Volendam,2115,88
+J. Baas,Excelsior,2405,88
+P. Koopmeiners,Excelsior,1370,88
+J. Idzes,Go Ahead Eagles,2833,88
+M. Tol,Cambuur,1785,88
+D. Mirani,Volendam,2528,88
+J. Amofa,Go Ahead Eagles,2309,88
+G. Nauber,Go Ahead Eagles,1250,88
+M. te Wierik,Emmen,2343,88
+D. Abels,Sparta Rotterdam,1307,88
+J. Gaari,RKC Waalwijk,2885,88
+D. Siovas,Fortuna Sittard,1856,88
+B. Plat,Volendam,2377,88
+M. van der Maarel,Utrecht,2185,88
+B. Vriends,Sparta Rotterdam,2407,88
+N. Isimat-Mirin,Vitesse,945,88
+J. Dirksen,Emmen,1354,88
+S. Nieuwpoort,Excelsior,1672,88
+S. Seymor,Excelsior,1167,88
+A. Auassar,Sparta Rotterdam,1973,88
+F. Smand,Cambuur,1786,88
+M. Brasil,Cerro Largo,1817,263
+J. Sánchez,Pumas UNAM,1535,263
+R. Martínez,Tapatío,3198,263
+D. Zamora,Celaya,4033,263
+L. Hernández,Dorados,2476,263
+H. Marín,Cancún,2791,263
+J. Portales,Atlante,4336,263
+M. Trejo,Atlético Morelia,3218,263
+L. López,Correcaminos UAT,2973,263
+S. Román,Puebla U20,1453,263
+A. Arellano,Cimarrones de Sonora,3182,263
+E. Monreal,Pachuca Premier,1234,263
+H. Torres,Mineros de Zacatecas,2933,263
+Omar Mireles,Mineros de Zacatecas,1601,263
+G. Martínez,Tapatío,1428,263
+V. Milke,Atlético Morelia,3816,263
+J. Aguayo,Tapatío,1978,263
+S. Valencia,Pumas Tabasco,908,263
+S. Ceballos,Pumas Tabasco,2374,263
+J. Saavedra,Cimarrones de Sonora,3771,263
+B. Vázquez,NA,2634,263
+R. Noya,Municipal Grecia,2608,263
+B. Galindo,Cancún,2783,263
+P. Santos,Tlaxcala,1800,263
+J. De Alba,Universidad Guadalajara,3601,263
+G. Sánchez,Monterrey,1093,263
+H. Muñoz,Dorados,2323,263
+C. Villanueva,Tepatitlán de Morelos,3030,263
+A. Mota,Universidad Guadalajara,1460,263
+D. Guillén,Atlético de San Luis U23,2301,263
+Oscar Mazatán,Mineros de Zacatecas,1605,263
+B. Salazar,Tlaxcala,2194,263
+J. Reyes,Cimarrones de Sonora,2182,263
+V. Torres,Correcaminos UAT,1817,263
+A. Justo,CA La Paz,2384,263
+A. Mendoza,Durango,1675,263
+A. Ledesma,Universidad Guadalajara,4269,263
+O. León,Dorados,1678,263
+N. Topete,Celaya,1081,263
+A. Grijalva,Monterrey,1043,263
+R. Melgarejo,Cerro Porteño,1483,263
+F. Rabago,Universidad Guadalajara,1111,263
+H. Aguayo,Cancún,1535,263
+K. Álvarez,CA La Paz,1146,263
+J. Esqueda,Alebrijes de Oaxaca,1724,263
+F. Santillán,Tlaxcala,2413,263
+J. Rodríguez,Cimarrones de Sonora,1610,263
+L. Robles,Tepatitlán de Morelos,1733,263
+J. Ocon,NA,1137,263
+D. Escalante,Universidad Guadalajara,3207,263
+J. Barragán,Venados,1281,263
+A. Gutiérrez,Necaxa,1340,263
+L. López,Celaya,3721,263
+O. Tirado,Dorados,2210,263
+A. Mendoza,Mineros de Zacatecas,1690,263
+E. Olaguez,Alebrijes de Oaxaca,2908,263
+P. Ruiz,CA La Paz,2276,263
+F. Agüero,CA La Paz,986,263
+A. Freyfeld,Pumas UNAM U23,2237,263
+A. Andrade,Necaxa,1617,263
+U. Rivera,Tlaxcala,2109,263
+J. Moreno,Mazatlán FC U23,1188,263
+J. Dávila,Atlético de San Luis,3286,673
+K. De León,Necaxa,3210,673
+D. Delgado,Pumas UNAM,3151,673
+D. Martínez,Puebla,3019,673
+Paola González,FC Juárez,3005,673
+P. Jardón,Toluca,2930,673
+Y. Toraya,Tijuana,2901,673
+A. Mejia,FC Juárez,2879,673
+A. Lozada,FC Juárez,2827,673
+M. Cadena,Monterrey,2822,673
+M. Peraza,Cruz Azul,2811,673
+J. De La Rosa,Tijuana,2802,673
+S. Cruz,Necaxa,2780,673
+Viridiana López,Puebla,2726,673
+P. Padilla,Santos Laguna,2707,673
+N. Miramontes,Santos Laguna,2657,673
+M. Alvarado,Tijuana,2633,673
+J. Farias,Pachuca,2594,673
+S. Pulido,Santos Laguna,2592,673
+N. Colin,Toluca,2590,673
+A. Willett,Tijuana,2582,673
+L. Sánchez,Puebla,2538,673
+L. Muñoz,Necaxa,2377,673
+J. Singano,FC Juárez,2372,673
+M. Perez Limon,Atlas,2340,673
+M. Sandoval,NA,2296,673
+J. Enrigue,Querétaro,2273,673
+C. Cid,Querétaro,2271,673
+K. García,Querétaro,2266,673
+A. Tovar,Santos Laguna,2178,673
+A. Camargo,Querétaro,2145,673
+V. del Campo,Monterrey,2129,673
+S. Martínez,Puebla,2127,673
+K. Díaz,Pachuca,2036,673
+N. Gaitán,NA,2007,673
+F. Grano,Necaxa,1945,673
+M. Gonzalez,Guadalajara,1876,673
+K. Gómez,León,1790,673
+M. Sosa,NA,1711,673
+D. Anguiano,Cruz Azul,1567,673
+B. López,Santos Laguna,1543,673
+K. Cano,Atlético de San Luis,1523,673
+D. Monroy,Toluca,1523,673
+S. Valera,Pumas UNAM,1471,673
+Maria Acosta,Necaxa,1461,673
+G. Sánchez,Pachuca,1419,673
+K. Hernández,Mazatlán,1371,673
+J. López,Toluca,1369,673
+M. Gordillo,NA,1293,673
+Yamanic Martínez,NA,1243,673
+S. Braun,León,1209,673
+S. López,Mazatlán,1188,673
+D. Cagigas,NA,1188,673
+Lesly González,Necaxa,1177,673
+Mariela García,Atlético de San Luis,1138,673
+M. Fong,Tijuana,1134,673
+K. Guzman,Guadalajara,1132,673
+A. Perez Murillo,América,1104,673
+V. Rios,NA,1101,673
+J. González,Puebla,1032,673
+B. García,Puebla,1024,673
+Mitzi Martínez,León,1015,673
+M. Valera,NA,1008,673
+A. Escobedo,NA,969,673
+M. Yokoyama,Santos Laguna,931,673
+A. Rüdiger,Real Madrid,2354,140
+J. Giménez,Atlético Madrid,2246,140
+R. Le Normand,Real Sociedad,2659,140
+David García,Osasuna,2509,140
+Luiz Felipe,Real Betis,1630,140
+Igor Zubeldía,Real Sociedad,2419,140
+M. Arambarri,Getafe,966,140
+Édgar González,Real Betis,1673,140
+L. Badé,Sevilla,1275,140
+T. Nianzou,Sevilla,1435,140
+N. Maksimović,Getafe,1732,140
+Domingos Duarte,Getafe,2883,140
+C. Montes,Espanyol,1326,140
+M. Diakhaby,Valencia,2308,140
+J. Aidoo,Celta de Vigo,3098,140
+S. Savić,Atlético Madrid,2006,140
+Djené,Getafe,2699,140
+A. Witsel,Atlético Madrid,2020,140
+G. Álvarez,Getafe,1196,140
+G. Pezzella,Real Betis,2359,140
+M. Valjent,Mallorca,2412,140
+N. Gudelj,Sevilla,2744,140
+P. Ciss,Rayo Vallecano,1368,140
+A. Mandi,Villarreal,1126,140
+E. Cömert,Valencia,1755,140
+S. Babić,Almería,2799,140
+M. Hongla,Real Valladolid,1142,140
+Antonio Raíllo,Mallorca,2929,140
+Víctor Chust,Cádiz,1066,140
+Rodrigo Ely,Almería,2962,140
+Joaquín Fernández,Real Valladolid,2239,140
+Javi Sánchez,Real Valladolid,2196,140
+José Copete,Mallorca,1939,140
+Gabriel Paulista,Valencia,1285,140
+Fali,Cádiz,1740,140
+Unai García,Osasuna,1848,140
+E. Roco,Elche,1664,140
+Chumi,Almería,1634,140
+J. El Yamiq,Real Valladolid,1584,140
+S. Mitrović,Getafe,1370,140
+Sergi Gómez,Espanyol,2329,140
+Fernando Calero,Espanyol,1530,140
+M. Nastasić,Mallorca,988,140
+Diego González,Elche,1053,140
+Bernardo Espinosa,Girona,1161,140
+Juanpe,Girona,1459,140
+César de la Hoz,Almería,1614,140
+Aridane Hernández,Osasuna,1461,140
+Luis Hernández,Cádiz,2992,140
+Samir,Tigres UANL,2285,262
+F. Torres,Santos Laguna,2895,262
+J. Escobar,Cruz Azul,2994,262
+V. Guzmán,Monterrey,3287,262
+Dória,Santos Laguna,1750,262
+S. Vegas,Monterrey,2073,262
+A. Frías,León,1269,262
+I. Reyes,América,3619,262
+L. Abram,Atlanta United,1277,262
+J. Orozco,Guadalajara,3628,262
+S. Cáceres,América,3127,262
+I. Lichnovsky,Tigres UANL,3008,262
+L. Olivas,Guadalajara,1494,262
+Rodrigo Dourado,Atlético de San Luis,2712,262
+G. Sepúlveda,Guadalajara,3940,262
+E. Gularte,Puebla,1765,262
+N. Freire,Pumas UNAM,3180,262
+Unai Bilbao,Atlético de San Luis,1757,262
+J. Esquivel,Necaxa,2972,262
+N. Araújo,América,2493,262
+D. Reyes,Tigres UANL,2881,262
+M. Tapias,Minnesota United,1121,262
+H. Nervo,Atlas,3462,262
+F. Ambríz,León,2508,262
+G. Pizarro,Tigres UANL,4076,262
+A. Mosquera,Toluca,4141,262
+L. López,Club Tijuana,2488,262
+L. León,Emelec,1357,262
+H. Ortega,Toluca,1043,262
+F. Formiliano,Necaxa,1295,262
+G. Silva,Puebla,3451,262
+O. Murillo,Pachuca,1966,262
+E. Aguilera,Tigre,1140,262
+H. Moreno,Monterrey,2748,262
+A. Briseño,Guadalajara,976,262
+D. De Buen,Puebla,3741,262
+Lucas Maia,Puebla,1827,262
+J. Domínguez,Atlético de San Luis,3113,262
+G. Cabral,Pachuca,3674,262
+H. Rodríguez,Santos Laguna,2996,262
+J. Silva,Cruz Azul,1397,262
+F. Almada,Mazatlán,1243,262
+R. Godínez,Club Tijuana,1282,262
+R. González,Atlético de San Luis,1191,262
+A. Aldrete,Pumas UNAM,1588,262
+J. Díaz,Club Tijuana,1572,262
+J. García,Atlético de San Luis,1416,262
+N. Vidrio,Mazatlán,2533,262
+O. Alanís,NA,1913,262
+J. Molina,Pumas UNAM,992,262
+G. Aguirre,Atlas,1911,262
+E. Orona,Puebla,1250,262
+R. Fernández,Querétaro,1546,262
+J. Galindo,Pumas UNAM,1073,262
+Alejandro Arribas,NA,2405,262
+R. Guerrero,Cruz Azul,959,262
+P. Bellón,León,2046,262
+G. Maripán,Monaco,2126,61
+L. Balerdi,Olympique Marseille,2474,61
+S. Gigot,Olympique Marseille,1975,61
+G. Nyamsi,Strasbourg,1510,61
+C. Wooh,Rennes,1079,61
+I. Touré,Auxerre,1390,61
+M. Talbi,Lorient,3257,61
+M. Estève,Montpellier,1493,61
+R. Nicolaisen,Toulouse,2939,61
+J. Castelletto,Nantes,2361,61
+B. Kouyaté,Montpellier,1063,61
+J. Porozo,Troyes,1639,61
+L. Perrin,Strasbourg,1649,61
+C. Jullien,Montpellier,2702,61
+J. Laporte,Lorient,1639,61
+E. Palmer-Brown,Troyes,2920,61
+M. Wieteska,Clermont,3045,61
+I. Doukouré,Strasbourg,2088,61
+C. Hountondji,Angers SCO,3121,61
+C. Hérelle,Brest,1147,61
+A. Dari,Brest,1420,61
+O. Gonzalez,Ajaccio,2483,61
+Jubal,Auxerre,3039,61
+C. Vidal,Ajaccio,1658,61
+M. Blažič,Angers SCO,1886,61
+M. Caufriez,Clermont,2003,61
+B. Meïté,Lorient,1325,61
+J. Jeanvier,Auxerre,1786,61
+F. Ogier,Clermont,1725,61
+C. Avinel,Ajaccio,1756,61
+S. Botman,Newcastle United,3036,39
+R. Varane,Manchester United,1772,39
+T. Souček,West Ham United,2802,39
+N. Aguerd,West Ham United,1438,39
+K. Zouma,West Ham United,2104,39
+M. Kilman,Wolverhampton Wanderers,3457,39
+T. Chalobah,Chelsea,1450,39
+J. Tarkowski,Everton,3361,39
+E. Konsa,Aston Villa,3375,39
+N. Collins,Wolverhampton Wanderers,1808,39
+W. Faes,Leicester City,2642,39
+A. Bella-Kotchap,Southampton,2027,39
+R. Koch,Leeds United,3190,39
+L. Kelly,Bournemouth,1932,39
+D. Amartey,Leicester City,1761,39
+H. Souttar,Leicester City,987,39
+V. Lindelöf,Manchester United,1012,39
+D. Ćaleta-Car,Southampton,1052,39
+J. Bednarek,Southampton,1543,39
+E. Pinnock,Brentford,2692,39
+S. McKenna,Nottingham Forest,1707,39
+M. Keane,Everton,1022,39
+J. Worrall,Nottingham Forest,2133,39
+C. Mepham,Bournemouth,2316,39
+L. Cooper,Leeds United,1479,39
+J. Stephens,Bournemouth,1349,39
+Lyanco,Southampton,974,39
+S. Cook,Nottingham Forest,1034,39
+Felipe,Nottingham Forest,1280,39
+C. Dawson,Wolverhampton Wanderers,2136,39
+B. Mee,Brentford,3313,39
+M. Zanka Jørgensen,Brentford,1121,39
+A. Ogbonna,West Ham United,1060,39
+I. Bamba,Vitória Guimarães,2573,94
+André Amaro,Vitória Guimarães,2590,94
+Riccieli,Famalicão,2860,94
+E. Mihaj,Famalicão,2453,94
+Mikel Villanueva,Vitória Guimarães,2815,94
+Bruno Wilson,Vizela,2264,94
+Ygor Nogueira,Santa Clara,1108,94
+Pedro Álvaro,Estoril,2837,94
+M. Ndiaye,Estoril,1568,94
+K. Boateng,Santa Clara,2548,94
+Bernardo Vital,Estoril,2506,94
+Anderson,Vizela,2970,94
+Ivanildo Fernandes,Vizela,1652,94
+J. Park,Portimonense,1314,94
+João Basso,Arouca,3106,94
+Nélson Monte,Chaves,2869,94
+E. Ferigra,Paços de Ferreira,1292,94
+João Nunes,Casa Pia AC,1816,94
+N. Galović,Arouca,1459,94
+J. Opoku,Arouca,2107,94
+Maracás,Paços de Ferreira,1566,94
+Léo Andrade,Khimki,1276,94
+C. Tassano,Khimki,1162,94
+Matheus Costa,Marítimo,1242,94
+V. Sasso,Boavista,2153,94
+Nuno Lima,Paços de Ferreira,2692,94
+R. Pantalon,Rio Ave,1979,94
+Carlos Ponck,Chaves,1973,94
+M. Tounkara,Vitória Guimarães,1172,94
+Ítalo,Santa Clara,1165,94
+Fernando Varela,Casa Pia AC,2213,94
+M. Mosquera,Marítimo,1772,94
+Aderllan Santos,Rio Ave,3104,94
+Zainadine Júnior,Marítimo,2328,94
+Rúben Fernandes,Gil Vicente,2420,94
+Steven Vitória,Chaves,2919,94
+Vasco Fernandes,Casa Pia AC,2718,94
+Bremer,Juventus,2564,135
+Ibañez,Roma,2915,135
+M. Demiral,Atalanta,1652,135
+J. Kiwior,Arsenal,1561,135
+P. Schuurs,Torino,2193,135
+N. Milenković,Fiorentina,2175,135
+A. Romagnoli,Lazio,2790,135
+N. Casale,Lazio,2319,135
+B. Djimsiti,Atalanta,1573,135
+Rodrigo Becão,Udinese,2515,135
+J. Bijol,Udinese,2563,135
+S. de Vrij,Internazionale,1832,135
+C. Okoli,Atalanta,920,135
+F. Daniliuc,Salernitana,2041,135
+C. Smalling,Roma,2838,135
+N. Pérez,Udinese,2627,135
+F. Baschirotto,Lecce,3146,135
+A. Buongiorno,Torino,2512,135
+I. Hien,Hellas Verona,2364,135
+M. Erlić,Sassuolo,2135,135
+G. Ferrari,Sassuolo,2216,135
+E. Ebosse,Udinese,1031,135
+K. Günter,Sampdoria,1617,135
+K. De Winter,Empoli,1120,135
+S. Umtiti,Lecce,1803,135
+Ruan,Sassuolo,1543,135
+J. Vásquez,Cremonese,1668,135
+A. Ismajli,Empoli,2024,135
+P. Dawidowicz,Hellas Verona,1628,135
+A. Soumaoro,Bologna,2022,135
+E. Aiwu,Cremonese,1698,135
+O. Colley,Beşiktaş,1517,135
+L. Pirola,Salernitana,1663,135
+D. Bronn,Salernitana,1645,135
+S. Luperto,Empoli,2916,135
+D. Coppola,Hellas Verona,1181,135
+F. Ceccherini,Hellas Verona,1396,135
+G. Magnani,Hellas Verona,1339,135
+K. Djidji,Torino,2409,135
+A. Izzo,Monza,2301,135
+B. Amione,Sampdoria,2043,135
+M. Caldara,Spezia,1373,135
+B. Nuytinck,Sampdoria,1735,135
+J. Murillo,Sampdoria,1151,135
+A. Ferrari,Cremonese,1866,135
+L. Lochoshvili,Cremonese,1775,135
+N. Gyömbér,Salernitana,1707,135
+L. Caldirola,Monza,2275,135
+M. Bianchetti,Cremonese,2120,135
+F. Fazio,Salernitana,1180,135
+J. Gvardiol,RB Leipzig,2208,78
+M. de Ligt,Bayern München,2281,78
+D. Upamecano,Bayern München,2384,78
+N. Schlotterbeck,Borussia Dortmund,2408,78
+N. Süle,Borussia Dortmund,1986,78
+E. Tapsoba,Bayer Leverkusen,2796,78
+P. Hincapié,Bayer Leverkusen,2405,78
+O. Kossounou,Bayer Leverkusen,1641,78
+M. Lacroix,Wolfsburg,1757,78
+N. Elvedi,Borussia M'gladbach,2769,78
+M. Ginter,Freiburg,2974,78
+P. Lienhart,Freiburg,2484,78
+M. van de Ven,Wolfsburg,2902,78
+Tuta,Eintracht Frankfurt,2625,78
+K. Mavropanos,Stuttgart,2357,78
+Diogo Leite,Union Berlin,2172,78
+K. Itakura,Borussia M'gladbach,1902,78
+W. Orban,RB Leipzig,2862,78
+K. Jakić,Eintracht Frankfurt,1586,78
+S. Nsoki,Hoffenheim,1334,78
+H. Ito,Stuttgart,2485,78
+M. Friedl,Werder Bremen,2515,78
+M. Hummels,Borussia Dortmund,1922,78
+A. Pieper,Werder Bremen,2125,78
+N. Stark,Werder Bremen,1946,78
+M. Veljković,Werder Bremen,2177,78
+M. Friedrich,Borussia M'gladbach,1173,78
+R. Knoche,Union Berlin,2881,78
+L. Kilian,Köln,1196,78
+W. Anton,Stuttgart,2879,78
+K. Vogt,Hoffenheim,1908,78
+A. Hanche-Olsen,Mainz 05,1445,78
+D. Zagadou,Stuttgart,1206,78
+J. Gouweleeuw,Augsburg,2726,78
+Edimilson Fernandes,Mainz 05,2325,78
+M. Yoshida,Schalke 04,2719,78
+M. Hasebe,Eintracht Frankfurt,1312,78
+J. Timber,Ajax,2991,88
+E. Álvarez,Ajax,2520,88
+D. Hancko,Feyenoord,2655,88
+G. Trauner,Feyenoord,1734,88
+A. Obispo,PSV,1852,88
+M. Hilgers,Twente,2111,88
+André Ramalho,PSV,1755,88
+P. Chatzidiakos,AZ,2798,88
+S. Beukema,AZ,2118,88
+N. Kasanwirjo,Feyenoord,1368,88
+P. Sandler,NEC,1463,88
+R. Flamingo,Vitesse,2602,88
+R. Pröpper,Twente,2474,88
+M. Meulensteen,Vitesse,2630,88
+M. Dekker,AZ,913,88
+M. van der Hoorn,Utrecht,2034,88
+R. Balker,Groningen,2639,88
+S. van Beek,Heerenveen,1446,88
+C. Verdonk,NEC,1041,88
+José Fontán,Go Ahead Eagles,1198,88
+J. van Aken,Heerenveen,1078,88
+M. Araujo,Emmen,2663,88
+R. El Yaakoubi,Excelsior,2844,88
+E. Cornelisse,Vitesse,1441,88
+L. Bergsma,Cambuur,1890,88
+D. Van den Buijs,RKC Waalwijk,1917,88
+M. Eerdhuijzen,Sparta Rotterdam,1157,88
+S. van Ottele,Heerenveen,1112,88
+J. Veldmate,Emmen,1995,88
+D. Schmidt,Cambuur,1663,88
+T. Blokzijl,Groningen,1189,88
+D. Campillo,Juárez,3276,263
+J. García Sancho,NA,2117,263
+Elbis,Atlante,2455,263
+E. Reyes,Alebrijes de Oaxaca,3256,263
+E. García,Cancún,1543,263
+M. Hernández,NA,1666,263
+J. Múñoz,Celaya,2619,263
+C. Ferral,Tigres UANL,3805,673
+G. Espinoza,Tigres UANL,3678,673
+C. Montero,Guadalajara,3629,673
+R. Bernal,Monterrey,3597,673
+Andrea Pereira,América,3358,673
+D. Rodriguez,Guadalajara,3077,673
+Kimberly Rodriguez,América,2972,673
+Victoria López,Tijuana,2355,673
+N. Granados,América,2029,673
+B. Mora,Tijuana,1712,673
+Ana Mendoza,Pumas UNAM,1528,673
+Karina Rodríguez,América,1504,673
+D. Ojeda,Querétaro,1373,673
+R. Araújo,Barcelona,1882,140
+Éder Militão,Real Madrid,2537,140
+Pau Torres,Villarreal,2948,140
+A. Christensen,Barcelona,1481,140
+Íñigo Martínez,Athletic Bilbao,1447,140
+Mario Hermoso,Atlético Madrid,1818,140
+Yeray Álvarez,Athletic Bilbao,2401,140
+Dani Vivian,Athletic Bilbao,2200,140
+Eric García,Barcelona,1353,140
+Marcos Alonso,Barcelona,1024,140
+S. Bueno,Girona,3053,140
+Alejandro Catena,Rayo Vallecano,2921,140
+Jon Pacheco,Real Sociedad,1075,140
+Unai Núñez,Celta de Vigo,2948,140
+O. Alderete,Getafe,1757,140
+F. Lejeune,Rayo Vallecano,2621,140
+L. Cabrera,Espanyol,2534,140
+Raúl Albiol,Villarreal,2317,140
+David López,Girona,1464,140
+C. Özkacar,Valencia,1416,140
+Pedro Bigas,Elche,1883,140
+C. Montes,Espanyol,1077,262
+C. Salcedo,Cruz Azul,3098,262
+V. Huerta,Toluca,4449,262
+J. Barreiro,León,2968,262
+N. Díaz,Club Tijuana,2956,262
+A. Peña,Necaxa,3473,262
+S. Flores,Guadalajara,1241,262
+A. Santamaría,Atlas,2143,262
+A. Ortíz,Pumas UNAM,2138,262
+R. Funes Mori,River Plate,2337,262
+M. Barbieri,Querétaro,1240,262
+K. Balanta,Querétaro,2237,262
+E. Martínez,Pachuca,1191,262
+J. Segovia,Necaxa,2455,262
+J. Caicedo,Pumas UNAM U20,1119,262
+J. Castillo,Pachuca,1486,262
+Marquinhos,PSG,2593,61
+B. Badiashile,Chelsea,907,61
+J. Todibo,Nice,2764,61
+A. Disasi,Monaco,3189,61
+A. Theate,Rennes,3134,61
+C. Mbemba,Olympique Marseille,2732,61
+C. Lukeba,Olympique Lyonnais,2812,61
+Tiago Djaló,Lille,2145,61
+K. Danso,Lens,3287,61
+F. Medina,Lens,2688,61
+Danilo Pereira,PSG,2125,61
+W. Omari,Rennes,1062,61
+J. Rodon,Rennes,1310,61
+A. Djiku,Strasbourg,2812,61
+A. Rouault,Toulouse,3274,61
+S. Diomandé,Olympique Lyonnais,1900,61
+Sergio Ramos,PSG,2403,61
+E. Agbadou,Reims,2317,61
+Thiago Mendes,Olympique Lyonnais,2085,61
+B. Chardonnet,Brest,2286,61
+J. Gradit,Lens,2627,61
+Andrei Girotto,Nantes,2954,61
+L. Brassier,Brest,2930,61
+D. Lovren,Olympique Lyonnais,1510,61
+F. Tardieu,Troyes,1079,61
+Alexsandro,Lille,1441,61
+Y. Salmier,Troyes,2637,61
+M. Le Marchand,Strasbourg,1976,61
+N. Pallois,Nantes,2181,61
+Y. Abdelhamid,Reims,3289,61
+Dante,Nice,3119,61
+José Fonte,Lille,2498,61
+T. Mangani,Ajaccio,1351,61
+A. Rami,Troyes,1400,61
+Rúben Dias,Manchester City,2073,39
+W. Fofana,Chelsea,1239,39
+C. Romero,Tottenham Hotspur,2494,39
+W. Saliba,Arsenal,2647,39
+L. Martínez,Manchester United,2276,39
+Gabriel Magalhaes,Arsenal,3450,39
+V. van Dijk,Liverpool,2894,39
+B. Badiashile,Chelsea,910,39
+I. Konaté,Liverpool,1492,39
+N. Aké,Manchester City,1961,39
+M. Guéhi,Crystal Palace,3341,39
+J. Andersen,Crystal Palace,2739,39
+J. Gomez,Liverpool,1526,39
+M. Akanji,Manchester City,2333,39
+K. Koulibaly,Chelsea,1976,39
+E. Dier,Tottenham Hotspur,3102,39
+T. Mings,Aston Villa,3194,39
+A. Webster,Brighton,2058,39
+M. Salisu,Southampton,2156,39
+C. Coady,Everton,2140,39
+I. Diop,Fulham,1840,39
+L. Dunk,Brighton,3163,39
+M. Senesi,Bournemouth,2515,39
+J. Matip,Liverpool,1093,39
+L. Colwill,Brighton,918,39
+T. Adarabioyo,Fulham,1904,39
+M. Wöber,Leeds United,1130,39
+C. Lenglet,Tottenham Hotspur,1905,39
+F. Schär,Newcastle United,3128,39
+Thiago Silva,Chelsea,2286,39
+T. Ream,Fulham,3177,39
+Gonçalo Inácio,Sporting CP,2613,94
+Ali Al Musrati,Sporting Braga,2510,94
+J. St. Juste,Sporting CP,1030,94
+S. Coates,Sporting CP,2799,94
+Vitor Tormena,Sporting Braga,2594,94
+Fábio Cardoso,Porto,1363,94
+Paulo Oliveira,Sporting Braga,1636,94
+Tomás Araújo,Gil Vicente,2074,94
+S. Niakaté,Sporting Braga,2336,94
+N. Otamendi,Benfica,3026,94
+Lucas Cunha,Red Bull Bragantino,1495,94
+Filipe Relvas,Portimonense,3157,94
+Pedrão,Portimonense,2840,94
+Pepe,Porto,2208,94
+R. Abascal,Boavista,2518,94
+Josué Sá,Rio Ave,1449,94
+Patrick William,Rio Ave,2102,94
+Adriano,Santa Clara,2376,94
+Iván Marcano,Porto,2400,94
+N. Zolotić,Casa Pia AC,2411,94
+Mexer,Estoril,1072,94
+Renê,Marítimo,1175,94
+O. Diomandé,Sporting CP,952,94
+António Silva,Benfica,2931,94
+M. Škriniar,Internazionale,1900,135
+A. Bastoni,Internazionale,2074,135
+Min-Jae Kim,Napoli,3115,135
+F. Tomori,Milan,2646,135
+P. Kalulu,Milan,2712,135
+G. Scalvini,Atalanta,2130,135
+A. Rrahmani,Napoli,2247,135
+G. Mancini,Roma,2937,135
+M. Thiaw,Milan,1201,135
+Danilo,Juventus,3162,135
+M. de Roon,Atalanta,2806,135
+Igor,Fiorentina,1933,135
+L. Martínez Quarta,Fiorentina,2123,135
+S. Posch,Bologna,2409,135
+E. Ampadu,Spezia,2467,135
+J. Lucumí,Bologna,2764,135
+Rafael Tolói,Atalanta,2596,135
+Patric,Lazio,1438,135
+F. Gatti,Juventus,1200,135
+S. Kjær,Milan,974,135
+Pablo Marí,Monza,2401,135
+Alex Sandro,Juventus,1864,135
+F. Acerbi,Internazionale,2376,135
+D. Nikolaou,Spezia,2804,135
+R. Rodríguez,Torino,2519,135
+J. Bellingham,Borussia Dortmund,2787,78
+J. Kimmich,Bayern München,2720,78
+L. Goretzka,Bayern München,1704,78
+M. Koné,Borussia M'gladbach,2613,78
+D. Kamada,Eintracht Frankfurt,2136,78
+K. Laimer,RB Leipzig,1309,78
+M. Simakan,RB Leipzig,1317,78
+X. Schlager,RB Leipzig,1573,78
+D. Sow,Eintracht Frankfurt,2555,78
+R. Bensebaini,Borussia M'gladbach,2465,78
+A. Haidara,RB Leipzig,1342,78
+M. Arnold,Wolfsburg,2675,78
+S. Özcan,Borussia Dortmund,1638,78
+E. Palacios,Bayer Leverkusen,1483,78
+A. Stach,Mainz 05,1962,78
+J. Weigl,Borussia M'gladbach,1756,78
+F. Neuhaus,Borussia M'gladbach,1345,78
+B. Henrichs,RB Leipzig,2215,78
+E. Can,Borussia Dortmund,1766,78
+E. Skhiri,Köln,2772,78
+J. Scally,Borussia M'gladbach,2355,78
+K. Sildillia,Freiburg,2053,78
+R. Andrich,Bayer Leverkusen,2573,78
+L. Tousart,Hertha BSC,2877,78
+N. Ahamada,Crystal Palace,1486,78
+D. Ljubičić,Köln,1593,78
+L. Barreiro,Mainz 05,2121,78
+K. Demirbay,Bayer Leverkusen,1450,78
+E. Forsberg,RB Leipzig,1408,78
+D. Geiger,Hoffenheim,2003,78
+J. Juranović,Union Berlin,975,78
+M. Eggestein,Freiburg,2398,78
+R. Khedira,Union Berlin,2795,78
+F. Nmecha,Wolfsburg,1735,78
+G. Prömel,Hoffenheim,1271,78
+Y. Gerhardt,Wolfsburg,1782,78
+S. Serdar,Hertha BSC,1979,78
+W. Endo,Stuttgart,2870,78
+E. Martel,Köln,1908,78
+T. Krauß,Schalke 04,2554,78
+Iago,Augsburg,1734,78
+A. Král,Schalke 04,2270,78
+A. Maier,Augsburg,1940,78
+S. Widmer,Mainz 05,1807,78
+K. Kampl,RB Leipzig,1373,78
+A. Karazor,Stuttgart,1844,78
+I. Šunjić,Hertha BSC,1075,78
+D. Kohr,Mainz 05,2282,78
+Jae-Sung Lee,Mainz 05,1857,78
+M. Halstenberg,RB Leipzig,1497,78
+J. Kenny,Hertha BSC,2130,78
+J. Stage,Werder Bremen,1799,78
+A. Engels,Augsburg,1358,78
+E. Rexhbecaj,Augsburg,2515,78
+R. Gumny,Augsburg,2123,78
+I. Gruev,Werder Bremen,1504,78
+L. Kübler,Freiburg,1662,78
+F. Jensen,Augsburg,1015,78
+S. Rode,Eintracht Frankfurt,1343,78
+K. Stöger,Bochum,2520,78
+N. Schmidt,Werder Bremen,1096,78
+C. Brunner,Schalke 04,2229,78
+L. Stindl,Borussia M'gladbach,1690,78
+C. Kramer,Borussia M'gladbach,2287,78
+P. Förster,Bochum,1174,78
+N. Höfler,Freiburg,2807,78
+M. Pedersen,Augsburg,1741,78
+Danilo Soares,Bochum,1875,78
+P. Osterhage,Bochum,1077,78
+M. Plattenhardt,Hertha BSC,2448,78
+J. Boëtius,Hertha BSC,1021,78
+G. Haraguchi,Stuttgart,1327,78
+K. Stafylidis,Bochum,1089,78
+A. Jung,Werder Bremen,2566,78
+S. Janko,Bochum,943,78
+D. Drexler,Schalke 04,1325,78
+C. Gamboa,Bochum,1553,78
+C. Groß,Werder Bremen,1932,78
+A. Losilla,Bochum,2611,78
+I. Sangaré,PSV,2222,88
+O. Kökçü,Feyenoord,2608,88
+C. Bassey,Ajax,1981,88
+L. Geertruida,Feyenoord,2488,88
+J. Veerman,PSV,2391,88
+K. Taylor,Ajax,2425,88
+Q. Timber,Feyenoord,1572,88
+É. Gutiérrez,PSV,1603,88
+M. Wieffer,Feyenoord,1624,88
+R. Zerrouki,Twente,2737,88
+D. Blind,Ajax,1034,88
+J. Sánchez,Ajax,1208,88
+D. de Wit,AZ,1194,88
+C. Bozdogan,Utrecht,1407,88
+S. Mijnans,AZ,2634,88
+J. Kitolano,Sparta Rotterdam,2724,88
+J. Clasie,AZ,2841,88
+K. Bistrović,Fortuna Sittard,1230,88
+C. Eiting,Volendam,2999,88
+J. Hove,Groningen,1325,88
+D. Proper,NEC,2760,88
+T. Haye,Heerenveen,2622,88
+A. Verschueren,Sparta Rotterdam,2424,88
+S. Tronstad,Vitesse,1983,88
+L. Brouwers,Utrecht,1813,88
+L. Duarte,Groningen,1693,88
+S. Olsson,Heerenveen,2150,88
+M. Kjølø,Twente,1078,88
+D. Erdoğan,Fortuna Sittard,1547,88
+J. Toornstra,Utrecht,2376,88
+O. Özyakup,Fortuna Sittard,1666,88
+B. van Rooij,NEC,2931,88
+A. Tahiri,Heerenveen,2494,88
+M. Hoedemakers,Cambuur,2100,88
+G. Cox,Fortuna Sittard,2150,88
+R. Vita,Fortuna Sittard,1166,88
+P. Rommens,Go Ahead Eagles,2391,88
+D. Duarte,Fortuna Sittard,1401,88
+L. Bernadou,Emmen,1913,88
+M. Duelund,NEC,1010,88
+S. Sambo,Sparta Rotterdam,2260,88
+D. van Kaam,Cambuur,2277,88
+J. Lelieveld,RKC Waalwijk,2649,88
+A. Ferati,Fortuna Sittard,1491,88
+L. van Gelderen,Groningen,1145,88
+E. Linthorst,Go Ahead Eagles,1571,88
+S. van Wermeskerken,Cambuur,1647,88
+T. Lutonda,RKC Waalwijk,2408,88
+R. Oratmangoen,Groningen,1182,88
+E. Llansana,Go Ahead Eagles,1186,88
+M. Paulissen,Cambuur,1992,88
+N. Tjoe-A-On,Excelsior,2235,88
+S. Horemans,Excelsior,2892,88
+J. Vlak,Emmen,1663,88
+C. Twigt,Volendam,1133,88
+Y. Oukili,RKC Waalwijk,1719,88
+K. Veendorp,Emmen,2913,88
+J. Pelupessy,Groningen,1432,88
+V. Anita,RKC Waalwijk,2731,88
+L. Schöne,NEC,2827,88
+J. de Guzmán,Sparta Rotterdam,1295,88
+L. Burnet,Emmen,1311,88
+J. van Mullem,Sparta Rotterdam,1069,88
+L. Valente,Groningen,932,88
+J. Plascencia,Mineros de Zacatecas,2669,263
+J. Venegas,Toluca,1913,263
+H. Meza,Mineros de Zacatecas,2221,263
+J. Cortés,Alebrijes de Oaxaca,3041,263
+E. Torres,Universidad Guadalajara,3490,263
+J. Hernández,Tepatitlán de Morelos,3422,263
+I. Tona,Club Tijuana,1532,263
+E. Martínez,Pumas Tabasco,2475,263
+E. Alaffita,Pumas UNAM,1504,263
+A. Hernández,Dorados,1666,263
+A. Nava,Dorados,2360,263
+J. Rodríguez,Mineros de Zacatecas,1749,263
+G. Moreno,Correcaminos UAT,3221,263
+M. Pérez,Cancún,2103,263
+J. Angulo,Correcaminos UAT,1786,263
+J. González,Universidad Guadalajara,3275,263
+B. Figueroa,Mineros de Zacatecas,2589,263
+A. Domínguez,Celaya,3852,263
+M. Reyna,Cafetaleros de Chiapas,1026,263
+U. Zurita,CA La Paz,1597,263
+D. Guajardo,Tapatío,2384,263
+Ó. Macías,Tapatío,3466,263
+D. Gallegos,Celaya,1140,263
+J. Vega,Venados,2907,263
+I. Acero,Tepatitlán de Morelos,2272,263
+R. Peña,Celaya,3415,263
+J. Celaya,Celaya,2013,263
+J. Sánchez,Correcaminos UAT,2392,263
+D. Aguilar,Celaya,3272,263
+K. Lara,Dorados,2022,263
+S. Villarreal,Atlante,2979,263
+J. Lugo,Dorados,1707,263
+M. Rodríguez,Correcaminos UAT,1355,263
+G. Eguade,Cancún,1824,263
+R. Mendoza,CA La Paz,1011,263
+Gilberto García,Tapatío,1556,263
+A. Organista,Tapatío,1405,263
+D. Parra,Monterrey,1902,263
+R. Torres,Atlético Morelia,1879,263
+A. Luna,Venados,3108,263
+L. Oropeza,Pumas Tabasco,1137,263
+Á. Zapata,Juárez,2869,263
+L. Gamíz,Dorados,1742,263
+J. Hernández,Tlaxcala,2215,263
+D. García,Universidad Guadalajara,1016,263
+E. Del Ángel,Celaya,1762,263
+A. Mejía,Dorados,3322,263
+E. Santos,Alebrijes de Oaxaca,1742,263
+H. Sandoval,CA La Paz,1950,263
+O. Botello,Monterrey U20,1412,263
+M. Galván,Atlante,1103,263
+A. Escobar,Atlante,2125,263
+J. Cobián,Durango,1143,263
+K. Amador,Venados,2400,263
+A. Soto,Cafetaleros de Chiapas,1721,263
+E. Mendoza,Tlaxcala,1432,263
+A. Zamora,Tepatitlán de Morelos,1767,263
+L. Márquez,NA,1062,263
+E. Cerna,Atlante,3211,263
+J. Hernández,Durango,2820,263
+A. Catalán,Venados,1156,263
+F. Tede Pérez,Correcaminos UAT,1562,263
+C. Guerrero,Alebrijes de Oaxaca,1320,263
+F. Reyes,Atlante,3575,263
+J. Martínez,Atlante,3576,263
+E. Fernández,Venados,1080,263
+J. Rangel,Tlaxcala,1722,263
+E. Martínez,NA,1522,263
+A. Martín,CA La Paz,1772,263
+A. López,Durango,1024,263
+M. Lozano,Tlaxcala,1411,263
+N. Cardozo,Venados,1454,263
+J. Casillas,Venados,1139,263
+C. Castillo,Dorados,2021,263
+F. Morales,Alebrijes de Oaxaca II,1855,263
+Junior Moreira,Cancún,2091,263
+E. Reyes,Chihuahua FC,929,263
+M. Reyes,Cancún,1019,263
+L. Gutiérrez,CA La Paz,1388,263
+M. Arreola,Alebrijes de Oaxaca,2883,263
+O. Soto,Atlante,1512,263
+J. Ruiz,Atlético Morelia,1707,263
+M. Chávez,Tapatío,2179,263
+M. García,Venados,2244,263
+E. Franco,Club Atlético Mitre,1230,263
+D. Zago,Puebla U20,1793,263
+J. Zamudio,Tlaxcala,1880,263
+H. Vázquez,Cimarrones de Sonora,1685,263
+A. Carreón,Universidad Guadalajara,2358,263
+B. Navarro,Cimarrones de Sonora,1691,263
+A. Bravo,Tepatitlán de Morelos,1126,263
+Jonathan Tovar,Durango,1622,263
+E. Carballo,Monterrey U23,1425,263
+S. Rodríguez,Raya2,2779,263
+K. Nieto,Pachuca,3913,673
+A. Torres,Guadalajara,3558,673
+Andrea Hernández,FC Juárez,3534,673
+D. Godínez,Guadalajara,3532,673
+A. Kaci,América,3409,673
+L. Mercado,Tigres UANL,3361,673
+M. Sainz,Puebla,3310,673
+Y. Franco,Monterrey,3260,673
+M. Díaz,Pumas UNAM,3247,673
+D. Espinosa,Tijuana,3238,673
+V. González,Atlético de San Luis,3177,673
+D. García,Monterrey,3172,673
+Lia Moran,Querétaro,3143,673
+M. Castillo,FC Juárez,3116,673
+V. Razo,Atlas,3088,673
+Y. Madrid López,Pachuca,2973,673
+R. Zavaleta,Toluca,2944,673
+B. Quintos,Pumas UNAM,2861,673
+F. Rosales,Puebla,2831,673
+J. Orejel,América,2826,673
+N. Hernández,Atlas,2826,673
+M. Cox,Pachuca,2795,673
+N. Antonio,Tigres UANL,2778,673
+D. Fuentes,Necaxa,2770,673
+Y. Arista,NA,2732,673
+N. Gomez Junco,Toluca,2712,673
+D. Garza,Pumas UNAM,2694,673
+B. Díaz,León,2663,673
+N. Villarreal,Tigres UANL,2618,673
+M. Sanchez,FC Juárez,2613,673
+O. Trasviña,Mazatlán,2589,673
+S. Gutiérrez,FC Juárez,2587,673
+Z. Arce,Atlético de San Luis,2577,673
+K. Bernal,Monterrey,2561,673
+A. Ramírez,Santos Laguna,2558,673
+M. Perarnau,Atlético de San Luis,2556,673
+L. Ángeles,León,2544,673
+D. Delgado,Guadalajara,2541,673
+I. Romero,Pachuca,2539,673
+V. Perez,Tijuana,2518,673
+J. García,Atlético de San Luis,2424,673
+S. Cortés,Pachuca,2390,673
+M. Cortés,Querétaro,2377,673
+B. Cuevas,América,2350,673
+M. Pasco,León,2329,673
+Z. Hernández,Toluca,2322,673
+L. Rodríguez,Toluca,2239,673
+K. García,Atlas,2163,673
+K. Martínez,Guadalajara,2156,673
+E. González,América,2148,673
+B. León,Santos Laguna,2102,673
+N. Martinez,Tijuana,2049,673
+F. Delgado,Querétaro,2021,673
+L. Rodríguez,Monterrey,2020,673
+Laura Parra,Atlético de San Luis,1992,673
+C. Hernández,Pumas UNAM,1985,673
+L. Bravo,León,1960,673
+S. Simental,Monterrey,1877,673
+R. Ruvalcaba,Mazatlán,1821,673
+C. Fonseca,Puebla,1813,673
+I. Najar,Puebla,1811,673
+E. Carmona,Cruz Azul,1805,673
+M. Arciniega,Querétaro,1754,673
+I. Esquivias,León,1718,673
+M. Castro,Puebla,1700,673
+S. Rios,Pumas UNAM,1698,673
+C. Anguiano,Querétaro,1664,673
+E. Izaguirre,Tijuana,1653,673
+V. Valdez,Monterrey,1628,673
+D. Cruz,Atlas,1616,673
+K. Abud,FC Juárez,1605,673
+I. Tenahua,Puebla,1600,673
+D. Alvarado,Querétaro,1589,673
+I. Hernández,Tijuana,1566,673
+L. Rangel,Tigres UANL,1532,673
+A. Franco,Atlas,1526,673
+N. Zaragoza,NA,1427,673
+R. Villuendas,FC Juárez,1422,673
+K. Estrada,Santos Laguna,1360,673
+Silvana González,Atlético de San Luis,1311,673
+E. Bautista,FC Juárez,1265,673
+R. Hernández,Necaxa,1257,673
+A. Huerta,NA,1252,673
+N. Teja,NA,1250,673
+B. Figueroa,Querétaro,1188,673
+R. Velázquez,Necaxa,1167,673
+D. García,Cruz Azul,1138,673
+A. Guerrero,Pumas UNAM,1111,673
+M. Flores,NA,1096,673
+A. Delgado,Tigres UANL,1079,673
+D. Auza,Puebla,1045,673
+K. Becerril,Toluca,997,673
+Y. Rodriguez,Pumas UNAM,994,673
+Susana Romero,NA,971,673
+K. Saavedra,NA,971,673
+A. Martínez,Cruz Azul,944,673
+A. Hernández Ponce,León,938,673
+B. Woodall,León,923,673
+S. Bejarano,Atlas,916,673
+A. Vázquez,Guadalajara,903,673
+A. Tchouaméni,Real Madrid,1939,140
+F. de Jong,Barcelona,2237,140
+J. Koundé,Barcelona,2277,140
+E. Camavinga,Real Madrid,1869,140
+D. Alaba,Real Madrid,1804,140
+Mikel Merino,Real Sociedad,2320,140
+R. de Paul,Atlético Madrid,1742,140
+Martín Zubimendi,Real Sociedad,2936,140
+F. Mendy,Real Madrid,1228,140
+Brais Méndez,Real Sociedad,2375,140
+G. Rodríguez,Real Betis,2632,140
+Reinildo Mandava,Atlético Madrid,2019,140
+J. Foyth,Villarreal,1859,140
+Hugo Guillamón,Valencia,1799,140
+G. Kondogbia,Atlético Madrid,1103,140
+T. Kroos,Real Madrid,1931,140
+Koke,Atlético Madrid,2245,140
+William Carvalho,Real Betis,2347,140
+Arnau Martínez,Girona,2502,140
+Fran Beltrán,Celta de Vigo,2851,140
+Aritz Elustondo,Real Sociedad,1398,140
+Joan Jordán,Sevilla,1684,140
+Jon Moncayola,Osasuna,2291,140
+Dani Ceballos,Real Madrid,1372,140
+Aleix García,Girona,2478,140
+L. Modrić,Real Madrid,1634,140
+Carles Aleñà,Getafe,2005,140
+E. Lamela,Sevilla,1611,140
+P. Gueye,Sevilla,961,140
+Isi Palazón,Rayo Vallecano,2723,140
+Nico González,Valencia,1146,140
+Óscar Rodríguez,Celta de Vigo,1565,140
+Manu Sánchez,Osasuna,1831,140
+Moi Gómez,Osasuna,2598,140
+R. Tapia,Celta de Vigo,1288,140
+L. Robertone,Almería,2625,140
+Vinicius Souza,Espanyol,2521,140
+Dani Parejo,Villarreal,3185,140
+Lucas Torró,Osasuna,2190,140
+Sergi Roberto,Barcelona,1157,140
+Nacho Fernández,Real Madrid,1485,140
+Aihen Muñoz,Real Sociedad,1623,140
+Ilaix Moriba,Valencia,1099,140
+Rubén García,Osasuna,1060,140
+Luis Milla,Getafe,1866,140
+Nacho Vidal,Osasuna,1368,140
+Samú Costa,Almería,1874,140
+Monchu,Real Valladolid,1967,140
+Y. Sabaly,Real Betis,1501,140
+Mikel Vesga,Athletic Bilbao,2459,140
+Oriol Romeu,Girona,2880,140
+Santi Comesaña,Rayo Vallecano,2192,140
+Álex Fernández,Cádiz,1745,140
+Sergio Busquets,Barcelona,2240,140
+José Ángel Carmona,Elche,1193,140
+Gonzalo Melero,Almería,1669,140
+Kike Pérez,Real Valladolid,2282,140
+I. Rakitić,Sevilla,1719,140
+K. Rekik,Sevilla,911,140
+Unai López,Rayo Vallecano,1290,140
+Óscar Valentín,Rayo Vallecano,2398,140
+Omar Mascarell,Elche,2679,140
+Gerard Gumbau,Elche,2468,140
+Raúl Guti,Elche,1167,140
+Álvaro Aguado,Real Valladolid,1763,140
+Óscar Gil,Espanyol,2370,140
+I. Baba,Mallorca,1498,140
+Fernando,Sevilla,1623,140
+Ó. Trejo,Rayo Vallecano,2101,140
+E. Capoue,Villarreal,1844,140
+H. Mendes,Almería,953,140
+Roque Mesa,Real Valladolid,1491,140
+L. Olaza,Real Valladolid,1336,140
+Javi Hernández,Girona,1131,140
+Juan Cruz,Osasuna,2119,140
+G. González,Mallorca,961,140
+D. Brašanac,Osasuna,1148,140
+Iñigo Ruiz de Galarreta,Mallorca,2476,140
+Asier Illarramendi,Real Sociedad,990,140
+Dani García,Athletic Bilbao,1428,140
+Rubén Alcaraz,Cádiz,2009,140
+Fede San Emeterio,Cádiz,1731,140
+Sergio Escudero,Real Valladolid,1362,140
+Aleix Vidal,Espanyol,1086,140
+Antonio Sánchez,Mallorca,1121,140
+Ángel Algobia,Getafe,1214,140
+A. Guardado,Real Betis,1346,140
+Ramón Terrats,Villarreal B,920,140
+Iza Carcelén,Cádiz,1955,140
+H. Palacios,Elche,1999,140
+Iñigo Eguaras,Almería,1028,140
+Jaume Costa,Mallorca,2501,140
+Dani Rodríguez,Mallorca,1894,140
+Pablo Ibáñez,Osasuna,1007,140
+Gavi,Barcelona,2393,140
+F. Gorriarán,Tigres UANL,3103,262
+E. Sánchez,Pachuca,3861,262
+L. Chávez,Pachuca,3793,262
+A. González,Monterrey,2868,262
+J. Angulo,Tigres UANL,3619,262
+Álvaro Fidalgo,América,3550,262
+L. Romo,Monterrey,3680,262
+R. Sánchez,América,2913,262
+C. Baeza,Toluca,3401,262
+A. Cervantes,Santos Laguna,2871,262
+M. Ruiz,Toluca,3489,262
+E. Lira,Cruz Azul,3174,262
+E. Aguirre,Monterrey,1919,262
+Á. Márquez,Atlas,2022,262
+J. Gallardo,Monterrey,3272,262
+A. Rocha,Atlas,2272,262
+P. Aquino,Santos Laguna,1335,262
+S. Medina,Monterrey,3544,262
+L. Romero,León,1282,262
+O. Rodríguez,León,2917,262
+J. Sanabria,Atlético de San Luis,2852,262
+M. Kranevitter,River Plate,1016,262
+A. Oliveros,Necaxa,3350,262
+J. Rodríguez,León,2182,262
+J. Salas,Juárez,2343,262
+J. Intriago,Mazatlán,2550,262
+J. Sierra,Juárez,2359,262
+L. Reyes,Atlas,3083,262
+E. Zaldívar,Atlas,2106,262
+R. López,Santos Laguna,2075,262
+C. Calderón,Guadalajara,2310,262
+Higor Meritão,Pumas UNAM,1843,262
+R. Chávez,Atlético de San Luis,3407,262
+É. Flores,Atlas,923,262
+R. González,Guadalajara,2163,262
+L. López,Club Tijuana,1512,262
+Rafael Carioca,Tigres UANL,2810,262
+F. Lértora,Club Tijuana,2963,262
+J. Güemez,Atlético de San Luis,2986,262
+A. Araos,Atlético GO,1097,262
+J. Abella,Atlas,2263,262
+A. López,Santos Laguna,1687,262
+B. Angulo,Toluca,2999,262
+C. Rivera,Querétaro,2115,262
+I. Govea,Club Tijuana,2552,262
+J. Van Rankin,Necaxa,1596,262
+A. Mayorga,Guadalajara,961,262
+J. Vigón,Tigres UANL,1746,262
+C. Ortiz,Monterrey,3053,262
+R. Meráz,Mazatlán,2510,262
+C. Vargas,Cruz Azul,1032,262
+A. Cruz,Atlético de San Luis,1419,262
+M. García,Belgrano,955,262
+F. Navarro,Toluca,2592,262
+B. Colula,Mazatlán,2137,262
+U. García,Atlético de San Luis,1222,262
+I. Luna,Pachuca,1159,262
+V. Poggi,Necaxa,922,262
+F. Madrigal,Necaxa,2438,262
+F. Mancuello,Puebla,3545,262
+C. Guzmán,Querétaro,1361,262
+K. Escamilla,Querétaro,2279,262
+A. Iniestra,Atlético de San Luis,972,262
+R. Baca,Cruz Azul,1156,262
+J. Vázquez,Club Tijuana,1828,262
+P. Bennevendo,Pumas UNAM,2280,262
+J. Padilla,Mazatlán,1293,262
+O. Mendoza,Querétaro,2232,262
+J. Perlaza,Querétaro,1005,262
+R. Monreal,Necaxa,992,262
+J. Hernández,Querétaro,1389,262
+L. Montes,Everton,956,262
+A. Acosta,NA,1025,262
+F. Venegas,Mazatlán,1168,262
+P. Monroy,Pumas UNAM U20,966,262
+R. López,Querétaro,1541,262
+D. García,Juárez,1064,262
+E. Martínez,Puebla,1400,262
+A. Montaño,Mazatlán,1289,262
+Dani Alves,NA,1215,262
+M. Verratti,PSG,1902,61
+Vitinha,PSG,2268,61
+Fabián Ruiz,PSG,1767,61
+Carlos Soler,PSG,1212,61
+M. Camara,Monaco,2147,61
+M. Caqueret,Olympique Lyonnais,2555,61
+Y. Fofana,Monaco,2921,61
+N. Mukiele,PSG,1218,61
+L. Majer,Rennes,1398,61
+V. Rongier,Olympique Marseille,2950,61
+B. Santamaria,Rennes,1560,61
+E. Le Fée,Lorient,2814,61
+André Gomes,Lille,1776,61
+J. Veretout,Olympique Marseille,2672,61
+C. Tolisso,Olympique Lyonnais,1803,61
+S. Abdul Samed,Lens,2716,61
+Angel Gomes,Lille,2664,61
+T. Savanier,Montpellier,2463,61
+Juan Bernat,PSG,1387,61
+B. André,Lille,2721,61
+J. Makengo,Lorient,920,61
+J. Lepenant,Olympique Lyonnais,2007,61
+J. Chotard,Montpellier,2251,61
+B. van den Boomen,Toulouse,2954,61
+I. Sissoko,Strasbourg,1117,61
+L. Ugochukwu,Rennes,1399,61
+B. Diakité,Lille,2436,61
+H. Boudaoui,Nice,1655,61
+F. Tait,Rennes,1753,61
+P. Rosario,Nice,1611,61
+L. Agoumé,Troyes,1093,61
+E. Matazo,Monaco,1070,61
+Pedro Chirivella,Nantes,1997,61
+A. Matusiwa,Reims,2377,61
+N. Cozza,Wolfsburg,1389,61
+A. Gravillon,Torino,1119,61
+R. Kouamé,Troyes,2438,61
+S. Kolašinac,Olympique Marseille,2064,61
+A. Seidu,Clermont,2246,61
+G. Kalulu,Lorient,2295,61
+J. Ferri,Montpellier,2626,61
+N. Bentaleb,Angers SCO,2447,61
+J. Cajuste,Reims,1349,61
+S. Moutoussamy,Nantes,2164,61
+P. Lees-Melou,Brest,2570,61
+F. Sacko,Montpellier,2452,61
+S. Spierings,Toulouse,3078,61
+M. Sissoko,Nantes,1945,61
+S. Prcić,Strasbourg,1706,61
+A. Ramsey,Nice,1674,61
+D. Lopy,Reims,1411,61
+Ismaily,Lille,1761,61
+M. Haïdara,Lens,1663,61
+J. Aholou,Strasbourg,1394,61
+B. Locko,Brest,1424,61
+L. Abergel,Lorient,2100,61
+H. Belkebla,Brest,2493,61
+M. Camara,Brest,1815,61
+E. Tchato,Montpellier,1101,61
+V. Marchetti,Ajaccio,2372,61
+B. Mendy,Angers SCO,2670,61
+F. Mollet,Nantes,901,61
+J. Ponceau,Lorient,1741,61
+M. Desler,Toulouse,2144,61
+H. Sakhi,Auxerre,1719,61
+Y. Magnin,Clermont,2405,61
+B. Innocent,Lorient,1151,61
+G. Suazo,Toulouse,1078,61
+X. Chavalerin,Troyes,2123,61
+H. Magnetti,Brest,1674,61
+B. Dejaegere,Toulouse,1778,61
+Y. Koné,Ajaccio,977,61
+I. Diallo,Ajaccio,2187,61
+B. Touré,Auxerre,3224,61
+S. Khaoui,Clermont,1938,61
+R. Raveloson,Auxerre,2217,61
+K. Lala,Brest,1119,61
+V. Le Goff,Lorient,3160,61
+L. Leroy,Montpellier,1192,61
+H. Abdelli,Angers SCO,1898,61
+N. Fadiga,Brest,1401,61
+M. Gonalons,Clermont,1338,61
+Y. M'Changama,Auxerre,1072,61
+J. Gastien,Clermont,2396,61
+M. Diarra,Toulouse,1243,61
+M. Barreto,Ajaccio,1079,61
+A. Bamba,Angers SCO,1091,61
+P. Capelle,Angers SCO,1380,61
+M. Alphonse,Ajaccio,1410,61
+M. Coutadeur,Ajaccio,1825,61
+S. Kumbedi,Olympique Lyonnais,1113,61
+E. Fernández,Chelsea,1303,39
+Rodri,Manchester City,2947,39
+D. Rice,West Ham United,3233,39
+Bruno Guimarães,Newcastle United,2581,39
+M. Caicedo,Brighton,2889,39
+Casemiro,Manchester United,1830,39
+Fabinho,Liverpool,2649,39
+P. Højbjerg,Tottenham Hotspur,3338,39
+Matheus Nunes,Wolverhampton Wanderers,2489,39
+A. Onana,Everton,2466,39
+R. Bentancur,Tottenham Hotspur,1617,39
+Marc Cucurella,Chelsea,1812,39
+M. Kovačić,Chelsea,1807,39
+Rúben Neves,Wolverhampton Wanderers,3061,39
+O. Zinchenko,Arsenal,2284,39
+J. Ward-Prowse,Southampton,3317,39
+T. Partey,Arsenal,2500,39
+Douglas Luiz,Aston Villa,2932,39
+João Palhinha,Fulham,3012,39
+L. Shaw,Manchester United,2412,39
+Diogo Dalot,Manchester United,2217,39
+Jorginho,Arsenal,2101,39
+C. Gallagher,Chelsea,1486,39
+W. Ndidi,Leicester City,1631,39
+Y. Tielemans,Leicester City,2173,39
+J. Stones,Manchester City,1882,39
+C. Doucouré,Crystal Palace,2704,39
+T. Castagne,Leicester City,3159,39
+T. Mitchell,Crystal Palace,2850,39
+G. Xhaka,Arsenal,3055,39
+J.  McGinn,Aston Villa,2656,39
+J. Justin,Leicester City,1349,39
+S. McTominay,Manchester United,1226,39
+R. Lavia,Southampton,2076,39
+R. Loftus-Cheek,Chelsea,1452,39
+K. Dewsbury-Hall,Leicester City,2407,39
+Y. Bissouma,Tottenham Hotspur,920,39
+B. Kamara,Aston Villa,1723,39
+C. Eriksen,Manchester United,1806,39
+S. Longstaff,Newcastle United,2684,39
+R. Henry,Brentford,3252,39
+V. Mykolenko,Everton,2819,39
+T. Malacia,Manchester United,1278,39
+A. Wan-Bissaka,Manchester United,1174,39
+W. McKennie,Leeds United,1307,39
+T. Adams,Leeds United,2365,39
+Renan Lodi,Nottingham Forest,2073,39
+B. Soumaré,Leicester City,1399,39
+P. Struijk,Leeds United,2271,39
+B. Davies,Tottenham Hotspur,2231,39
+Fred,Manchester United,1293,39
+P. Billing,Bournemouth,2808,39
+A. Hickey,Brentford,1813,39
+Thiago Alcântara,Liverpool,1371,39
+T. Kehrer,West Ham United,2179,39
+Jonny Otto,Wolverhampton Wanderers,1376,39
+L. Dendoncker,Aston Villa,1029,39
+V. Janelt,Brentford,2130,39
+J. Lerma,Bournemouth,3255,39
+M. Damsgaard,Brentford,914,39
+K. Walker,Manchester City,1737,39
+Marc Roca,Leeds United,2498,39
+R. Kristensen,Leeds United,1861,39
+O. Skipp,Tottenham Hotspur,1376,39
+Nélson Semedo,Wolverhampton Wanderers,2593,39
+H. Reed,Fulham,2786,39
+C. Nørgaard,Brentford,1919,39
+N. Patterson,Everton,1194,39
+M. Elyounoussi,Southampton,2184,39
+J. Lingard,Nottingham Forest,1005,39
+O. Mangala,Nottingham Forest,1310,39
+J. Firpo,Leeds United,1358,39
+D. Burn,Newcastle United,3094,39
+L. Cook,Bournemouth,1803,39
+J. Henderson,Liverpool,2069,39
+R. Freuler,Nottingham Forest,2328,39
+L. Thomas,Leicester City,932,39
+J. Veltman,Brighton,2226,39
+M. Lemina,Wolverhampton Wanderers,1218,39
+R. Christie,Bournemouth,1801,39
+I. Diallo,Southampton,920,39
+A. Maitland-Niles,Southampton,1358,39
+César Azpilicueta,Chelsea,1397,39
+R. Yates,Nottingham Forest,1642,39
+I. Gueye,Everton,2436,39
+J. Schlupp,Crystal Palace,2701,39
+B. De Cordova-Reid,Fulham,2615,39
+S. Aurier,Nottingham Forest,1763,39
+J. Rothwell,Bournemouth,1018,39
+H. Toffolo,Nottingham Forest,984,39
+C. Kouyaté,Nottingham Forest,904,39
+N. Clyne,Crystal Palace,1781,39
+A. Cresswell,West Ham United,2258,39
+M. Roerslev,Brentford,1234,39
+J. Ward,Crystal Palace,2177,39
+João Moutinho,Wolverhampton Wanderers,1944,39
+A. Smith,Bournemouth,3020,39
+S. Coleman,Everton,1794,39
+A. Young,Aston Villa,2125,39
+E. Fernández,Chelsea,1482,94
+M. Ugarte,Sporting CP,2540,94
+Florentino Luís,Benfica,2298,94
+F. Aursnes,Benfica,2354,94
+H. Morita,Sporting CP,2132,94
+M. Uribe,Porto,2697,94
+Stephen Eustáquio,Porto,1836,94
+M. Grujić,Porto,1252,94
+Matheus Reis,Sporting CP,2492,94
+U. Račić,Sporting Braga,1249,94
+Chiquinho,Benfica,1515,94
+André Horta,Sporting Braga,2200,94
+R. Cannon,Boavista,2551,94
+Gustavo Assunção,Famalicão,1095,94
+Alexandre Penetra,Famalicão,2760,94
+S. Colombatto,Famalicão,2838,94
+Z. Youssouf,Famalicão,2305,94
+Romário Baró,Casa Pia AC,1005,94
+João Carvalho,Estoril,2477,94
+G. Makouta,Boavista,3008,94
+Guga,Rio Ave,3163,94
+K. Misao,Santa Clara,1172,94
+Bruno Jordão,Santa Clara,906,94
+Vitor Carvalho,Gil Vicente,2950,94
+Tiago Silva,Vitória Guimarães,2254,94
+S. Pérez,Boavista,2630,94
+L. Rosier,Estoril,1231,94
+Samu,Vizela,2922,94
+Victor Bobsin,Santa Clara,1788,94
+T. Kunimoto,Casa Pia AC,1363,94
+Zé Carlos,Vitória Guimarães,957,94
+Dani Silva,Vitória Guimarães,1826,94
+Afonso Freitas,Vitória Guimarães,2101,94
+Miguel Baeza,Rio Ave,1188,94
+André André,Vitória Guimarães,1482,94
+G. Aburjania,Gil Vicente,1797,94
+A. Méndez,Vizela,1604,94
+Luquinha,Portimonense,1278,94
+Raphael Guzzo,Vizela,2576,94
+Francisco Geraldes,Estoril,1996,94
+A. Ruiz,Arouca,2685,94
+Tiago Esgaio,Arouca,2511,94
+M. Sylla,Arouca,2510,94
+Rui Pires,Paços de Ferreira,2611,94
+Kiki,Vizela,2442,94
+Afonso Taira,Casa Pia AC,2232,94
+I. Camará,Boavista,1150,94
+Bruno Lourenço,Boavista,2024,94
+B. Mukendi,Casa Pia AC,1005,94
+B. Milovanov,Arouca,1078,94
+Igor Julião,Vizela,1766,94
+Tomás Silva,Vizela,1329,94
+João Gamboa,Estoril,1120,94
+Oriol Busquets,Arouca,1303,94
+Paulo Estrela,Portimonense,1648,94
+I. Soro,Arouca,1611,94
+S. Beltrame,Marítimo,1172,94
+Diogo Mendes,Marítimo,1369,94
+J. Holsgrove,Paços de Ferreira,1947,94
+MT,Santa Clara,1238,94
+Val,Marítimo,1327,94
+João Graça,Rio Ave,1257,94
+Paulo Henrique,Santa Clara,1563,94
+M. Diaby,Portimonense,1557,94
+Ricardo Guima,Chaves,2176,94
+A. Samaris,Rio Ave,1518,94
+João Afonso,Marítimo,1622,94
+Maurício,Portimonense,1078,94
+Pedro Silva,Gil Vicente,1371,94
+David Simão,Arouca,2765,94
+Ângelo Neto,Casa Pia AC,1659,94
+Claudemir,Vizela,1484,94
+Joãozinho,Estoril,2825,94
+Rúben Lima,Famalicão,1303,94
+Derick Poloni,Casa Pia AC,1563,94
+Luiz Carlos,Paços de Ferreira,1223,94
+S. Milinković-Savić,Lazio,2864,135
+S. Tonali,Milan,2590,135
+I. Bennacer,Milan,2179,135
+A. Zambo Anguissa,Napoli,2907,135
+S. Lobotka,Napoli,2930,135
+H. Çalhanoğlu,Internazionale,2371,135
+A. Rabiot,Juventus,2573,135
+M. Locatelli,Juventus,2357,135
+T. Koopmeiners,Atalanta,2682,135
+M. Brozović,Internazionale,1601,135
+S. Amrabat,Fiorentina,2040,135
+W. McKennie,Juventus,1120,135
+B. Cristante,Roma,2968,135
+Éderson,Atalanta,2104,135
+N. Fagioli,Juventus,1569,135
+D. Calabria,Milan,1543,135
+M. Olivera,Napoli,1504,135
+N. Domínguez,Bologna,2131,135
+M. López,Sassuolo,2081,135
+S. Ricci,Torino,1847,135
+I. Ilić,Torino,1810,135
+M. Pessina,Monza,2759,135
+S. Lukić,Fulham,1297,135
+L. Paredes,Juventus,909,135
+M. Hjulmand,Lecce,2902,135
+H. Winks,Sampdoria,1467,135
+N. Rovella,Monza,1641,135
+R. Krunić,Milan,1543,135
+R. Mandragora,Fiorentina,1893,135
+J. Schouten,Bologna,2360,135
+K. Thorstvedt,Sassuolo,1151,135
+Matheus Henrique,Sassuolo,1725,135
+R. Marin,Empoli,2558,135
+Mário Rui,Napoli,1769,135
+A. Tamèze,Hellas Verona,2831,135
+S. Sensi,Monza,1594,135
+A. Marušić,Lazio,2952,135
+Marlon,Monza,1482,135
+D. Cataldi,Lazio,2009,135
+Walace,Udinese,2999,135
+N. Moro,Bologna,1147,135
+H. Hateboer,Atalanta,1484,135
+H. Mkhitaryan,Internazionale,2044,135
+A. Duncan,Fiorentina,920,135
+M. Vecino,Lazio,1580,135
+M. De Sciglio,Juventus,1124,135
+Y. Maleh,Lecce,1012,135
+J. Toljan,Sassuolo,2521,135
+Carlos Augusto,Monza,2920,135
+L. Coulibaly,Salernitana,2676,135
+N. Matić,Roma,1972,135
+E. Hysaj,Lazio,1840,135
+M. Darmian,Internazionale,2051,135
+O. Duda,Hellas Verona,1062,135
+V. Gendrey,Lecce,2896,135
+S. Meïté,Cremonese,2155,135
+C. Pickel,Cremonese,2369,135
+R. Soriano,Bologna,1443,135
+K. Amian,Spezia,2288,135
+D. Faraoni,Hellas Verona,1280,135
+M. Aebischer,Bologna,1406,135
+K. Linetty,Torino,1979,135
+T. Vilhena,Salernitana,2143,135
+L. Henderson,Empoli,901,135
+F. Depaoli,Hellas Verona,2194,135
+A. Sabiri,Sampdoria,1176,135
+Ronaldo Vieira,Torino,924,135
+P. Stojanović,Empoli,1560,135
+N. Haas,Empoli,1154,135
+K. Ehizibue,Udinese,1669,135
+T. Ebuehi,Empoli,1712,135
+A. Blin,Lecce,2093,135
+B. Bereszyński,Napoli,1303,135
+M. Benassi,Cremonese,1111,135
+José Machin,Monza,1211,135
+J. Akpa Akpro,Empoli,1142,135
+G. Kastanos,Salernitana,1073,135
+M. Bourabia,Spezia,2671,135
+G. Medel,Bologna,1488,135
+A. Ekdal,Spezia,1628,135
+T. Rincón,Sampdoria,2333,135
+M. Castagnetti,Cremonese,1340,135
+Joan Gonzàlez,Lecce,2245,135
+J. Musiala,Bayern München,2126,78
+C. Nkunku,RB Leipzig,1732,78
+L. Sané,Bayern München,1928,78
+R. Kolo Muani,Eintracht Frankfurt,2526,78
+S. Gnabry,Bayern München,1827,78
+S. Mané,Bayern München,1489,78
+J. Frimpong,Bayer Leverkusen,2572,78
+K. Adeyemi,Borussia Dortmund,1240,78
+M. Thuram,Borussia M'gladbach,2515,78
+P. Schick,Bayer Leverkusen,1019,78
+Y. Moukoko,Borussia Dortmund,1167,78
+S. Haller,Borussia Dortmund,1021,78
+J. Lindstrøm,Eintracht Frankfurt,1668,78
+T. Werner,RB Leipzig,1886,78
+André Silva,RB Leipzig,1766,78
+G. Rutter,Leeds United,1079,78
+C. Baumgartner,Hoffenheim,2519,78
+R. Borré,Eintracht Frankfurt,1160,78
+A. Adli,Bayer Leverkusen,1348,78
+A. Hložek,Bayer Leverkusen,1340,78
+R. Doan,Freiburg,2264,78
+M. Svanberg,Wolfsburg,1847,78
+L. Nmecha,Wolfsburg,972,78
+J. Wind,Wolfsburg,1152,78
+D. Lukébakio,Hertha BSC,2387,78
+E. Demirović,Augsburg,2248,78
+M. Berisha,Augsburg,1696,78
+N. Füllkrug,Werder Bremen,2479,78
+Silas,Stuttgart,1895,78
+S. Guirassy,Stuttgart,1477,78
+J. Kamiński,Wolfsburg,1939,78
+L. Ajorque,Mainz 05,1189,78
+A. Kramarić,Hoffenheim,2286,78
+J. Siebatcheu,Union Berlin,1398,78
+M. Reus,Borussia Dortmund,1354,78
+M. Gregoritsch,Freiburg,2180,78
+C. Ejuke,Hertha BSC,919,78
+J. Dina Ebimbe,Eintracht Frankfurt,1096,78
+Tiago Tomás,Stuttgart,1234,78
+I. Bebou,Hoffenheim,1224,78
+J. Haberer,Union Berlin,2062,78
+M. Ducksch,Werder Bremen,2775,78
+D. Beljo,Augsburg,990,78
+E. Choupo-Moting,Bayern München,1148,78
+Omar Marmoush,Wolfsburg,1519,78
+L. Höler,Freiburg,1306,78
+J. Vagnoman,Stuttgart,1356,78
+M. Ingvartsen,Mainz 05,1254,78
+T. Asano,Bochum,1564,78
+C. Führich,Stuttgart,1870,78
+M. Dabbur,Hoffenheim,926,78
+S. Tigges,Köln,1560,78
+K. Onisiwo,Mainz 05,2427,78
+W. Kanga,Hertha BSC,1513,78
+P. Hofmann,Bochum,2520,78
+F. Niederlechner,Hertha BSC,1671,78
+D. Selke,Köln,1126,78
+K. Behrens,Union Berlin,1401,78
+S. Zoller,Bochum,1508,78
+S. Terodde,Schalke 04,1907,78
+Xavi Simons,PSV,2706,88
+M. Kudus,Ajax,1656,88
+B. Brobbey,Ajax,1583,88
+D. Klaassen,Ajax,2125,88
+V. Pavlidis,AZ,1743,88
+S. Giménez,Feyenoord,1809,88
+R. Pepi,Groningen,2423,88
+G. Til,PSV,1715,88
+A. Douvikas,Utrecht,2070,88
+J. Odgaard,AZ,2186,88
+Danilo,Feyenoord,1392,88
+L. de Jong,PSV,1610,88
+S. van Hooijdonk,Heerenveen,2489,88
+B. Białek,Vitesse,1402,88
+G. Vidović,Vitesse,1274,88
+L. Dimata,NEC,2215,88
+T. Lauritsen,Sparta Rotterdam,2875,88
+M. Vlap,Twente,2163,88
+B. Dost,Utrecht,1504,88
+Julen Lobete,RKC Waalwijk,1255,88
+E. Tavsan,NEC,2536,88
+P. van Amersfoort,Heerenveen,1209,88
+S. van de Streek,Utrecht,2132,88
+K. Saito,Sparta Rotterdam,1488,88
+F. Krüger,Groningen,1148,88
+B. Yılmaz,Fortuna Sittard,2434,88
+S. Steijn,Twente,1239,88
+W. Willumsson,Go Ahead Eagles,2070,88
+R. van Wolfswinkel,Twente,2669,88
+O. Edvardsen,Go Ahead Eagles,1927,88
+B. Adekanye,Go Ahead Eagles,1989,88
+O. Romeny,Emmen,2430,88
+I. Lidberg,Go Ahead Eagles,2699,88
+Rui Mendes,Emmen,1505,88
+G. Oristanio,Volendam,1808,88
+P. Clement,RKC Waalwijk,2309,88
+L. Lamprou,Excelsior,1423,88
+A. El Messaoudi,Emmen,1419,88
+M. Mattsson,NEC,1666,88
+R. Uldriķis,Cambuur,1211,88
+J. Jacobs,Cambuur,1497,88
+R. Mühren,Volendam,1795,88
+B. Johnsen,Cambuur,911,88
+F. Jozefzoon,RKC Waalwijk,904,88
+H. Veerman,Volendam,1355,88
+F. Stokkers,Go Ahead Eagles,1305,88
+M. Breij,Cambuur,1414,88
+P. Gladon,Fortuna Sittard,1251,88
+R. Kharchouch,Excelsior,1244,88
+R. Živković,Emmen,2294,88
+M. Kramer,RKC Waalwijk,1892,88
+M. van Duinen,Excelsior,1011,88
+A. Sarr,Olympique Lyonnais,1755,88
+S. Pérez Bouquet,Juárez,1802,263
+D. Lajud,Atlante,3293,263
+J. Domínguez,Necaxa,1866,263
+J. Zúñiga,Querétaro,1542,263
+R. Marín,Guadalajara,4020,263
+M. Pérez,Venados,1687,263
+A. González,Alebrijes de Oaxaca,2993,263
+J. Maleck,Correcaminos UAT,1164,263
+J. González,Tapatío,1939,263
+L. Razo,Mineros de Zacatecas,2524,263
+B. Mendoza,Atlético Morelia,2728,263
+R. González,Atlante,1376,263
+Á. Robles,Puebla,1362,263
+S. Lora,Venados,2775,263
+O. Villa,Real España,1770,263
+A. Escoto,Celaya,1440,263
+G. Hernández,Correcaminos UAT,2871,263
+D. Jiménez,Cimarrones de Sonora,3069,263
+A. Sayago,Independiente Res.,2125,263
+C. Canozales,Alebrijes de Oaxaca,2697,263
+J. Salas,CA La Paz,1052,263
+J. López,Durango,1692,263
+S. Martinez,Tapatío,1706,263
+A. Ávila,Monterrey U23,1765,263
+W. Rentería,Xelajú,2767,263
+R. Durán,Atlante,1374,263
+E. Herrera,Universitario,1015,263
+D. Delgadillo,Santa Lucía,988,263
+M. Zúñiga,Correcaminos UAT,937,263
+U. Jaimes,CA La Paz,1705,263
+D. López,Atlante,1230,263
+D. Hernández,Cancún,1840,263
+M. Pérez,Venados,917,263
+J. Machado,Atlante,2086,263
+M. Galván,Salamanca CF UDS,1983,263
+J. López,Cimarrones de Sonora,1414,263
+É. Rivera,Universidad Guadalajara,2149,263
+W. Guzmán,Venados,3221,263
+D. Pineda,Correcaminos UAT,1432,263
+A. Sánchez,Cancún,1276,263
+J. Ochoa,CA La Paz,1045,263
+K. Chaurand,Mineros de Zacatecas,1421,263
+L. Loroña,Cancún,2343,263
+J. Brigido,Tapatío,2952,263
+L. Pérez,CA La Paz,2793,263
+J. Gurrola,CA La Paz,1121,263
+F. Escalante,Durango,1598,263
+J. Uchuari,Atlético Morelia,1590,263
+Jacobo Reyes,New Mexico United,2166,263
+J. Cruz,Alebrijes de Oaxaca,982,263
+I. Márquez,Tepatitlán de Morelos,1586,263
+J. Hernández,Guanacasteca,1195,263
+V. López,Monterrey U23,2415,263
+V. Moragrega,CA La Paz,976,263
+M. Caraglio,Venados,997,263
+Y. Espinosa,Correcaminos UAT,1149,263
+K. Calderon,Dorados,1029,263
+J. Flores,Atlético Morelia,1530,263
+J. González,Pumas UNAM U23,1119,263
+Aldo Serna,Tlaxcala,1553,263
+I. Hernández,Tlaxcala,1322,263
+L. Martínez,Universidad Guadalajara,1313,263
+B. Gambarte,NA,1206,263
+B. Rosas,Northern Colorado,1352,263
+D. González,Lazio,1588,263
+M. Fishel,Tigres UANL,3775,673
+C. Burkenroad,Monterrey,3634,673
+K. Palacios,América,3262,673
+D. Calderón,León,3057,673
+E. Santamaria,Querétaro,2981,673
+S. Calvillo,Toluca,2958,673
+M. Roman,Toluca,2954,673
+Jennifer Hermoso,Pachuca,2945,673
+S. Mayor,Tigres UANL,2932,673
+Brenda Graca,Toluca,2904,673
+D. Molina,Cruz Azul,2868,673
+D. Carrandi,Atlético de San Luis,2740,673
+R. Cuéllar,NA,2716,673
+A. Iturbide,Guadalajara,2547,673
+A. Villanueva,Tigres UANL,2422,673
+D. Flores,Cruz Azul,2359,673
+A. Aviléz,América,2313,673
+M. Larroquette,Orlando Pride,2274,673
+K. Martínez,América,2261,673
+A. González,América,2245,673
+D. Félix,NA,2241,673
+Bea Parra,Tindastóll,2228,673
+C. Ibarra,Atlas,2215,673
+M. Delgadillo,Monterrey,2146,673
+B. Solís,FC Juárez,2134,673
+A. Cervantes,Guadalajara,2117,673
+J. Seoposenwe,Monterrey,2076,673
+P. Chavero,Pumas UNAM,2038,673
+L. Ramos,Querétaro,1946,673
+A. Lomelí,Atlas,1922,673
+A. Hix,Tijuana,1909,673
+M. Mauleon,América,1885,673
+R. Huerta,Cruz Azul,1844,673
+D. Guatemala,Toluca,1771,673
+D. Duron,Toluca,1768,673
+Saira López,Necaxa,1755,673
+S. Varela,NA,1639,673
+V. Juarez,Mazatlán,1583,673
+C. Solís De León,NA,1479,673
+A. Curiel,NA,1458,673
+F. Bracamonte,NA,1449,673
+M. Santana,Atlético de San Luis,1438,673
+M. Rausch,León,1435,673
+C. Venegas,NA,1425,673
+Yuliana Mora,Mazatlán,1418,673
+M. Peña,NA,1413,673
+María Sánchez,Toluca,1364,673
+S. Ribeiro,Pumas UNAM,1277,673
+D. Rivera,Atlético de San Luis,1269,673
+B. Ceren,Atlas,1257,673
+S. Muñoz,Tijuana,1255,673
+M. Reyes,Tigres UANL,1245,673
+N. Valadez,Toluca,1243,673
+U. Kanu,Racing Louisville,1208,673
+Y. Barrientos,León,1149,673
+Mariana Ramos,Necaxa,1137,673
+E. Salazar,Pachuca,1122,673
+C. Torres,Mazatlán,1084,673
+M. Maldonado,Atlas,1044,673
+M. Ramos,Mazatlán,1012,673
+K. Gómez,Pumas UNAM,1012,673
+Daniela Sánchez,Querétaro,1012,673
+C. Ihezuo,Monterrey,1010,673
+B. Olivieri,Houston Dash,974,673
+Iraida Fernandez,Necaxa,957,673
+Marcia García,Atlas,916,673
+A. Becerra,Mazatlán,904,673
+Rodrygo,Real Madrid,2253,140
+Ansu Fati,Barcelona,1331,140
+Mikel Oyarzabal,Real Sociedad,1087,140
+R. Lewandowski,Barcelona,2589,140
+Yéremi Pino,Villarreal,2144,140
+Á. Correa,Atlético Madrid,1334,140
+K. Benzema,Real Madrid,1922,140
+N. Fekir,Real Betis,1058,140
+Ferrán Torres,Barcelona,1379,140
+Oihan Sancet,Athletic Bilbao,2296,140
+Gerard Moreno,Villarreal,1185,140
+Gabri Veiga,Celta de Vigo,1994,140
+F. Kessié,Barcelona,905,140
+Álvaro Morata,Atlético Madrid,1885,140
+Y. Carrasco,Atlético Madrid,2093,140
+E. Ünal,Getafe,3100,140
+Borja Iglesias,Real Betis,2210,140
+V. Tsygankov,Girona,1111,140
+Y. Musah,Valencia,2248,140
+Samuel Lino,Valencia,2848,140
+Kang-In Lee,Mallorca,2677,140
+V. Muriqi,Mallorca,2709,140
+Luiz Henrique,Real Betis,1816,140
+Álex Berenguer,Athletic Bilbao,2093,140
+Y. En-Nesyri,Sevilla,1722,140
+N. Jackson,Villarreal,1291,140
+J. Kluivert,Valencia,1218,140
+A. Sørloth,Real Sociedad,2155,140
+L. Ocampos,Sevilla,1174,140
+J. Strand Larsen,Celta de Vigo,1593,140
+E. Touré,Almería,1245,140
+Rafa Mir,Sevilla,1053,140
+V. Castellanos,Girona,2523,140
+Sergio Camello,Rayo Vallecano,2386,140
+L. Suárez,Almería,1386,140
+L. Ramazani,Almería,1486,140
+Borja Mayoral,Getafe,2833,140
+C. Larin,Real Valladolid,1137,140
+Javi Puado,Espanyol,2093,140
+L. Boyé,Elche,2311,140
+Nico Melamed,Espanyol,997,140
+Joselu,Espanyol,2893,140
+Ayoze Pérez,Real Betis,1041,140
+Aimar Oroz,Osasuna,1662,140
+A. Budimir,Osasuna,1638,140
+G. Plata,Real Valladolid,2067,140
+M. Braithwaite,Espanyol,2405,140
+Hugo Duro,Valencia,1436,140
+Carles Pérez,Celta de Vigo,1822,140
+Munir El Haddadi,Getafe,1177,140
+E. Cavani,Valencia,1472,140
+T. Bongonda,Cádiz,1736,140
+José Luis Morales,Villarreal,1381,140
+Pere Milla,Elche,1921,140
+E. Ponce,Elche,1246,140
+Óscar Plano,Real Valladolid,1989,140
+L. de la Torre,Celta de Vigo,1330,140
+Choco Lozano,Cádiz,1410,140
+Roger Martí,Cádiz,1330,140
+Raúl García,Athletic Bilbao,1050,140
+Sergi Guardiola,Cádiz,1443,140
+B. Ocampo,Cádiz,1204,140
+Sergio León,Real Valladolid,1339,140
+C. Stuani,Girona,1075,140
+A. Ndiaye,Mallorca,1140,140
+Gorka Guruzeta,Athletic Bilbao,1304,140
+Rubén Sobrino,Cádiz,2229,140
+Léo Baptistão,Almería,1751,140
+Kike García,Osasuna,1112,140
+Valery Fernández,Girona,978,140
+Iván Martín,Girona,1416,140
+N. Ibáñez,Tigres UANL,3191,262
+V. Guzmán,Guadalajara,3212,262
+J. Quiñones,Atlas,3586,262
+H. Martín,América,3413,262
+J. Rodríguez,América,3026,262
+G. Berterame,Monterrey,3245,262
+E. López,Pachuca,1430,262
+H. Preciado,Santos Laguna,3144,262
+J. Dinenno,Pumas UNAM,3084,262
+R. Aguirre,Monterrey,2622,262
+S. Córdova,Tigres UANL,2990,262
+B. Rodríguez,América,1079,262
+R. Funes Mori,Monterrey,2433,262
+G. Del Prete,Pumas UNAM,2160,262
+C. González,Toluca,3185,262
+E. Aguirre,Santos Laguna,1422,262
+L. Rodríguez,Club Tijuana,2121,262
+J. Cortizo,Monterrey,2146,262
+L. Di Yorio,León,2939,262
+F. Waller,Puebla,2430,262
+J. Correa,Santos Laguna,2259,262
+G. Fernández,Pumas UNAM,2809,262
+M. Estrada,CSKA Sofia,1083,262
+J. Murillo,Atlético de San Luis,2767,262
+J. Herrera,Atlas,2581,262
+F. Batista,Necaxa,2018,262
+A. Canelo,Club Tijuana,3177,262
+I. Brizuela,Guadalajara,1326,262
+M. Giménez,Banfield,1720,262
+A. Hernández,Peñarol,1367,262
+C. Tabó,Cruz Azul,925,262
+Á. Zaldívar,Atlético de San Luis,1685,262
+Paulino De la Fuente,Pachuca,964,262
+R. de La Rosa,Pachuca,1815,262
+J. Furch,Atlas,2299,262
+R. Cisneros,Guadalajara,1180,262
+A. Gignac,Tigres UANL,3861,262
+M. Barragán,Puebla,2729,262
+Diogo,Pumas UNAM,1915,262
+Camilo Sanvezzo,Toluca,1545,262
+A. Sepúlveda,Querétaro,2206,262
+L. Sequeira,Real Oviedo,1075,262
+G. Carneiro,Nacional,1291,262
+T. Molina,Juárez,927,262
+Vitinho,Atlético de San Luis,1976,262
+Léo Bonatini,Atlético de San Luis,1255,262
+E. López,Toluca,1852,262
+Edgar Méndez,Necaxa,1830,262
+J. Zúñiga,Querétaro,1111,262
+M. Silvera,Necaxa,1109,262
+D. Álvarez,Puebla,932,262
+B. Rubio,León,1240,262
+J. Alvarado,Monterrey,957,262
+C. Trejo,Atlas,986,262
+M. Sansores,Puebla,920,262
+A. Nahuelpán,Mazatlán,1505,262
+J. Hernández,Pachuca,1223,262
+J. David,Lille,2984,61
+M. Terrier,Rennes,1387,61
+A. Gouiri,Rennes,2531,61
+A. Kalimuendo,Rennes,1899,61
+F. Balogun,Reims,2814,61
+H. Ekitike,PSG,952,61
+E. Wahi,Montpellier,2451,61
+N. Pépé,Nice,1618,61
+B. Embolo,Monaco,1895,61
+W. Ben Yedder,Monaco,1986,61
+T. Moffi,Nice,2452,61
+L. Openda,Lens,2334,61
+R. Malinovskyi,Olympique Marseille,994,61
+L. Blas,Nantes,2615,61
+M. Dembélé,Olympique Lyonnais,942,61
+K. Diatta,Monaco,2133,61
+G. Laborde,Nice,2536,61
+H. Diallo,Strasbourg,2738,61
+A. Delort,Nantes,1330,61
+A. Lacazette,Olympique Lyonnais,2735,61
+K. Toko Ekambi,Rennes,2124,61
+Mama Baldé,Troyes,2512,61
+B. Dieng,Lorient,1007,61
+R. Faivre,Lorient,1270,61
+S. Mavididi,Montpellier,1162,61
+B. Barcola,Olympique Lyonnais II,1265,61
+Z. Aboukhlal,Toulouse,2476,61
+T. Dallinga,Toulouse,2214,61
+A. Sima,Angers SCO,1587,61
+Mostafa Mohamed,Nantes,1937,61
+S. Mounié,Brest,1385,61
+M. Munetsi,Reims,2507,61
+E. Guessand,Nantes,1343,61
+A. Nordin,Montpellier,2155,61
+A. Thomasson,Lens,2037,61
+Rony Lopes,Troyes,2089,61
+M. Abline,Auxerre,952,61
+I. Ganago,Nantes,1537,61
+I. Koné,Lorient,1357,61
+I. Niane,Angers SCO,974,61
+R. Ripart,Troyes,1414,61
+W. Khazri,Montpellier,1636,61
+M. Niang,Auxerre,1511,61
+J. Le Douaron,Brest,1872,61
+S. Diarra,Lorient,1146,61
+A. Hunou,Angers SCO,2188,61
+M. Pereira Lage,Brest,1252,61
+E. Rashani,Clermont,1976,61
+K. Andrić,Clermont,1496,61
+G. Kyei,Clermont,2047,61
+J. Allevinah,Clermont,2233,61
+M. El Idrissy,Ajaccio,2501,61
+I. Slimani,Brest,1046,61
+K. Gameiro,Strasbourg,2161,61
+A. Onaiwu,Toulouse,1087,61
+G. Perrin,Auxerre,1363,61
+L. Sinayoko,Auxerre,1477,61
+Nuno Da Costa,Auxerre,1808,61
+C. Bayala,Ajaccio,1965,61
+K. Spadanuda,Ajaccio,1016,61
+R. Hamouma,Ajaccio,1155,61
+D. Ouattara,Bournemouth,1633,61
+A. Salama,Angers SCO,1329,61
+D. Doué,Rennes,1166,61
+W. Odobert,Troyes,1703,61
+E. Ben Seghir,Monaco U21,921,61
+E. Haaland,Manchester City,2798,39
+H. Kane,Tottenham Hotspur,3437,39
+M. Rashford,Manchester United,2840,39
+Gabriel Jesus,Arsenal,1938,39
+Mohamed Salah,Liverpool,3268,39
+D. Núñez,Liverpool,1840,39
+Antony,Manchester United,1619,39
+R. Sterling,Chelsea,1778,39
+K. Havertz,Chelsea,2555,39
+C. Gakpo,Liverpool,1322,39
+Heung-Min Son,Tottenham Hotspur,2844,39
+Diogo Jota,Liverpool,1088,39
+Richarlison,Tottenham Hotspur,1033,39
+J. Sancho,Manchester United,1416,39
+I. Toney,Brentford,3246,39
+J. Álvarez,Manchester City,1283,39
+A. Isak,Newcastle United,1276,39
+A. Gordon,Newcastle United,1649,39
+J. Bowen,West Ham United,3270,39
+Joelinton,Newcastle United,2735,39
+M. Almirón,Newcastle United,2310,39
+H. Barnes,Leicester City,2636,39
+O. Watkins,Aston Villa,3138,39
+J. Ramsey,Aston Villa,2585,39
+M. Gibbs-White,Nottingham Forest,3050,39
+B. Aaronson,Leeds United,2481,39
+E. Eze,Crystal Palace,2565,39
+Matheus Cunha,Wolverhampton Wanderers,964,39
+A. Mitrović,Fulham,1966,39
+B. Mbeumo,Brentford,2824,39
+W. Zaha,Crystal Palace,2426,39
+G. Scamacca,West Ham United,1004,39
+D. Calvert-Lewin,Everton,1061,39
+E. Nketiah,Arsenal,1212,39
+L. Sinisterra,Leeds United,938,39
+C. Adams,Southampton,2107,39
+Roberto Firmino,Liverpool,1253,39
+B. Johnson,Nottingham Forest,2956,39
+T. Awoniyi,Nottingham Forest,1170,39
+D. Gray,Everton,2549,39
+P. Daka,Leicester City,1231,39
+D. Solanke,Bournemouth,2795,39
+W. Gnonto,Leeds United,1393,39
+C. Wilson,Newcastle United,1761,39
+K. Iheanacho,Leicester City,1138,39
+O. Édouard,Crystal Palace,1768,39
+D. Ings,West Ham United,1545,39
+Andreas Pereira,Fulham,2853,39
+J. Aribo,Southampton,1245,39
+Y. Wissa,Brentford,1537,39
+N. Maupay,Everton,1170,39
+H. Wilson,Fulham,913,39
+D. James,Fulham,917,39
+A. Armstrong,Southampton,1417,39
+A. Doucouré,Everton,1320,39
+C. Summerville,Leeds United,1570,39
+Hee-Chan Hwang,Wolverhampton Wanderers,1046,39
+C. Wood,Nottingham Forest,923,39
+P. Bamford,Leeds United,1517,39
+Rodrigo,Leeds United,1820,39
+M. Antonio,West Ham United,1811,39
+D. Welbeck,Brighton,1784,39
+J. Ayew,Crystal Palace,2641,39
+Carlos Vinícius,Fulham,1098,39
+K. Moore,Bournemouth,1323,39
+J. Vardy,Leicester City,1781,39
+Diego Costa,Wolverhampton Wanderers,1232,39
+Willian,Fulham,1887,39
+T. Walcott,Southampton,935,39
+D. Ouattara,Bournemouth,1129,39
+Gonçalo Ramos,Benfica,2405,94
+Rafa Silva,Benfica,2350,94
+Vitinha,Olympique Marseille,1209,94
+M. Taremi,Porto,2805,94
+Galeno,Porto,2197,94
+Ricardo Horta,Sporting Braga,2857,94
+Francisco Trincão,Sporting CP,2384,94
+Paulinho,Sporting CP,1491,94
+Fran Navarro,Gil Vicente,3324,94
+Abel Ruiz,Sporting Braga,2230,94
+S. Banza,Sporting Braga,1624,94
+Toni Martínez,Porto,1297,94
+A. Yakubu,Wuhan Three Towns,1370,94
+Gabriel Silva,Santa Clara,2408,94
+Tiago Gouveia,Estoril,2533,94
+André Silva,Vitória Guimarães,1900,94
+Oday Dabbagh,Arouca,1028,94
+Matchoi Djaló,Paços de Ferreira,1416,94
+J. Cádiz,Famalicão,1475,94
+M. Osmajić,Vizela,2219,94
+Matheus Babi,Santa Clara,1492,94
+Anderson Silva,Vitória Guimarães,1521,94
+Y. Njie,Boavista,2305,94
+A. Dobre,Famalicão,1018,94
+Y. Soma,Casa Pia AC,1312,94
+Rildo,Santa Clara,949,94
+R. Boženík,Boavista,1064,94
+Pablo Moreno,Marítimo,984,94
+André Vidigal,Marítimo,2815,94
+Nélson Luz,Vitória Guimarães,1340,94
+Ricardo Mangas,Boavista,2018,94
+Kiko Bondoso,Vizela,3080,94
+Welinton Júnior,Portimonense,2241,94
+J. Tagueu,Al Hazem,1161,94
+K. Zohi,Vizela,1039,94
+Ricardinho,Santa Clara,1954,94
+K. Tagawa,Santa Clara,1325,94
+Héctor Hernández,Chaves,1616,94
+M. Johnston,Vitória Guimarães,1547,94
+A. Bukia,Al Batin,1087,94
+Rodrigo Martins,Estoril,1533,94
+Y. González,Portimonense,1060,94
+B. Riascos,Marítimo,974,94
+E. Boateng,Rio Ave,2035,94
+Euller,Chaves,1158,94
+Clayton Silva,Casa Pia AC,1331,94
+Rafa Mújica,Arouca,1755,94
+A. Issah,Chaves,1513,94
+B. Róchez,Portimonense,1006,94
+Juninho,Chaves,1948,94
+Yago Cariello,Portimonense,1521,94
+Alisson Safira,Vitória Guimarães,943,94
+Antony,Arouca,2561,94
+Adrián Butzke,Paços de Ferreira,1483,94
+L. Ruiz,Rio Ave,1082,94
+André Pereira,Rio Ave,1093,94
+Rafael Martins,Casa Pia AC,1533,94
+Cassiano,Estoril,988,94
+Y. Chermiti,Sporting CP,946,94
+Evanilson,Porto,1458,94
+V. Osimhen,Napoli,2400,135
+L. Martínez,Internazionale,2575,135
+D. Vlahović,Juventus,1918,135
+T. Abraham,Roma,2297,135
+R. Lukaku,Internazionale,1421,135
+R. Højlund,Atalanta,1659,135
+G. Raspadori,Napoli,933,135
+A. Lookman,Atalanta,1740,135
+N. Zaniolo,Galatasaray,955,135
+N. González,Fiorentina,1397,135
+C. De Ketelaere,Milan,1184,135
+M. Zaccagni,Lazio,2639,135
+M. Pašalić,Atalanta,1622,135
+D. Udogie,Udinese,2685,135
+D. Frattesi,Sassuolo,2796,135
+M. Kean,Juventus,948,135
+N. Vlašić,Torino,2574,135
+C. Immobile,Lazio,2001,135
+A. Pinamonti,Sassuolo,2025,135
+J. Ikoné,Fiorentina,1927,135
+F. Miretti,Juventus,1217,135
+B. Dia,Salernitana,2408,135
+J. Correa,Internazionale,926,135
+Arthur Cabral,Fiorentina,1477,135
+Beto,Udinese,2109,135
+C. Kouamé,Fiorentina,1749,135
+M. Barrow,Bologna,1700,135
+Al. Miranchuk,Torino,2005,135
+A. Barák,Fiorentina,1696,135
+D. Zapata,Atalanta,1415,135
+A. Milik,Juventus,1455,135
+A. Petagna,Monza,1515,135
+L. Jović,Fiorentina,1543,135
+A. Belotti,Roma,994,135
+G. Caprari,Monza,2301,135
+K. Piątek,Salernitana,1888,135
+M. Satriano,Empoli,1799,135
+N. Bajrami,Sassuolo,1687,135
+D. Origi,Milan,1040,135
+R. Orsolini,Bologna,1997,135
+M. Arnautović,Bologna,1335,135
+E. Shomurodov,Spezia,960,135
+A. Sanabria,Torino,2214,135
+M. Nzola,Spezia,2483,135
+C. Dessers,Cremonese,1713,135
+Junior Messias,Milan,1391,135
+Dany Mota,Monza,1732,135
+E. Holm,Spezia,1499,135
+F. Bonazzoli,Salernitana,1221,135
+L. Colombo,Lecce,1437,135
+D. Okereke,Cremonese,2165,135
+T. Henry,Hellas Verona,1098,135
+I. Success,Udinese,1944,135
+E. Džeko,Internazionale,1836,135
+L. Ferguson,Bologna,2137,135
+O. Giroud,Milan,2000,135
+K. Agudelo,Spezia,2197,135
+T. Baldanzi,Empoli,1736,135
+N. Cambiaghi,Empoli,999,135
+A. Ceesay,Lecce,1671,135
+M. Gabbiadini,Sampdoria,2105,135
+E. Gyasi,Spezia,2621,135
+F. Đuričić,Sampdoria,2045,135
+A. Colpani,Monza,962,135
+S. Lammers,Sampdoria,2069,135
+M. Léris,Sampdoria,2375,135
+K. Lasagna,Hellas Verona,1704,135
+G. Defrel,Sassuolo,1062,135
+R. Saponara,Fiorentina,1160,135
+F. Caputo,Empoli,2717,135
+F. Di Francesco,Lecce,1967,135
+F. Tsadjout,Cremonese,927,135
+M. Đurić,Hellas Verona,1094,135
+D. Ciofani,Cremonese,976,135

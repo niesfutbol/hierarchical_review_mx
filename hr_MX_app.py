@@ -4,7 +4,7 @@ import requests
 import hierarchical_review_plots as hrp
 
 
-conn = requests.get("http://104.248.109.197:6969/v1/percentile")
+conn = requests.get("http://104.248.109.197:6969/v1/percentile_with_league_id")
 larga = pd.DataFrame.from_dict(conn.json())
 mp = pd.read_csv("static/minutes_played_23.csv")
 
