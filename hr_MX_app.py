@@ -24,7 +24,8 @@ Once the league is configured, in the second tab, we can see the teams in that l
 Once we choose the team, we can see the members of that team in the last tab.
 """
 
-league_id_from_name = {"Primeira Liga": 94}
+league_id_from_name = {"Liga MX": 262}
+list_of_league = list(league_id_from_name.keys())
 league, team, player = st.tabs(["Liga", "Equipo", "Jugador"])
 
 with league:
@@ -46,7 +47,7 @@ with league:
     You will find the full description in the blog notes [The inclination and pressure for Napoles](https://www.nies.futbol/2023/05/la-inclinacion-y-la-presion-para-el.html)
     and [Pressure indices: PPDA and Build-Up Disruption](https://www.nies.futbol/2023/04/indices-de-presion-ppda-y-build-up.html).
     """
-    league_name = st.selectbox("Select a team:", ["Primeira Liga", "Serie A"])
+    league_name = st.selectbox("Select a team:", list_of_league)
     tilt_ppda = pd.read_csv(f"static/xG_build-up_ppda_tilt_{league_id_from_name[league_name]}.csv")
     weighted = pd.read_csv(f"static/weighted_g_and_xg_{league_id_from_name[league_name]}.csv")
     # -------- plot league indices --------
@@ -71,9 +72,8 @@ with team:
     data = pd.read_csv(f"static/played_minutes_{league_id_from_name[league_name]}.csv")
     teams = data.team.unique().tolist()
     teams.sort()
-    colours = {t: c for t, c in zip(weighted.names, weighted.colours)}
     team = st.selectbox("Select a team:", teams)
-    color = colours[team]
+    color = "blues"
     played_minutes = data[data.team == team]
     wy_players = list_of_players_in_ws_and_as(larga, played_minutes)
     # Crear el gráfico de Altair
@@ -91,7 +91,7 @@ with player:
     graph](https://www.nies.futbol/2023/07/grafica-de-desempeno-de-jugadores.html).
     """
     # ------------- game start ------------
-    logo = {94: "logo_primeira", 135: "logo_serie_a"}
+    logo = {262: "logo_liga_mx", 135: "logo_serie_a"}
     radar_player = st.selectbox(f"Select a {team}'s player:", wy_players)
     player_t = larga[larga.Player == radar_player]
     minutes_played = mp[mp.Player == radar_player]["Minutes played"].to_list()[0]
