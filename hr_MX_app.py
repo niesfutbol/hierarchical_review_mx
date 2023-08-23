@@ -18,10 +18,10 @@ def list_of_players_in_ws_and_as(longer, played_minutes):
 
 
 """
-This is a hierarchical review.
-First, we select the league of our interest.
-Once the league is configured, in the second tab, we can see the teams in that league.
-Once we choose the team, we can see the members of that team in the last tab.
+Esta es una revisión a diferentes niveles.
+Primero, seleccionamos la liga.
+Una vez que configuremos la liga, en la segunda pestaña podemos ver los equipos de esa liga.
+Ya con el equipo, podemos seleccionar a los jugadores de la última pestaña.
 """
 
 league_id_from_name = {"Liga MX": 262}
@@ -29,23 +29,25 @@ list_of_league = list(league_id_from_name.keys())
 league, team, player = st.tabs(["Liga", "Equipo", "Jugador"])
 
 with league:
-    st.subheader("Tilt and pressure indices")
+    st.subheader("Inclinación e índices de presión")
     """
-    The tilt tells us about the possession of a team's ball in an area where it can do damage, the last third of the pitch.
-    The definition of tilt is the percentage of total passes that a team made in the final third of the field.
-    For example, suppose that there were ten passes in the last third of the pitch in a game.
-    Let's say the home team made seven passes, and the away team made 3.
-    So the home team's tilt would be 70%, and the away team's 30%.
+    La inclinación nos habla de la posesión del balón que un equipo tiene en una zona en la que puede hacer daño, el último tercio de la cancha.
+    La definición de la inclinación es el porcentaje de los pases totales que hizo un equipo en el último tercio de la cancha.
+    Por ejemplo, supongamos que en un partido hubo en total 10 pases en el último tercio de la cancha.
+    Digamos que el equipo local hizo 7 pases y el equipo visitante hizo 3.
+    Entonces la inclinación del equipo local sería del 70% y del equipo visitante del 30%.
 
-    The PPDA is a metric that we use to evaluate the defensive pressure of a team on the opposing
-    team. The PPDA measures the number of passes the defending team allows before it takes defensive
-    action. These defensive actions can be a steal attempt, an interception, or a foul.
+    El PPDA es una métrica que utilizamos para evaluar la presión defensiva de un equipo sobre el equipo contrario.
+    El PPDA mide la cantidad de pases que permite el equipo defensor antes de que lleve a cabo una acción defensiva.
+    Estas acciones defensivas pueden ser un intento de robo de balón, una intercepción o una falta.
 
-    BDP (Build-Up Disruption) is a metric to measure a team's ability to disrupt the opposing team's
-    build-up game. The name refers to the interruption in the construction phase of the play.
+    La BDP (Build-Up Disruption) es una métrica que utilizamos para medir la capacidad que tiene un
+    equipo para interrumpir el juego de construcción del equipo contrario.
+    El nombre hace referencia a la interrupción en la fase de construcción de la jugada, también
+    conocida como "_build-up_" en inglés.
 
-    You will find the full description in the blog notes [The inclination and pressure for Napoles](https://www.nies.futbol/2023/05/la-inclinacion-y-la-presion-para-el.html)
-    and [Pressure indices: PPDA and Build-Up Disruption](https://www.nies.futbol/2023/04/indices-de-presion-ppda-y-build-up.html).
+    Encontrarás la descripción completa en las notas: [La inclinación y la presión para el Napoles](https://www.nies.futbol/2023/05/la-inclinacion-y-la-presion-para-el.html)
+    e [Índices de presión: PPDA y Build-Up Disruption](https://www.nies.futbol/2023/04/indices-de-presion-ppda-y-build-up.html).
     """
     league_name = st.selectbox("Select a team:", list_of_league)
     tilt_ppda = pd.read_csv(f"static/xG_build-up_ppda_tilt_{league_id_from_name[league_name]}.csv")
@@ -59,15 +61,14 @@ with league:
     st.plotly_chart(weight_plot, use_container_width=True)
 
 with team:
-    st.subheader("Consistency in lineups")
+    st.subheader("Consistencia en las alineaciones")
     """
-    In the figure below, we show a heat map.
-    We can see the team's players (including the substitutes) in the lines.
-    The columns correspond to the matches played.
-    Thus, the color of each box represents the minutes played in a match by each player.
+    En la figura de abajo mostramos un mapa de calor.
+    En los renglones podemos ver a los jugadores del equipo (incluyendo a los sustitutos).
+    Las columnas corresponden a los partidos disputados.
+    Así, el color de cada cuadro representa los minutos disputados en un partido por cada jugador.
 
-    You will find the complete description in the entry [Consistency in
-    lineups](https://www.nies.futbol/2023/08/consistencia-en-las-alineaciones-la.html).
+    Encontrarás la descripción completa en la nota: [Consistencia en las alineaciones](https://www.nies.futbol/2023/08/consistencia-en-las-alineaciones-la.html).
     """
     data = pd.read_csv(f"static/played_minutes_{league_id_from_name[league_name]}.csv")
     teams = data.team.unique().tolist()
@@ -81,14 +82,14 @@ with team:
     st.altair_chart(hm_consistent)
 
 with player:
-    st.subheader("Player performance graph")
+    st.subheader("Gráficas de desempeño")
     """
-    These graphs have a set of metrics selected from artificial intelligence techniques.
-    Each bar represents the relative strength of the player in each of the metrics.
-    The distance from the bar to the center indicates the percentile compared to the complete database.
+    Estas gráficas tienen un conjunto de métricas seleccionadas a partir de técnicas de inteligencia
+    artificial.
+    Cada barra representa la fuerza relativa del jugador en cada una de las métricas.
+    La distancia que existe de la barra al centro indica el percentil comparado con la base de datos completa.
 
-    You will find the full description in the entry [Player performance
-    graph](https://www.nies.futbol/2023/07/grafica-de-desempeno-de-jugadores.html).
+    Encontrarás la descripción completa en la nota: [Gráfica de desempeño de jugadores](https://www.nies.futbol/2023/07/grafica-de-desempeno-de-jugadores.html).
     """
     # ------------- game start ------------
     logo = {262: "logo_liga_mx", 135: "logo_serie_a"}
