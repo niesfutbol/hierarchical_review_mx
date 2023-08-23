@@ -41,7 +41,7 @@ with league:
     El PPDA mide la cantidad de pases que permite el equipo defensor antes de que lleve a cabo una acción defensiva.
     Estas acciones defensivas pueden ser un intento de robo de balón, una intercepción o una falta.
 
-    La BDP (Build-Up Disruption) es una métrica que utilizamos para medir la capacidad que tiene un
+    La BDP (_Build-Up Disruption_) es una métrica que utilizamos para medir la capacidad que tiene un
     equipo para interrumpir el juego de construcción del equipo contrario.
     El nombre hace referencia a la interrupción en la fase de construcción de la jugada, también
     conocida como "_build-up_" en inglés.
