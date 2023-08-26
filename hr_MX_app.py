@@ -19,15 +19,20 @@ def list_of_players_in_ws_and_as(longer, played_minutes):
 
 
 """
-Esta es una revisión a diferentes niveles.
-Primero, seleccionamos la liga.
-Una vez que configuremos la liga, en la segunda pestaña podemos ver los equipos de esa liga.
-Ya con el equipo, podemos seleccionar a los jugadores de la última pestaña.
+El objetivo de este análisis es caracterizar el estilo de los jugadores a partir de sus acciones
+en el campo de juego.
+
+En la primer pestaña encontrarás un resumen visual del desempeño de las jugadoras y jugadores de las
+ligas mexicanas. Estas gráficas mostrarán distintas métricas dependiendo de la categoría a la que
+pertenezca cada jugador.
+
+En la segunda pestaña presentamos un resumen de los detalles técnicos del análisis. En NIES
+esperamos que esta información sea de sus interés.
 """
 
 league_id_from_name = {"Liga MX": 262, "Liga Expansión": 263, "Liga MX Femenil": 673}
 list_of_league = list(league_id_from_name.keys())
-player, otro = st.tabs(["Jugador", "Otro"])
+player, otro = st.tabs(["Jugador", "Explicación"])
 
 with player:
     st.subheader("Gráficas de desempeño")
@@ -66,7 +71,23 @@ with player:
     st.plotly_chart(pizza_plot, use_container_width=True)
 
 with otro:
-    st.subheader("Gráficas de desempeño")
+    st.subheader("Macro grupo")
+    """
+    Dividimos al total de jugadores de la base de datos en cinco grupos. Esta clasificación la
+    hicimos a partir de técnicas de Inteligencia Artificial. Utilizamos más de 100 mediciones
+    que tenemos de cada jugador. Nuestro algoritmo entrenado decidió cuáles eran las variables
+    relevantes para agrupar jugadores dependiendo de sus números.
+
+    Utilizamos la base completa que incluye los datos de cerca de 8,000 desempeños anuales, de
+    difernetes ligas. Tenemos 3 temporadas de las principales ligas europeas y ligas mexicanas.
+    Aquí tenemos dos restricciones, solo aparecen jugadores con más de 900 minutos disputados en una
+    temporada y quitamos a los porteros.
+    
+    En la figura de abajo podemos ver los cinco macrogrupos en los que clasificamos a los jugadores.
+    Cada punto representa el desempeño anual de algún jugador. Así, podríamos tener varios puntos
+    para un solo jugador, un punto por cada temporada de la que tenemos registro.
+    """
+    st.image("static/figurita_soccerment.png")
 
 
 st.markdown("Hecho con 💖 por [nies.futbol](https://nies.futbol)")
