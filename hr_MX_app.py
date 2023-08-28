@@ -27,7 +27,7 @@ ligas mexicanas. Estas gráficas mostrarán distintas métricas dependiendo de l
 pertenezca cada jugador.
 
 En la segunda pestaña presentamos un resumen de los detalles técnicos del análisis. En NIES
-esperamos que esta información sea de sus interés.
+esperamos que esta información sea de su interés.
 """
 
 league_id_from_name = {"Liga MX": 262, "Liga Expansión": 263, "Liga MX Femenil": 673}
