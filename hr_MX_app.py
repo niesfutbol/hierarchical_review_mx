@@ -59,7 +59,7 @@ with player:
     """
     # ------------- game start ------------
     logo = {262: "logo_liga_mx", 263: "logo_expansion", 673: "logo_liga_mx_femenil"}
-    radar_player = st.selectbox(f"Seleccciona un jugador:", wy_players)
+    radar_player = st.selectbox(f"Selecciona un jugador:", wy_players)
     player_id = league_players[league_players.Player == radar_player]["ID"].values[0]
     minutes_played = league_players[league_players.Player == radar_player]["Minutes played"].values[0]
     team_name = league_players[league_players.Player == radar_player]["Team"].values[0]
