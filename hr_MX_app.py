@@ -2,12 +2,17 @@ import pandas as pd
 import streamlit as st
 import requests
 import hierarchical_review_plots as hrp
+import plotly.express as px
+from PIL import Image
 
 
 conn = requests.get("http://104.248.109.197:6969/v1/percentile_with_league_id")
 larga = pd.DataFrame.from_dict(conn.json())
 mp = pd.read_csv("static/minutes_played_23.csv")
-names_teams = pd.read_csv("static/names_262_2022.csv")
+groups_and_positions = pd.read_csv("static/groups_players_and_x_y.csv")
+groups_and_positions["grupos"] = [
+    chr(64 + grupo) for grupo in groups_and_positions["grupos"].to_list()
+]
 
 
 def list_of_players_in_ws_and_as(longer, played_minutes):
@@ -55,13 +60,13 @@ with player:
     # ------------- game start ------------
     logo = {262: "logo_liga_mx", 263: "logo_expansion", 673: "logo_liga_mx_femenil"}
     radar_player = st.selectbox(f"Seleccciona un jugador:", wy_players)
-    player_t = league_players[league_players.Player == radar_player]
-    minutes_played = mp[mp.Player == radar_player]["Minutes played"].values[0]
-    team_name = mp[(mp.Player == radar_player) & (mp.league_id == league_id)]["Team"].values[0]
+    player_id = league_players[league_players.Player == radar_player]["ID"].values[0]
+    minutes_played = league_players[league_players.Player == radar_player]["Minutes played"].values[0]
+    team_name = league_players[league_players.Player == radar_player]["Team"].values[0]
     scotland_logo = logo[league_id]
     ac_milan_logo = f"logo_{team_id}"
-    pizza_plot = hrp.make_bar_plot_player(
-        larga[(larga.Player == radar_player) & (larga.league_id == league_id)],
+    pizza_plot = hrp.make_bar_plot_player_2(
+        larga[larga.ID == player_id],
         radar_player,
         minutes_played,
         team_name,
@@ -87,7 +92,31 @@ with otro:
     Cada punto representa el desempeño anual de algún jugador. Así, podríamos tener varios puntos
     para un solo jugador, un punto por cada temporada de la que tenemos registro.
     """
-    st.image("static/figurita_soccerment.png")
+    weight_plot = px.scatter(
+        groups_and_positions,
+        x="x",
+        y="y",
+        color="grupos",
+        labels={
+            "grupos": "Grupo",
+            "year": "Temporada",
+            "y": "",
+            "x": "",
+        },
+        hover_name="Player",
+        hover_data={"year": True, "x": False, "y": False},
+    ).add_layout_image(
+        dict(
+            source=Image.open("static/logos/logo_nies.png"),
+            xref="paper",
+            yref="paper",
+            x=0.7,
+            y=0.2,
+            sizex=0.2,
+            sizey=0.2,
+        )
+    )
+    st.plotly_chart(weight_plot, use_container_width=True)
 
 
 st.markdown("Hecho con 💖 por [nies.futbol](https://nies.futbol)")
