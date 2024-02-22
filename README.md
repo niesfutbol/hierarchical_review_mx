@@ -14,3 +14,7 @@ Then http://localhost:8502/
 ``` sh
 docker-compose run nies
 ```
+
+### Preview
+![image](https://github.com/niesfutbol/hierarchical_review_mx/assets/35377740/ed85e676-0418-4b22-ac36-8c010efad8b4)
+
