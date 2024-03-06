@@ -14,7 +14,7 @@ groups_and_positions["grupos"] = [
     chr(64 + grupo) for grupo in groups_and_positions["grupos"].to_list()
 ]
 
-PAGE_TITLE = "Liga MX"
+PAGE_TITLE = "Liga MX | NIES"
 PAGE_ICON = "🇲🇽"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
