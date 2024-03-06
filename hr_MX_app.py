@@ -14,6 +14,9 @@ groups_and_positions["grupos"] = [
     chr(64 + grupo) for grupo in groups_and_positions["grupos"].to_list()
 ]
 
+PAGE_TITLE = "Liga MX"
+PAGE_ICON = "🇲🇽"
+st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
 def list_of_players_in_ws_and_as(longer, played_minutes):
     return [
