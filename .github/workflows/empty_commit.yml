@@ -15,7 +15,10 @@ jobs:
     - run: git config user.name "Nepo Rojas"
 
     - name: Create Empty Commit
-      run: git commit --allow-empty -m "⌛🤖 Empty commit"
+      run: echo $(date) > log_automatic_commit.tex
+      run: git add log_automatic_commit.tex
+      run: git commit -m "⌛🤖 Log automatic commit"
+
 
     - name: Push Empty Commit
       run: git push origin develop  # Change 'main' to your branch name
