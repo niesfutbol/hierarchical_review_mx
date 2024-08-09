@@ -18,6 +18,7 @@ PAGE_TITLE = "Liga MX | NIES"
 PAGE_ICON = "🇲🇽"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
+
 def list_of_players_in_ws_and_as(longer, played_minutes):
     return [
         jugador
@@ -64,7 +65,9 @@ with player:
     logo = {262: "logo_liga_mx", 263: "logo_expansion", 673: "logo_liga_mx_femenil"}
     radar_player = st.selectbox(f"Selecciona un jugador:", wy_players)
     player_id = league_players[league_players.Player == radar_player]["ID"].values[0]
-    minutes_played = league_players[league_players.Player == radar_player]["Minutes played"].values[0]
+    minutes_played = league_players[league_players.Player == radar_player]["Minutes played"].values[
+        0
+    ]
     team_name = league_players[league_players.Player == radar_player]["Team"].values[0]
     scotland_logo = logo[league_id]
     ac_milan_logo = f"logo_{team_id}"
