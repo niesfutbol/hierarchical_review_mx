@@ -16,8 +16,8 @@ jobs:
 
     - name: Create Empty Commit
       run: echo $(date) > log_automatic_commit.tex
-      run: git add log_automatic_commit.tex
-      run: git commit -m "⌛🤖 Log automatic commit"
+    - run: git add log_automatic_commit.tex
+    - run: git commit -m "⌛🤖 Log automatic commit"
 
 
     - name: Push Empty Commit
