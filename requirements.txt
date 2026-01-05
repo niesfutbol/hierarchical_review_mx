@@ -1,4 +1,4 @@
-altair
+altair==4.2.0
 hierarchical-review-plots
 pandas
 Pillow
